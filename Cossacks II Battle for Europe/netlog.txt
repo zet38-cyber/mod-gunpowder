@@ -1,0 +1,400 @@
+[2026-10-13 20:43:00.052][NET] Net.ini not found at 'C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe\Net.ini' - using defaults
+[2026-10-13 20:43:00.052][NET] ----- NETCODE_FIX init (exe dir: C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe) -----
+[2026-10-13 20:43:00.052][NET] OS: 6.2 build 9200
+[2026-10-13 20:43:00.057][NET] NAT: host='HOME-PC' enumerated 2 local IPv4 addresses
+[2026-10-13 20:43:00.057][NET] NAT: local #0 = 26.125.219.15
+[2026-10-13 20:43:00.057][NET] NAT: local #1 = 192.168.0.104
+[2026-10-13 20:43:00.058][NET] IPCORE.InitNetwork() -> OK
+[2026-10-13 20:43:01.155][NET] Host starting on UDP port 34000
+[2026-10-13 20:43:01.155][NET] CreateSession -> InitServer('2.09 [6AA4]') -> OK (GSC=0)
+[2026-10-13 20:43:01.155][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-13 20:43:01.155][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-13 20:43:01.155][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-13 20:43:01.156][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-13 20:43:01.156][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-13 20:43:01.159][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-13 20:43:02.954][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-13 20:43:02.954][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-13 20:43:03.006][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-13 20:43:03.006][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-13 20:43:03.017][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-13 20:44:34.118][NET] Host stopped
+[2026-10-13 20:44:34.159][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-13 20:45:29.244][NET] ----- NETCODE_FIX shutdown -----
+[2026-10-13 20:46:53.546][NET] Net.ini not found at 'C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe\Net.ini' - using defaults
+[2026-10-13 20:46:53.546][NET] ----- NETCODE_FIX init (exe dir: C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe) -----
+[2026-10-13 20:46:53.546][NET] OS: 6.2 build 9200
+[2026-10-13 20:46:53.549][NET] NAT: host='HOME-PC' enumerated 2 local IPv4 addresses
+[2026-10-13 20:46:53.549][NET] NAT: local #0 = 26.125.219.15
+[2026-10-13 20:46:53.549][NET] NAT: local #1 = 192.168.0.104
+[2026-10-13 20:46:53.550][NET] IPCORE.InitNetwork() -> OK
+[2026-10-13 20:46:54.923][NET] Host starting on UDP port 34000
+[2026-10-13 20:46:54.923][NET] CreateSession -> InitServer('2.09 [FF73]') -> OK (GSC=0)
+[2026-10-13 20:46:54.923][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-13 20:46:54.924][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-13 20:46:54.924][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-13 20:46:54.924][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-13 20:46:54.924][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-13 20:46:54.927][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-13 20:46:56.747][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-13 20:46:56.747][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-13 20:46:56.802][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-13 20:46:56.802][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-13 20:46:56.815][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-13 21:14:54.067][NET] Host stopped
+[2026-10-13 21:14:54.112][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-13 21:14:56.238][NET] Host starting on UDP port 34000
+[2026-10-13 21:14:56.238][NET] CreateSession -> InitServer('2.09 [FF73]') -> OK (GSC=0)
+[2026-10-13 21:14:56.238][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-13 21:14:56.238][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-13 21:14:56.238][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-13 21:14:56.239][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-13 21:14:56.239][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-13 21:14:56.244][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-13 21:14:58.049][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-13 21:14:58.049][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-13 21:14:58.107][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-13 21:14:58.107][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-13 21:14:58.118][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-13 22:01:42.877][NET] Host stopped
+[2026-10-13 22:01:42.911][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-13 22:01:46.677][NET] ----- NETCODE_FIX shutdown -----
+[2026-10-14 20:47:36.601][NET] Net.ini not found at 'C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe\Net.ini' - using defaults
+[2026-10-14 20:47:36.601][NET] ----- NETCODE_FIX init (exe dir: C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe) -----
+[2026-10-14 20:47:36.601][NET] OS: 6.2 build 9200
+[2026-10-14 20:47:36.606][NET] NAT: host='HOME-PC' enumerated 2 local IPv4 addresses
+[2026-10-14 20:47:36.606][NET] NAT: local #0 = 26.125.219.15
+[2026-10-14 20:47:36.606][NET] NAT: local #1 = 192.168.0.104
+[2026-10-14 20:47:36.606][NET] IPCORE.InitNetwork() -> OK
+[2026-10-14 20:47:37.657][NET] Host starting on UDP port 34000
+[2026-10-14 20:47:37.657][NET] CreateSession -> InitServer('2.10 [FF73]') -> OK (GSC=0)
+[2026-10-14 20:47:37.657][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-14 20:47:37.658][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-14 20:47:37.658][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-14 20:47:37.658][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-14 20:47:37.658][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-14 20:47:37.661][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-14 20:47:39.480][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-14 20:47:39.480][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-14 20:47:39.538][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-14 20:47:39.538][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-14 20:47:39.547][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-14 20:51:21.281][NET] Net.ini not found at 'C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe\Net.ini' - using defaults
+[2026-10-14 20:51:21.281][NET] ----- NETCODE_FIX init (exe dir: C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe) -----
+[2026-10-14 20:51:21.281][NET] OS: 6.2 build 9200
+[2026-10-14 20:51:21.284][NET] NAT: host='HOME-PC' enumerated 2 local IPv4 addresses
+[2026-10-14 20:51:21.284][NET] NAT: local #0 = 26.125.219.15
+[2026-10-14 20:51:21.284][NET] NAT: local #1 = 192.168.0.104
+[2026-10-14 20:51:21.285][NET] IPCORE.InitNetwork() -> OK
+[2026-10-14 20:51:22.707][NET] Host starting on UDP port 34000
+[2026-10-14 20:51:22.707][NET] CreateSession -> InitServer('2.10 [FF73]') -> OK (GSC=0)
+[2026-10-14 20:51:22.707][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-14 20:51:22.707][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-14 20:51:22.707][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-14 20:51:22.708][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-14 20:51:22.708][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-14 20:51:22.712][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-14 20:51:24.514][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-14 20:51:24.514][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-14 20:51:24.524][NET] UPnP: port 34000 already mapped to us; refreshing
+[2026-10-14 20:51:24.610][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-14 20:51:24.610][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-14 20:51:24.618][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-14 20:51:27.969][NET] Host stopped
+[2026-10-14 20:51:28.010][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-14 20:51:39.440][NET] Host starting on UDP port 34000
+[2026-10-14 20:51:39.440][NET] CreateSession -> InitServer('2.10 [FF73]') -> OK (GSC=0)
+[2026-10-14 20:51:39.440][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-14 20:51:39.441][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-14 20:51:39.441][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-14 20:51:39.442][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-14 20:51:39.442][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-14 20:51:39.444][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-14 20:51:41.263][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-14 20:51:41.263][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-14 20:51:41.306][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-14 20:51:41.306][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-14 20:51:41.314][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-14 21:00:38.714][NET] Host stopped
+[2026-10-14 21:00:38.753][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-14 21:00:48.067][NET] Host starting on UDP port 34000
+[2026-10-14 21:00:48.067][NET] CreateSession -> InitServer('2.10 [FF73]') -> OK (GSC=0)
+[2026-10-14 21:00:48.067][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-14 21:00:48.067][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-14 21:00:48.067][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-14 21:00:48.068][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-14 21:00:48.068][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-14 21:00:48.071][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-14 21:00:49.881][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-14 21:00:49.881][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-14 21:00:49.933][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-14 21:00:49.933][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-14 21:00:49.947][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-14 22:07:06.902][NET] Host stopped
+[2026-10-14 22:07:06.941][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-14 22:07:10.188][NET] ----- NETCODE_FIX shutdown -----
+[2026-10-15 20:26:10.400][NET] Net.ini not found at 'C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe\Net.ini' - using defaults
+[2026-10-15 20:26:10.400][NET] ----- NETCODE_FIX init (exe dir: C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe) -----
+[2026-10-15 20:26:10.400][NET] OS: 6.2 build 9200
+[2026-10-15 20:26:10.406][NET] NAT: host='HOME-PC' enumerated 2 local IPv4 addresses
+[2026-10-15 20:26:10.406][NET] NAT: local #0 = 26.125.219.15
+[2026-10-15 20:26:10.407][NET] NAT: local #1 = 192.168.0.104
+[2026-10-15 20:26:10.407][NET] IPCORE.InitNetwork() -> OK
+[2026-10-15 20:26:11.521][NET] Host starting on UDP port 34000
+[2026-10-15 20:26:11.522][NET] CreateSession -> InitServer('2.11 [FF73]') -> OK (GSC=0)
+[2026-10-15 20:26:11.522][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-15 20:26:11.522][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-15 20:26:11.522][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-15 20:26:11.523][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-15 20:26:11.523][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-15 20:26:11.525][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-15 20:26:13.349][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-15 20:26:13.349][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-15 20:26:13.393][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-15 20:26:13.393][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-15 20:26:13.400][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-15 21:11:46.154][NET] Host stopped
+[2026-10-15 21:11:46.195][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-15 21:14:31.574][NET] Host starting on UDP port 34000
+[2026-10-15 21:14:31.574][NET] CreateSession -> InitServer('2.11 [FF73]') -> OK (GSC=0)
+[2026-10-15 21:14:31.574][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-15 21:14:31.574][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-15 21:14:31.574][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-15 21:14:31.575][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-15 21:14:31.575][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-15 21:14:31.578][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-15 21:14:33.372][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-15 21:14:33.372][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-15 21:14:33.420][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-15 21:14:33.420][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-15 21:14:33.434][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-15 21:43:29.430][NET] Host stopped
+[2026-10-15 21:43:29.481][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-15 21:43:33.299][NET] ----- NETCODE_FIX shutdown -----
+[2026-10-16 17:30:17.729][NET] Net.ini not found at 'C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe\Net.ini' - using defaults
+[2026-10-16 17:30:17.729][NET] ----- NETCODE_FIX init (exe dir: C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe) -----
+[2026-10-16 17:30:17.729][NET] OS: 6.2 build 9200
+[2026-10-16 17:30:17.732][NET] NAT: host='HOME-PC' enumerated 2 local IPv4 addresses
+[2026-10-16 17:30:17.732][NET] NAT: local #0 = 26.125.219.15
+[2026-10-16 17:30:17.732][NET] NAT: local #1 = 192.168.0.104
+[2026-10-16 17:30:17.733][NET] IPCORE.InitNetwork() -> OK
+[2026-10-16 17:50:25.866][NET] ----- NETCODE_FIX shutdown -----
+[2026-10-17 00:12:47.938][NET] Net.ini not found at 'C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe\Net.ini' - using defaults
+[2026-10-17 00:12:47.938][NET] ----- NETCODE_FIX init (exe dir: C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe) -----
+[2026-10-17 00:12:47.938][NET] OS: 6.2 build 9200
+[2026-10-17 00:12:47.944][NET] NAT: host='HOME-PC' enumerated 2 local IPv4 addresses
+[2026-10-17 00:12:47.944][NET] NAT: local #0 = 26.125.219.15
+[2026-10-17 00:12:47.944][NET] NAT: local #1 = 192.168.0.104
+[2026-10-17 00:12:47.944][NET] IPCORE.InitNetwork() -> OK
+[2026-10-17 00:12:49.308][NET] Host starting on UDP port 34000
+[2026-10-17 00:12:49.308][NET] CreateSession -> InitServer('2.11 [FF73]') -> OK (GSC=0)
+[2026-10-17 00:12:49.309][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-17 00:12:49.309][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-17 00:12:49.309][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-17 00:12:49.310][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-17 00:12:49.310][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-17 00:12:49.312][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-17 00:12:51.124][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-17 00:12:51.124][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-17 00:12:51.176][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-17 00:12:51.176][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-17 00:12:51.185][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-17 00:18:33.090][NET] Host stopped
+[2026-10-17 00:18:33.129][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-17 00:18:35.943][NET] ----- NETCODE_FIX shutdown -----
+[2026-10-17 09:19:11.107][NET] Net.ini not found at 'C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe\Net.ini' - using defaults
+[2026-10-17 09:19:11.107][NET] ----- NETCODE_FIX init (exe dir: C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe) -----
+[2026-10-17 09:19:11.107][NET] OS: 6.2 build 9200
+[2026-10-17 09:19:11.111][NET] NAT: host='HOME-PC' enumerated 2 local IPv4 addresses
+[2026-10-17 09:19:11.111][NET] NAT: local #0 = 26.125.219.15
+[2026-10-17 09:19:11.111][NET] NAT: local #1 = 192.168.0.104
+[2026-10-17 09:19:11.112][NET] IPCORE.InitNetwork() -> OK
+[2026-10-17 09:19:13.333][NET] Host starting on UDP port 34000
+[2026-10-17 09:19:13.333][NET] CreateSession -> InitServer('2.14 [FF73]') -> OK (GSC=0)
+[2026-10-17 09:19:13.333][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-17 09:19:13.334][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-17 09:19:13.334][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-17 09:19:13.334][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-17 09:19:13.335][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-17 09:19:13.337][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-17 09:19:15.147][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-17 09:19:15.147][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-17 09:19:15.194][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-17 09:19:15.194][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-17 09:19:15.203][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-17 09:26:54.475][NET] Host stopped
+[2026-10-17 09:26:54.514][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-17 10:27:08.400][NET] ----- NETCODE_FIX shutdown -----
+[2026-10-17 20:15:19.090][NET] Net.ini not found at 'C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe\Net.ini' - using defaults
+[2026-10-17 20:15:19.090][NET] ----- NETCODE_FIX init (exe dir: C:\Program Files (x86)\Steam\steamapps\common\Cossacks II Battle for Europe) -----
+[2026-10-17 20:15:19.090][NET] OS: 6.2 build 9200
+[2026-10-17 20:15:19.094][NET] NAT: host='HOME-PC' enumerated 2 local IPv4 addresses
+[2026-10-17 20:15:19.094][NET] NAT: local #0 = 26.125.219.15
+[2026-10-17 20:15:19.094][NET] NAT: local #1 = 192.168.0.104
+[2026-10-17 20:15:19.094][NET] IPCORE.InitNetwork() -> OK
+[2026-10-17 20:15:20.366][NET] Host starting on UDP port 34000
+[2026-10-17 20:15:20.366][NET] CreateSession -> InitServer('2.15 [FF73]') -> OK (GSC=0)
+[2026-10-17 20:15:20.366][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-17 20:15:20.367][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-17 20:15:20.367][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-17 20:15:20.367][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-17 20:15:20.367][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-17 20:15:20.371][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-17 20:15:22.195][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-17 20:15:22.195][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-17 20:15:22.239][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-17 20:15:22.239][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-17 20:15:22.245][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-17 20:28:51.599][NET] Host stopped
+[2026-10-17 20:28:51.636][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-17 20:28:53.436][NET] Host starting on UDP port 34000
+[2026-10-17 20:28:53.436][NET] CreateSession -> InitServer('2.15 [FF73]') -> OK (GSC=0)
+[2026-10-17 20:28:53.436][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-17 20:28:53.437][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-17 20:28:53.437][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-17 20:28:53.438][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-17 20:28:53.438][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-17 20:28:53.440][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-17 20:28:55.239][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-17 20:28:55.239][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-17 20:28:55.298][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-17 20:28:55.298][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-17 20:28:55.313][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-17 20:31:16.011][NET] Host stopped
+[2026-10-17 20:31:16.050][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-17 20:31:17.715][NET] Host starting on UDP port 34000
+[2026-10-17 20:31:17.716][NET] CreateSession -> InitServer('2.15 [FF73]') -> OK (GSC=0)
+[2026-10-17 20:31:17.716][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-17 20:31:17.716][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-17 20:31:17.716][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-17 20:31:17.716][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-17 20:31:17.716][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-17 20:31:17.721][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-17 20:31:19.512][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-17 20:31:19.512][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-17 20:31:19.561][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-17 20:31:19.561][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-17 20:31:19.570][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-17 20:31:42.595][NET] Host stopped
+[2026-10-17 20:31:42.633][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-17 20:31:43.815][NET] Host starting on UDP port 34000
+[2026-10-17 20:31:43.815][NET] CreateSession -> InitServer('2.15 [FF73]') -> OK (GSC=0)
+[2026-10-17 20:31:43.815][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-17 20:31:43.816][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-17 20:31:43.816][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-17 20:31:43.816][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-17 20:31:43.816][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-17 20:31:43.819][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-17 20:31:45.632][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-17 20:31:45.632][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-17 20:31:45.676][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-17 20:31:45.676][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-17 20:31:45.689][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-17 20:32:54.969][NET] Host stopped
+[2026-10-17 20:32:55.009][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-17 20:32:56.489][NET] Host starting on UDP port 34000
+[2026-10-17 20:32:56.489][NET] CreateSession -> InitServer('2.15 [FF73]') -> OK (GSC=0)
+[2026-10-17 20:32:56.489][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-17 20:32:56.490][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-17 20:32:56.490][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-17 20:32:56.490][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-17 20:32:56.490][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-17 20:32:56.500][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-17 20:32:58.306][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-17 20:32:58.306][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-17 20:32:58.353][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-17 20:32:58.353][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-17 20:32:58.367][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-17 20:33:20.751][NET] Host stopped
+[2026-10-17 20:33:20.791][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-17 20:33:24.643][NET] Host starting on UDP port 34000
+[2026-10-17 20:33:24.644][NET] CreateSession -> InitServer('2.15 [FF73]') -> OK (GSC=0)
+[2026-10-17 20:33:24.644][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-17 20:33:24.644][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-17 20:33:24.644][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-17 20:33:24.644][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-17 20:33:24.645][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-17 20:33:24.656][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-17 20:33:26.464][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-17 20:33:26.464][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-17 20:33:26.509][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-17 20:33:26.509][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-17 20:33:26.518][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-17 20:33:50.759][NET] Host stopped
+[2026-10-17 20:33:50.797][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-17 20:33:52.297][NET] Host starting on UDP port 34000
+[2026-10-17 20:33:52.297][NET] CreateSession -> InitServer('2.15 [FF73]') -> OK (GSC=0)
+[2026-10-17 20:33:52.297][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-17 20:33:52.297][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-17 20:33:52.297][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-17 20:33:52.298][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-17 20:33:52.298][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-17 20:33:52.304][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-17 20:33:54.104][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-17 20:33:54.104][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-17 20:33:54.156][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-17 20:33:54.156][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-17 20:33:54.166][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-17 20:34:15.474][NET] Host stopped
+[2026-10-17 20:34:15.514][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-17 20:34:16.610][NET] Host starting on UDP port 34000
+[2026-10-17 20:34:16.610][NET] CreateSession -> InitServer('2.15 [FF73]') -> OK (GSC=0)
+[2026-10-17 20:34:16.610][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-17 20:34:16.610][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-17 20:34:16.610][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-17 20:34:16.611][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-17 20:34:16.611][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-17 20:34:16.616][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-17 20:34:18.424][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-17 20:34:18.424][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-17 20:34:18.469][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-17 20:34:18.469][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-17 20:34:18.481][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-17 20:34:34.127][NET] Host stopped
+[2026-10-17 20:34:34.169][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-17 20:41:09.207][NET] Host starting on UDP port 34000
+[2026-10-17 20:41:09.207][NET] CreateSession -> InitServer('2.15 [FF73]') -> OK (GSC=0)
+[2026-10-17 20:41:09.207][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-17 20:41:09.207][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-17 20:41:09.207][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-17 20:41:09.208][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-17 20:41:09.208][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-17 20:41:09.224][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-17 20:41:11.018][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-17 20:41:11.018][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-17 20:41:11.063][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-17 20:41:11.063][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-17 20:41:11.072][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-17 20:57:01.545][NET] Host stopped
+[2026-10-17 20:57:01.586][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-17 20:57:02.782][NET] Host starting on UDP port 34000
+[2026-10-17 20:57:02.782][NET] CreateSession -> InitServer('2.15 [FF73]') -> OK (GSC=0)
+[2026-10-17 20:57:02.782][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-17 20:57:02.783][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-17 20:57:02.783][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-17 20:57:02.783][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-17 20:57:02.784][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-17 20:57:02.786][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-17 20:57:04.595][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-17 20:57:04.595][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-17 20:57:04.650][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-17 20:57:04.650][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-17 20:57:04.663][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-17 20:58:10.213][NET] Host stopped
+[2026-10-17 20:58:10.254][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-17 20:58:11.982][NET] Host starting on UDP port 34000
+[2026-10-17 20:58:11.982][NET] CreateSession -> InitServer('2.15 [FF73]') -> OK (GSC=0)
+[2026-10-17 20:58:11.982][NET] Host up: advertised=(unknown) port=34000 localMatch=0 isOverNAT=0
+[2026-10-17 20:58:11.982][NET] UPnP: discovering IGD for UDP 34000 (lease=0)...
+[2026-10-17 20:58:11.982][NET] UPnP: M-SEARCH across 2 adapter(s)
+[2026-10-17 20:58:11.983][NET] UPnP:   adapter 26.125.219.15 - M-SEARCH sent
+[2026-10-17 20:58:11.983][NET] UPnP:   adapter 192.168.0.104 - M-SEARCH sent
+[2026-10-17 20:58:11.986][NET] UPnP: SSDP IGD candidate from 192.168.0.1 LOCATION=http://192.168.0.1:1900/gatedesc.xml
+[2026-10-17 20:58:13.779][NET] UPnP: candidate 0 picked: service=urn:schemas-upnp-org:service:WANIPConnection:1 controlURL=http://192.168.0.1:1900/upnp/control/WANIPConn1
+[2026-10-17 20:58:13.779][NET] UPnP: internal=192.168.0.104 external=34000
+[2026-10-17 20:58:13.831][NET] UPnP: AddPortMapping OK (ext UDP 34000 -> 192.168.0.104:34000)
+[2026-10-17 20:58:13.831][NET] Reachability: reachable - direct hosting should work [upnp-ok]
+[2026-10-17 20:58:13.845][NET] UPnP: router reports external IP = 46.236.182.230
+[2026-10-17 21:32:13.674][NET] Host stopped
+[2026-10-17 21:32:13.717][NET] UPnP: DeletePortMapping OK (UDP 34000)
+[2026-10-17 21:32:16.141][NET] ----- NETCODE_FIX shutdown -----

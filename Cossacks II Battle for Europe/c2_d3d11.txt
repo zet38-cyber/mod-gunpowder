@@ -1,0 +1,414 @@
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 21%, free RAM 12767 of 16331 MB, free commit 14413 MB, free address space 2549 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 scene device ready
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 33%, free RAM 10868 of 16331 MB, free commit 11978 MB, free address space 2549 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 21%, free RAM 12885 of 16331 MB, free commit 14552 MB, free address space 2545 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 25%, free RAM 12228 of 16331 MB, free commit 13773 MB, free address space 2773 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 24%, free RAM 12321 of 16331 MB, free commit 14113 MB, free address space 2751 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 34%, free RAM 10701 of 16331 MB, free commit 12049 MB, free address space 2747 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 26%, free RAM 11948 of 16331 MB, free commit 13169 MB, free address space 2552 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 27%, free RAM 11818 of 16331 MB, free commit 13143 MB, free address space 2550 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 25%, free RAM 12126 of 16331 MB, free commit 13805 MB, free address space 2596 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 29%, free RAM 11590 of 16331 MB, free commit 13344 MB, free address space 2596 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 51%, free RAM 7962 of 16331 MB, free commit 8243 MB, free address space 2552 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 47%, free RAM 8512 of 16331 MB, free commit 8723 MB, free address space 2552 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 21%, free RAM 12857 of 16331 MB, free commit 14624 MB, free address space 2556 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 37%, free RAM 10186 of 16331 MB, free commit 11278 MB, free address space 2556 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 36%, free RAM 10353 of 16331 MB, free commit 11633 MB, free address space 2556 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 27%, free RAM 11814 of 16331 MB, free commit 13162 MB, free address space 2597 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 24%, free RAM 12298 of 16331 MB, free commit 13954 MB, free address space 2600 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 33%, free RAM 10779 of 16331 MB, free commit 12105 MB, free address space 2601 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 33%, free RAM 10786 of 16331 MB, free commit 12131 MB, free address space 2601 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 51%, free RAM 7888 of 16331 MB, free commit 7812 MB, free address space 2558 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 37%, free RAM 10275 of 16331 MB, free commit 11867 MB, free address space 2558 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 24%, free RAM 12314 of 16331 MB, free commit 13725 MB, free address space 2603 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 25%, free RAM 12185 of 16331 MB, free commit 13964 MB, free address space 2603 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 40%, free RAM 9659 of 16331 MB, free commit 11039 MB, free address space 2555 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 33%, free RAM 10920 of 16331 MB, free commit 12232 MB, free address space 2561 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 33%, free RAM 10885 of 16331 MB, free commit 12068 MB, free address space 2561 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 95%, free RAM 769 of 16331 MB, free commit 4661 MB, free address space 2561 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 40%, free RAM 9641 of 16331 MB, free commit 10316 MB, free address space 2553 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 37%, free RAM 10178 of 16331 MB, free commit 10887 MB, free address space 2553 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 30%, free RAM 11382 of 16331 MB, free commit 11342 MB, free address space 2598 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 30%, free RAM 11366 of 16331 MB, free commit 12215 MB, free address space 2598 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 35%, free RAM 10588 of 16331 MB, free commit 11368 MB, free address space 2598 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 38%, free RAM 10120 of 16331 MB, free commit 10926 MB, free address space 2587 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 37%, free RAM 10126 of 16331 MB, free commit 10840 MB, free address space 2587 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 38%, free RAM 10046 of 16331 MB, free commit 10725 MB, free address space 2587 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 21%, free RAM 12836 of 16331 MB, free commit 14608 MB, free address space 2552 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 22%, free RAM 12696 of 16331 MB, free commit 14484 MB, free address space 2551 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 21%, free RAM 12754 of 16331 MB, free commit 14425 MB, free address space 2547 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 22%, free RAM 12668 of 16331 MB, free commit 14394 MB, free address space 2551 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 36%, free RAM 10393 of 16331 MB, free commit 11629 MB, free address space 2551 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 44%, free RAM 9144 of 16331 MB, free commit 9999 MB, free address space 2551 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 46%, free RAM 8706 of 16331 MB, free commit 9525 MB, free address space 2551 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 49%, free RAM 8195 of 16331 MB, free commit 9230 MB, free address space 2552 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 50%, free RAM 8142 of 16331 MB, free commit 9075 MB, free address space 2551 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 49%, free RAM 8186 of 16331 MB, free commit 9110 MB, free address space 2551 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 32%, free RAM 11032 of 16331 MB, free commit 12528 MB, free address space 2551 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 43%, free RAM 9213 of 16331 MB, free commit 10577 MB, free address space 2551 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 29%, free RAM 11453 of 16331 MB, free commit 12932 MB, free address space 2548 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 39%, free RAM 9799 of 16331 MB, free commit 10671 MB, free address space 2548 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 42%, free RAM 9348 of 16331 MB, free commit 10080 MB, free address space 2548 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 35%, free RAM 10590 of 16331 MB, free commit 11731 MB, free address space 2548 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 22%, free RAM 12732 of 16331 MB, free commit 14512 MB, free address space 2556 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 23%, free RAM 12540 of 16331 MB, free commit 14058 MB, free address space 2601 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 34%, free RAM 10753 of 16331 MB, free commit 12307 MB, free address space 2602 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 38%, free RAM 10097 of 16331 MB, free commit 11265 MB, free address space 2559 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 40%, free RAM 9750 of 16331 MB, free commit 10819 MB, free address space 2559 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 25%, free RAM 12172 of 16331 MB, free commit 13656 MB, free address space 2559 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 21%, free RAM 12816 of 16331 MB, free commit 14550 MB, free address space 2551 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 24%, free RAM 12305 of 16331 MB, free commit 14123 MB, free address space 2547 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 24%, free RAM 12301 of 16331 MB, free commit 14128 MB, free address space 2551 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 25%, free RAM 12087 of 16331 MB, free commit 13773 MB, free address space 2547 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 25%, free RAM 12229 of 16331 MB, free commit 14069 MB, free address space 2547 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 25%, free RAM 12094 of 16331 MB, free commit 13800 MB, free address space 2551 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 34%, free RAM 10616 of 16331 MB, free commit 11590 MB, free address space 2551 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+system memory at device creation: load 37%, free RAM 10189 of 16331 MB, free commit 10779 MB, free address space 1557 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+swap chain: flip discard, 3 buffers
+system memory at device creation: load 33%, free RAM 10928 of 16331 MB, free commit 12053 MB, free address space 1491 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+swap chain: flip discard, 3 buffers
+system memory at device creation: load 39%, free RAM 9855 of 16331 MB, free commit 10337 MB, free address space 1497 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready
+d3d11 device created, feature level B000, 1680x1050
+swap chain: flip discard, 3 buffers
+system memory at device creation: load 39%, free RAM 9910 of 16331 MB, free commit 10187 MB, free address space 1493 MB
+adapter NVIDIA GeForce GTX 960 (vendor 10DE device 1401), dedicated 3072 MB, shared 1023 MB
+video memory at device creation: local 7 of 3434 MB budget, non-local 0 of 7501 MB budget
+our textures at device creation: 0, about 0 MB
+d3d11 scene device ready

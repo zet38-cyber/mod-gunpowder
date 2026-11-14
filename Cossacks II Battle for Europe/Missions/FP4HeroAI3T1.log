@@ -1,0 +1,7 @@
+AI_NI=3
+8->5  attack=1  (Берлин 8->Брюссель 5)  rule_id=2
+MyPower=156  SecPower=78
+
+ findAS=65535  65535  5  9  13  65535  65535  
+ attackS=0  0  1  0  0  0  0  
+ SecPower=65535  65535  78  78  44  65535  65535  

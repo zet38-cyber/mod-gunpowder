@@ -1,0 +1,96 @@
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+d3d11 swapchain ready
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+d3d11 swapchain ready
+d3d11 swapchain ready
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050
+dpi awareness: already set (exe compatibility setting?); screen metrics 1680x1050, display mode 1680x1050

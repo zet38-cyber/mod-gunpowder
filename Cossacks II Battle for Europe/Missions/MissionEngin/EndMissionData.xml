@@ -1,0 +1,27 @@
+<CEndMissionData>
+ <WinnerNI>-1</WinnerNI>
+ <AttackerNI>-1</AttackerNI>
+ <AttackerExperience>0</AttackerExperience>
+ <AttackerArmy></AttackerArmy>
+ <AttackerRes>
+  <wood>0</wood>
+  <food>0</food>
+  <stone>0</stone>
+  <gold>0</gold>
+  <iron>0</iron>
+  <coal>0</coal>
+  <recruit>0</recruit>
+ </AttackerRes>
+ <DefenderNI>-1</DefenderNI>
+ <DefenderExperience>0</DefenderExperience>
+ <DefenderArmy></DefenderArmy>
+ <DefenderRes>
+  <wood>0</wood>
+  <food>0</food>
+  <stone>0</stone>
+  <gold>0</gold>
+  <iron>0</iron>
+  <coal>0</coal>
+  <recruit>0</recruit>
+ </DefenderRes>
+</CEndMissionData>

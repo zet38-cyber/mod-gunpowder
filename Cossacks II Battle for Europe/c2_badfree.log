@@ -1,0 +1,19 @@
+Frees (and reallocs) of addresses that are not the start of a live game-heap block.
+One entry per code location. Addresses: engine.exe+RVA, look them up in engine.pdb.
+
+==== t=4464 s  location #1: free of 39FA736C (unknown free number 1)
+  freed from:
+    01500940  engine.exe+9B0940  VA 00DB0940
+    014FD28C  engine.exe+9AD28C  VA 00DAD28C
+    00D7BA9A  engine.exe+22BA9A  VA 0062BA9A
+    01808DD2  engine.exe+CB8DD2  VA 010B8DD2
+    013F1AFE  engine.exe+8A1AFE  VA 00CA1AFE
+    013F17BD  engine.exe+8A17BD  VA 00CA17BD
+    00E8F25C  engine.exe+33F25C  VA 0073F25C
+    00E8C351  engine.exe+33C351  VA 0073C351
+    00FD87AA  engine.exe+4887AA  VA 008887AA
+    00FF9B4F  engine.exe+4A9B4F  VA 008A9B4F
+  no allocation or free of this exact address in the last 524288 heap operations
+  points 396 bytes into a live block of 400 bytes at 39FA71E0, allocated at engine.exe+BF5317 (VA 00FF5317):
+  released through a pointer that is not the start of its block
+

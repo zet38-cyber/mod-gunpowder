@@ -1,0 +1,45 @@
+#K03_Cheffi Greg Chaffy
+#K03_Wildings Wildings
+
+#K03_NULL 
+
+#K03_D1_W1	- Lieutenant! The resources we seized earlier have been earmarked for the town's reconstruction. The food supplies we currently have are insufficient for our troops.
+#K03_D1_C2	- I understand. How long will our supplies last?
+#K03_D1_W3	- Not long! I suggest occupying a neighboring village. The village has a mill and I'm sure we can find other provisions there.
+
+#K03_D2_C1	- Jolly good, Wildings!  We have a reliable source of food, thanks to you. What is your next suggestion?
+#K03_D2_W2	- Lieutenant, we should establish a military camp! Our intelligence officers have reported an enemy camp not far from here. We should train our men and prepare for any contingency.
+#K03_D2_C3	- Give the order to begin construction.
+
+#K03_D3_W1	- Now that we are able to train our troops efficiently, we must destroy the enemy camp, before they destroy us! Their forces are growing rapidly!
+#K03_D3_C2	- I agree completely! We shouldn't wait another minute! Gather our forces and let's set out!
+
+#K03_D4_W1	- Lieutenant! We did it! We trained our men and their strategy and skills improved tremendously. Now, they have soundly defeated our enemy. Huzzah! 
+#K03_D4_C2	- Congratulations! But, there's no time to rest. We have many battles ahead! The enemy won't give up just like that!
+
+#K03_Mes1	To ensure supply of the needed resources, you can conquer villages that produce them, at least one village for each type of resource. Before you make another move, conquer a village that supplies food!
+#K03_Mes1_	Conquer a village with a wheat field to guarantee you'll have enough food. Otherwise your soldiers begin to starve!
+#K03_Mes2	Due to efforts of the village elder, the village has a considerable quantity of supplies. The packhorses loaded with food are on their way to you. Defend them from the enemy.
+#K03_Mes3	Build a blacksmith's, a barracks and an academy to in order to create new troops.
+#K03_Mes4	Destroy the enemy military base. It's enough to destroy the main building on the base. This will help you to prevent the base's further development! Or you can destroy all its troops!
+#K03_Mes5	This village has an artillery depot, sir. It is at your service. Indeed, God is helping us in this endeavor!
+
+#K03_Hint1_	There is a lack of food! Occupy a village with a wheat field to replenish our supplies.
+#K03_Hint3	To create new troops, you must build a blacksmith's, a barracks and an academy. You can also build a palace and an artillery workshop to improve military development.
+
+#K03_Victory	You've succeeded on the battlefield! Congratulations on this victory!
+
+#K03_Loose	You lost this campaign!
+
+#K03_Task1	Villages
+#K03_Task2	Defense!
+#K03_Task3	Military Base
+#K03_Task4	Destroy!
+#K03_Task1F(f)	Conquer a nearby village that supplies FOOD!
+#K03_Task1F(i)	Conquer a nearby village that supplies IRON!
+#K03_Task1F(g)	Conquer a nearby village that supplies GOLD!
+#K03_Task1F(c)	Conquer a nearby village that supplies COAL!
+#K03_Task2F	Defend the packhorses from bandits!
+#K03_Task3F	Begin creation and development of a military base!
+#K03_Task4F	To destroy the enemy military base.
+

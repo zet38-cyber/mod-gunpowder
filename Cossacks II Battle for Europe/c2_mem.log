@@ -1,0 +1,5 @@
+FMM game heap 30070000-6ED50000 (1004 MB), address table 262144 buckets. Live memory by call site: c2_memsites.log (every 5 min, Ctrl+Shift+F10 for one now). Unknown frees: c2_badfree.log.
+FMM pool above 2 GB BF970000-FF970000 (1024 MB): Direct3D 11 texture copies, and what does not fit below 2 GB.
+t=4447 s  FMM used 27 MB of 1004 MB, above 2 GB 163 MB of 1024 MB (blocks 1159; did not fit below: 0), blocks 62511, handlers 63546, unknown frees 0, allocs/frees since start 83985/20315  |  address space free 1405 MB, largest 880 MB
+t=4477 s  FMM used 159 MB of 1004 MB, above 2 GB 210 MB of 1024 MB (blocks 1358; did not fit below: 0), blocks 295591, handlers 327353, unknown frees 20, allocs/frees in 30 s 890083/656804  |  address space free 1287 MB, largest 880 MB
+t=4618 s  FMM used 159 MB of 1004 MB, above 2 GB 210 MB of 1024 MB (blocks 1358; did not fit below: 0), blocks 295597, handlers 327353, unknown frees 20, allocs/frees in 141 s 6788/6782  |  address space free 1275 MB, largest 880 MB

@@ -1,0 +1,13 @@
+**********************************************************************************
+*    Logger session start: Sat Nov 14 11:40:55
+**********************************************************************************
+
+11:40:55 | Info     | Initializing D3D Render System...
+11:40:56 | Info     | D3D Render System was initialized succesfully.
+11:40:56 | Info     | Creating reflection map. TexMem: 2039Mb
+11:40:56 | Info     | Creating shadow map. TexMem: 2039Mb
+11:40:56 | Info     | Creating terrain cache. TexMem: 2037Mb, NSurf: 128
+11:40:56 | Info     | Creating sprite cache. TexMem: 1997Mb, NSurf: 1024
+11:41:05 | Warning  | Texture file does not exist: Pyatno.tga
+11:41:08 | Warning  | DrawBrigsAbility can not find file: Dialogs\v\BrigMarkers.DialogsSystem.xml
+11:41:08 | Warning  | DrawBrigsAbility can not find file: Dialogs\v\BrigMarkersMini.DialogsSystem.xml

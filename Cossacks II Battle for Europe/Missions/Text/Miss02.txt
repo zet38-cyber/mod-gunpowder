@@ -1,0 +1,50 @@
+-------Dialogs-------
+
+#res_dial_1_1 Corporal Wildings! Report on the situation!
+#res_dial_1_2 Sir, our food supplies are critically low. We've had problems with gunpowder and food being delivered from the villages. The storehouses are almost empty. I'm afraid we will face a crisis if things continue as they are. The soldiers' moral is low and the people are hungry. The starving citizens are yielding to McKeith and the situation is becoming dangerous.   
+#res_dial_1_3 Why didn't you tell me sooner? We have been selling food supplies for two weeks because I didn't know about this predicament! Corporal, tell me in detail the cause of this problem. What is happening in the villages to stop the flow of supplies? 
+#res_dial_1_4 Our scouts report that the villages are overrun by armed men. Our resources are being used to maintain their army. There is still some powder and food in our storehouses. But, if we can't get supplies and reinforcements soon, our soldiers will starve.  
+#res_dial_1_5 I'm sure my brother is behind this outrage! I never thought I would have to fight McKeith.  But, the time has come. Wildings! Prepare for an attack! We are going to take back all that belongs to us! 
+
+#res_dial_2_1 Sir! We have liberated the surrounding villages and their inhabitants are with us. It seems that Baron McKeith imposed very high taxes on them. The villagers promised to supply us with food, munitions, and reinforcements.  
+#res_dial_2_2 Outstanding.  We have our food supplies and have helped those poor citizens remove a yoke around their necks. Wildings! Recruit as many of the villagers as possible. 
+#res_dial_2_3 Yes, sir!
+#res_dial_2_4 It's just one of many victories. We fight and the Lord helps us!
+
+#res_dial_3_1 Curtis! Once again our paths have crossed! What are you looking for in these mountains?
+#res_dial_3_2 We've been patrolling the area and we heard rumors about bandits ravaging this district. Luckily we haven't encountered a soul, but you. 
+#res_dial_3_3 It is I who is lucky. Those bandits are indeed robbing villages and killing innocent people. I tried to bring them to justice, but my forces were overpowered. We retreated to the mountains to recover our strength.
+#res_dial_3_4 We will help you! We'll gladly tickle those ruffians with our sabers! 
+#res_dial_3_5 Together we will punish those impudent fools that dare oppose the law and the British Army! Let's go! For England! For the King!  
+
+-------Messages-------
+
+#res_mess_1 Scouts report that there are five villages in the region. Capture them all to guarantee a stable flow of resources. 
+#res_mess_2 Lieutenant! Our food supplies are almost gone and people are starving! Capture a village that can support us with food or we shall inevitably lose the fight! 
+#res_mess_3 Lieutenant! Our hostess told us she saw cavalry troops in the mountain patrolling the area. It could be Curtis Farnbroe. We should check this out.  
+#res_mess_4 We have captured the village and the iron-ore fields close by. A blacksmith from the village has two cannons without gun-carriages. He will gladly help us attach the guns to our carriages. As soon as he finishes, we'll have two brand new cannons at our disposal. 
+#res_mess_5 Lieutenant! The cannons are ready and the gunners are awaiting your command. 
+#res_mess_6 Lieutenant! The inhabitants of this region are happy to be liberated and are hungry to fight against the tyrannical government of this country. Their small troop could be very useful to us as scouts. 
+#res_mess_7 Reinforcements are here and are moving toward the city!  It's an elite grenadier unit that will significantly improve our capabilities. As soon as they arrive, they'll be under your command. 
+#res_mess_8 Sir, the reinforcements were ambushed! They don't stand a chance against enemy forces. We must help them!   
+#res_mess_9 Outstanding! The enemy is routed and our friends are safe! Not all of them survived, but you did all that you could. They will gladly join us!
+#res_mess_10 Unfortunately, both grenadier squads were destroyed and we could do nothing to save them. They fought and died like heroes. 
+#res_mess_11 Lieutenant! We have captured a coal-producing village. 5,000 units of coal were added to our storages.  
+
+#res_victory You captured all the villages and got rid of McKeith's bandits.
+#res_loose Your troops were routed, most of the people died due to starvation, and McKeith captured the village without any problems. 
+
+-------Speakers-------
+
+#Cheffy Greg Chaffy
+#Wildings Wildings
+#Curtis Curtis Farnbroe
+
+-------Tasks\Hints--------
+
+#res_task1 Capture five villages around Manchester to guarantee the flow of resources.
+#res_task2 Make your way to the mountains and see if Curtis Farnbroe's men are patrolling the area. 
+#res_task3 Help the two grenadier troops that were ambushed.
+#res_hint1 To capture the village you must destroy the band of marauders and rout some regular enemy troops.  
+#res_hint2 Food and powder supplies are about to run out, but you may exchange resources at the market.  
+

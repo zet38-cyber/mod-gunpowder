@@ -1,0 +1,353 @@
+[MEMBERS]
+TempMent(OS)   TurMent
+TempBarin(OS)  FrnBarin
+TempDama(OS)   FrnDama
+ArtPus1(OS)    ArtPus1
+ArtPus2(OS)    ArtPus2
+ArtPus3(OS)    ArtPus3
+ArtPus4(OS)    ArtPus4E
+ArtPus4L(OS)   ArtPus4LE
+ArtPus4G(OS)   ArtPus4GE
+ArtGau(OS)     EngKri
+ArtPus(OS)     EngKri
+UnitPus(OS)    PusEgp
+UnitKri(OS)    EgpKri
+UnitPop(OS)    TurPop
+UnitBar(OS)    TurKBar
+UnitEgrNG(OS)  FrnEgrNG
+UnitFlg(OS)    FrnFlg
+UnitFuz(OS)    EgpMus
+UnitFuzNG(OS)  EgpLuc
+UnitGre(OS)    EgpEgr
+UnitKDrg(OS)   EgpKCem
+UnitKEgr(OS)   FrnKEgr
+UnitKKar(OS)   FrnKKar
+UnitKArb(OS)   TurKArb
+UnitOf(OS)     TurOf
+UnitSap(OS)    FrnSap
+UnitVol(OS)    TurMec
+BldArs(OS)     OsmArs
+BldMan(OS)     EgpMan
+BldKir(OS)     BldKir
+BldKaz(OS)     OsmKaz
+BldLes(OS)     BldLes
+BldMel(OS)     EgpMel
+BldCen(OS)     EgpCen
+BldDo1(OS)     EgpDo1
+BldDo2(OS)     EgpDo2
+BldDvo(OS)     EgpDvo
+BldHra(OS)     EgpHra
+BldKuz(OS)     FrnKuz
+BldSkl(OS)     EgpSkl
+BldMay(OS)     EgpMay
+BldKre(OS)     EgpKre
+BldTow(OS)     TurTow
+BldKro(OS)     BldKro
+BldKon(OS)     BldKon
+BldRudGold(OS) BldRudGln
+BldRudIron(OS) BldRudRud 
+BldRudCoal(OS) BldRudSel
+BldRudSton(OS) BldRudKam
+BldRudUgl(OS)  BldRudUgl
+BldFor(OS)     BldFor
+BldArt(OS)     BldArt
+BldRin(OS)     EgpMan
+UnitKUln(OS)   FrnKUln
+UnitKMam(OS)   EgpKMam
+UnitKKir(OS)   FrnKKir
+UnitKGus(OS)   FrnKGus
+UnitKGre(OS)   FrnKGre
+UnitKFlg(OS)   FrnKFlg
+UnitKDrgG(OS)  FrnKDrg
+UnitKEgrG(OS)  FrnKEgr
+Field(OS)      Field
+
+[FIXED_PRODUCE]
+BldCen(OS)     1
+UnitKri(OS)    0 1 A
+
+BldKaz(OS)      6
+UnitVol(OS)     0 1 A
+UnitFuz(OS)     1 1 A
+UnitFuzNG(OS)   2 1 A
+UnitOf(OS)      5 1 A
+UnitBar(OS)     6 1 A
+UnitGre(OS)     0 0 A
+
+BldKre(OS)      7
+UnitKDrg(OS)    0  0 A
+UnitKArb(OS)    1  0 A
+UnitKMam(OS)    2  0 A
+ArtPus4L(OS)    0  1 A
+ArtPus4(OS)     1  1 A
+ArtPus4G(OS)    2  1 A
+ArtPus3(OS)     6  1 A
+
+/UnitKDrgG(OS)  1  2 A
+/UnitKKir(OS)   2  2 A
+/UnitKGre(OS)   3  2 A
+/UnitKKar(OS)   4  2 A
+/UnitKFlg(OS)   6  2 A
+/UnitKEgr(OS)   0  0 A
+/UnitKEgrG(OS)  1  0 A
+/UnitKUln(OS)   2  0 A
+/UnitKGus(OS)   3  0 A
+
+UnitKri(OS)    11
+BldCen(OS)     0 0 A
+BldKaz(OS)     1 0 A
+BldDo1(OS)     2 0 A
+BldDo2(OS)     3 0 A
+BldSkl(OS)     0 1 A
+BldDvo(OS)     2 1 A
+BldRin(OS)     3 1 A
+BldHra(OS)     1 1 A
+BldTow(OS)     7 0 A
+BldKre(OS)     5 1 A
+BldArs(OS)     4 0 A
+
+/BldDvo(OS)     4
+/UnitVol(OS)    0 0 A
+/UnitBar(OS)    2 1 A
+/UnitFlg(OS)    3 1 A
+/UnitOf(OS)     1 1 A
+
+BldMel(OS) 1
+Field(OS)  1 0 A
+
+BldHra(OS) 1
+UnitPop(OS) 0 1 A
+
+[ENABLED]
+BldArs(OS)
+TempMent(OS)
+ArtPus3(OS)
+ArtPus4(OS)
+ArtPus4L(OS)
+ArtPus4G(OS)
+UnitKArb(OS)
+UnitPop(OS)
+ArtPus4(OS)
+UnitKDrg(OS)
+UnitKDrgG(OS)
+UnitKKir(OS)
+UnitKGre(OS)
+UnitKKar(OS)
+UnitKFlg(OS)
+UnitKEgr(OS)
+UnitKEgrG(OS)
+UnitKUln(OS)
+UnitKGus(OS)
+UnitKMam(OS)
+
+ArtGau(OS)
+ArtPus(OS)
+UnitSap(OS)
+UnitBar(OS)
+UnitOf(OS)
+BldRin(OS)
+BldSkl(OS)
+BldKuz(OS)
+BldLes(OS)
+BldKaz(OS)
+BldDvo(OS)
+BldDo2(OS)
+BldHra(OS)
+BldArt(OS)
+BldKon(OS)
+BldTow(OS)
+BldKro(OS)
+BldFor(OS)
+BldKre(OS)
+BldRudGold(OS)
+BldRudIron(OS)
+BldRudCoal(OS)
+BldRudSton(OS)
+BldMel(OS)
+BldCen(OS)
+BldDo1(OS)
+UnitKri(OS)
+UnitFuz(OS)    
+UnitFuzNG(OS)  
+UnitVol(OS)    
+UnitGre(OS)    
+UnitEgrNG(OS)  
+
+[UPGRADE]
+UPGUNIQ00(OS) U8 #POSITION 1 1 #LEVEL 1 UPGUNIQ00(OS) #COST 2 GOLD 2000 IRON 3000 #TIME 500
+        DAMAGE WEAPONKIND MECH UnitVol(OS) +5
+Bashnia(OS)PAUSE U6 #POSITION 0 0 #LEVEL 2 Bashnia(OS)PAUSE #COST 1 COAL 250 #TIME 1000
+        SINGLE_ATTPAUSE ATTINDEX 0 BldTow(OS) 80
+Bashnia(OS)PAUSE3 U6 #POSITION 0 0 #LEVEL 3 Bashnia(OS)PAUSE3 #COST 1 IRON 350 #TIME 1000
+        SINGLE_ATTPAUSE ATTINDEX 0 BldTow(OS) 60
+Bashnia(OS)PAUSE4 U6 #POSITION 0 0 #LEVEL 4 Bashnia(OS)PAUSE4 #COST 1 COAL 600 #TIME 1000
+        SINGLE_ATTPAUSE ATTINDEX 0 BldTow(OS) 50
+
+[UPGRADEPLACE]
+BldDvo(OS) 1 UPGUNIQ00(OS)
+BldTow(OS) 3 
+Bashnia(OS)PAUSE
+Bashnia(OS)PAUSE3
+Bashnia(OS)PAUSE4
+
+[UPGRADEENABLE]
+Bashnia(OS)PAUSE
+Bashnia(OS)PAUSE3
+Bashnia(OS)PAUSE4
+UPGUNIQ00(OS)
+
+[UPGRADELINKS]
+
+[DISABLED_UPGRADES]
+
+[AUTOUPGRADE]
+
+[ACCESSCONTROL]
+UnitKMam(OS)    1 BldDvo(OS)
+UnitGre(OS) 1 BldCen(OS)
+BldCen(OS)      2 BldKaz(OS)
+                  BldSkl(OS)
+BldDvo(OS)      2 BldKaz(OS)
+                  BldSkl(OS)
+/BldKaz(OS)      1 BldCen(OS)
+/BldKon(OS)      1 BldCen(OS)
+/BldSkl(OS)      1 BldCen(OS)
+//BldKuz(OS)      1 BldKon(OS)
+/BldDo1(OS)      1 BldSkl(OS)
+BldRin(OS)      1 BldDvo(OS)
+/BldArt(OS)      1 BldCen(OS)
+BldDo2(OS)      2 BldDvo(OS)
+                  BldCen(OS)
+BldHra(OS)      1 BldCen(OS)
+BldTow(OS)      2 BldKaz(OS)
+                  BldSkl(OS)
+//BldKro(OS)      2 BldArt(OS)
+//                  BldDvo(OS)
+//BldFor(OS)      2 BldArt(OS)
+//                  BldDvo(OS)
+BldKre(OS)        1 BldKaz(OS)
+//BldLes(OS)      1 BldDvo(OS)
+UnitSap(OS)     1 BldDvo(OS)
+UnitBar(OS)     1 BldDvo(OS)
+UnitOf(OS)      1 BldDvo(OS)
+UnitFuzNG(OS)   1 BldDvo(OS)
+
+[UNITLOCK]
+BldSkl(OS) 2 BldSkl(OS)
+BldHra(OS) 1 BldHra(OS)
+BldDvo(OS) 1 BldDvo(OS)
+BldRin(OS) 1 BldRin(OS)
+
+[CANSETDEST]
+BldKaz(OS)
+BldLes(OS)
+BldMel(OS)
+BldCen(OS)
+BldDo1(OS)
+BldDo2(OS)
+BldDvo(OS)
+BldHra(OS)
+BldSkl(OS)
+BldMay(OS)
+BldKre(OS)
+BldTow(OS)
+BldKro(OS)
+BldKon(OS)
+BldRudGold(OS)
+BldRudIron(OS) 
+BldRudCoal(OS)
+BldRudSton(OS)
+BldRudUgl(OS)
+BldFor(OS)
+BldArt(OS)
+
+[PRIVATE]
+Bashnia(OS)PAUSE
+Bashnia(OS)PAUSE3
+Bashnia(OS)PAUSE4
+
+[SPECIAL_UPGRADE]
+
+[SPECIAL_UNIT]
+
+[COUNTRY]
+OSMAN 48
+#UNITS
+UnitKri(OS)
+UnitBar(OS)
+UnitFuz(OS)
+UnitFuzNG(OS)
+UnitGre(OS)
+UnitOf(OS)
+UnitVol(OS)
+TempMent(OS)
+UnitPop(OS)
+#LIGHTCAVALRY
+UnitKArb(OS)
+UnitKMam(OS)
+#HEAVYCAVALRY
+UnitKDrg(OS)
+#ARTILARY
+ArtPus3(OS)
+ArtPus4(OS)
+ArtPus4L(OS)
+ArtPus4G(OS)
+#SHIPS
+#BUILDINGS
+BldMel(OS)
+BldKaz(OS)
+BldLes(OS)
+BldCen(OS)
+BldDo1(OS)
+BldDo2(OS)
+BldDvo(OS)
+BldHra(OS)
+BldKuz(OS)
+BldSkl(OS)
+BldArt(OS)
+BldKre(OS)
+BldTow(OS)
+BldKro(OS)
+BldKon(OS)
+BldFor(OS)
+BldRudIron(OS)
+BldRudSton(OS)
+BldRudGold(OS)
+BldRudUgl(OS)
+BldRudCoal(OS)
+BldMay(OS)
+BldRin(OS)
+#TEMP
+TempBarin(OS)
+TempDama(OS)
+
+[OFFICERS]
+UnitOf(OS) UnitBar(OS) 3
+SQUARE 1 #SQUARE120   2 UnitFuz(OS) UnitVol(OS)
+LINE   1 #LINE120COS  2 UnitFuz(OS) UnitVol(OS)
+KARE   1 #KARE120COS  2 UnitFuz(OS) UnitVol(OS)
+UnitKDrg(OS) NONE    3
+SHER   1 #MOVR2COS45     1 UnitKDrg(OS)
+PRUS   1 #PRUS45COS      1 UnitKDrg(OS)
+TRI    1 #TRI1COS45      1 UnitKDrg(OS)
+UnitKArb(OS) NONE    3
+SHER   1 #MOVR2COS45     1 UnitKArb(OS)
+PRUS   1 #PRUS45COS      1 UnitKArb(OS)
+TRI    1 #TRI1COS45      1 UnitKArb(OS)
+UnitKMam(OS) NONE    3
+SHER   1 #MOVR2COS45     1 UnitKMam(OS)
+PRUS   1 #PRUS45COS      1 UnitKMam(OS)
+TRI    1 #TRI1COS45      1 UnitKMam(OS)
+TempMent(OS) NONE 1
+LINE   1 #LINE60MENTCOS  1 TempMent(OS)
+UnitGre(OS) NONE 1
+SQUARE 1 #LINE30COSEGR   1 UnitGre(OS)
+UnitFuzNG(OS) NONE 2
+SQUARE 1 #SQUARE120LUC   1 UnitFuzNG(OS)
+LINE   1 #LINE120COSLUC  1 UnitFuzNG(OS)
+
+[STAGEDEPENDENT]
+
+[UPGRADESTAGE]
+
+[END]

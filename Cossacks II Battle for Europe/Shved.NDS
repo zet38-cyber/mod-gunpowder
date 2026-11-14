@@ -1,0 +1,544 @@
+[MEMBERS]
+TempMent(SH)   SpnPar
+ArtPus1(SH)    ArtPus1
+ArtPus2(SH)    ArtPus2
+ArtPus3(SH)    ArtPus3
+ArtPus4(SH)    ArtPus4PRU
+ArtPus4L(SH)   ArtPus4LPRU
+ArtPus4G(SH)   ArtPus4GPRU
+UnitKri(SH)    EngKri
+UnitPus(SH)    PusSW
+UnitPop(SH)    FrnPop
+UnitBar(SH)    ShvedBar
+UnitFlg(SH)    ShvedFlg
+UnitOf(SH)     ShvedOf
+UnitEgr(SH)    ShvedEger
+UnitMus(SH)    ShvedLit
+UnitFuz(SH)    ShvedMush
+UnitVol(SH)    VesVol
+UnitGre(SH)    SWEGRE
+UnitSap(SH)    ShvedSap
+UnitKDrg(SH)   ShvedKDrag
+UnitKKir(SH)   ShvedKLeibKir
+UnitKGus(SH)   ShvedKGus
+UnitKLan(SH)   VesKLan
+UnitKFlg(SH)   ShvedKFlg
+UnitKEgr(SH)   ShvedKEgr
+BldMan(SH)     VesBldMan
+BldAka(SH)     ShvedAkad
+BldCen(SH)     ShvedCen
+BldDo1(SH)     ShvedDom1
+BldDo2(SH)     ShvedDom2
+BldDvo(SH)     ShvedDvor
+BldHra(SH)     ShvedHram
+BldKuz(SH)     ShvedKuz
+BldSkl(SH)     ShvedSkl
+BldArs(SH)     BldArs
+BldMan(SH)     BldMan
+BldKir(SH)     BldKir
+BldLes(SH)     ShvedLes
+BldMel(SH)     FrnMel
+BldKre(SH)     BldKre
+BldTow(SH)     ShvedTow
+BldKro(SH)     BldKro
+BldKon(SH)     BldKon
+BldKonHC(SH)   BldKonHC
+BldKonT(SH)    BldKonT
+BldRudGold(SH) BldRudGln
+BldRudIron(SH) BldRudRud 
+BldRudCoal(SH) BldRudSel
+BldRudSton(SH) BldRudKam
+BldRudUgl(SH)  BldRudUgl
+BldFor(SH)     BldFor
+BldBlg(SH)     BldBlg
+BldArt(SH)     BldArt
+BldRin(SH)     BldRin
+Field(SH)      Field
+Bochka(SH)     Bochka
+ArtPus(SH)     ArtPus4ENG
+BldMay(SH)     VesMay
+GuardVesGre(SH)  GuardVesGre
+GuardVesEgr(SH)  GuardVesEgr
+GuardVesKLan(SH)  GuardVesKLan
+GuardVesKGus(SH)  GuardVesKGus
+UnitKGen(SH) ShvedKGen
+BldKaz(SH) ShvedKaz
+PlMedik(SH) PlMedik
+GENMED(SH) GENMED
+FinOpl(SH)  FinOpl  
+
+[FIXED_PRODUCE]
+BldHra(SH)     1
+UnitPop(SH)    0 1 A
+
+BldCen(SH)     1
+UnitKri(SH)    0 1 A
+
+BldKaz(SH)      6
+UnitMus(SH)     0 1 A
+UnitFuz(SH)     1 1 A
+UnitGre(SH)     3 1 A
+UnitOf(SH)       5 1 A
+UnitBar(SH)     6 1 A
+UnitFlg(SH)     7 1 A
+
+BldKonT(SH)    4
+UnitKFlg(SH)    4 0 A
+UnitKGen(SH)  3 0 A
+UnitKDrg(SH)   0 0 A
+UnitKKir(SH)    1 0 A
+
+BldKon(SH)     4
+UnitKEgr(SH)   0  0 A
+UnitKGus(SH)   1  0 A
+UnitKFlg(SH)   4  0 A
+UnitKGen(SH) 3  0 A
+
+BldKonHC(SH)    2
+UnitEgr(SH)     2 0 A
+UnitSap(SH)     1 0 A
+
+BldArt(SH)     4
+ArtPus4L(SH)   0  1 A
+ArtPus4(SH)    1  1 A
+ArtPus4G(SH)   2  1 A
+ArtPus3(SH)    6  1 A
+
+UnitSap(SH)    7
+BldBlg(SH)     1  0 A
+BldTow(SH)     2  0 A
+BldKro(SH)     3  0 A
+BldFor(SH)     4  0 A
+BldKre(SH)     5  0 A
+Bochka(SH)     1  1 A
+PlMedik(SH)    6  0 A
+
+UnitKri(SH)    16
+BldCen(SH)     0 0 A
+BldKaz(SH)     1 0 A
+BldDo1(SH)     2 0 A
+BldDo2(SH)     3 0 A
+BldKon(SH)     4 0 A
+BldArt(SH)     7 0 A
+BldLes(SH)     6 1 A
+BldSkl(SH)     0 1 A
+BldRin(SH)     4 1 A
+BldAka(SH)     2 1 A
+BldDvo(SH)     5 1 A
+BldHra(SH)     3 1 A
+BldBlg(SH)     7 1 A
+BldKuz(SH)     1 1 A
+BldKonHC(SH)   6 0 A
+BldKonT(SH)    5 0 A
+
+BldMel(SH) 1
+Field(SH)  1 0 A
+
+BldFor(SH)     4
+UnitGre(SH)    1 1 A
+UnitOf(SH)     2 1 A
+UnitBar(SH)    3 1 A
+UnitFlg(SH)    4 1 A
+
+BldKre(SH) 9
+GuardVesEgr(SH)   2 1 A
+GuardVesGre(SH)   1 1 A
+GuardVesKLan(SH)  1 0 A
+GuardVesKGus(SH)  2 0 A
+UnitKFlg(SH)      7 0 A
+UnitOf(SH)        5 1 A
+UnitBar(SH)       6 1 A
+UnitFlg(SH)       7 1 A
+UnitKGen(SH) 6 0 A
+
+BldKro(SH)     4 
+UnitFuz(SH)    1 1 A
+UnitOf(SH)     2 1 A
+UnitBar(SH)    3 1 A
+UnitFlg(SH)    4 1 A
+
+PlMedik(SH) 1
+GENMED(SH)     0 1 A
+
+BldKuz(SH) 2
+FinOpl(SH)     0 1 A
+UnitPop(SH)    0 7 A
+
+[ENABLED]
+UnitKDrg(SH)   
+UnitKKir(SH)   
+UnitKGus(SH)   
+UnitKLan(SH)   
+UnitKFlg(SH)   
+UnitKEgr(SH)    
+UnitPop(SH)
+ArtPus3(SH)
+ArtPus4(SH)
+ArtPus4L(SH)
+ArtPus4G(SH)
+Bochka(SH)
+UnitEgr(SH)
+UnitBar(SH)
+UnitFlg(SH)
+UnitOf(SH)
+UnitKri(SH)
+UnitFuz(SH)        
+UnitGre(SH)     
+UnitMus(SH)
+BldKir(SH)
+BldRin(SH)
+BldSkl(SH)
+BldKuz(SH)
+BldLes(SH)
+BldAka(SH)
+BldKaz(SH)
+BldDvo(SH)
+BldDo2(SH)
+BldHra(SH)
+BldArt(SH)
+BldBlg(SH)
+BldKon(SH)
+BldTow(SH)
+BldKro(SH)
+BldFor(SH)
+BldKre(SH)
+BldRudGold(SH)
+BldRudIron(SH)
+BldRudCoal(SH)
+BldRudSton(SH)
+BldMel(SH)
+BldCen(SH)
+BldDo1(SH)
+GuardVesGre(SH)  
+GuardVesEgr(SH)  
+GuardVesKLan(SH)  
+GuardVesKGus(SH)  
+UnitSap(SH)
+BldKonHC(SH)
+BldMan(SH)
+BldKonT(SH)
+UnitKGen(SH)
+BldKaz(SH)
+PlMedik(SH)
+GENMED(SH)
+FinOpl(SH)
+
+[UPGRADE]
+Bashnia(SH)PAUSE U17 #POSITION 0 0 #LEVEL 2 Bashnia(AU)PAUSE #COST 1 COAL 250 #TIME 1000
+        SINGLE_ATTPAUSE ATTINDEX 0 BldTow(SH) 80
+Bashnia(SH)PAUSE3 U18 #POSITION 0 0 #LEVEL 3 Bashnia(AU)PAUSE3 #COST 1 IRON 400 #TIME 1000
+        SINGLE_ATTPAUSE ATTINDEX 0 BldTow(SH) 60
+Bashnia(SH)PAUSE4 U19 #POSITION 0 0 #LEVEL 4 Bashnia(AU)PAUSE4 #COST 1 COAL 500 #TIME 1000
+        SINGLE_ATTPAUSE ATTINDEX 0 BldTow(SH) 50
+
+
+BldHra00(SH) U29  #POSITION 0 0 #LEVEL 5 BldHra00(FR) #COST 1 GOLD 250 #TIME 300
+        HEALING GRP 24 UnitKGen(SH) UnitKri(SH) UnitPus(SH) UnitPop(SH) UnitBar(SH) UnitFlg(SH) UnitOf(SH) UnitEgr(SH) UnitMus(SH) UnitFuz(SH) UnitVol(SH) UnitGre(SH) UnitSap(SH) UnitKDrg(SH) UnitKGus(SH) UnitKLan(SH) UnitKFlg(SH) UnitKEgr(SH) GuardVesGre(SH) GuardVesEgr(SH) GuardVesKLan(SH)	GuardVesKGus(SH) FinOpl(SH) UnitKKir(SH)
+BldHra01(SH) U28  #POSITION 0 0 #LEVEL 2 BldHra01(FR) #COST 1 GOLD 200 #TIME 300
+        HEALING GRP 24 UnitKGen(SH) UnitKri(SH) UnitPus(SH) UnitPop(SH) UnitBar(SH) UnitFlg(SH) UnitOf(SH) UnitEgr(SH) UnitMus(SH) UnitFuz(SH) UnitVol(SH) UnitGre(SH) UnitSap(SH) UnitKDrg(SH) UnitKGus(SH) UnitKLan(SH) UnitKFlg(SH) UnitKEgr(SH) GuardVesGre(SH) GuardVesEgr(SH) GuardVesKLan(SH)	GuardVesKGus(SH) FinOpl(SH) UnitKKir(SH)
+BldHra02(SH) U27  #POSITION 0 0 #LEVEL 3 BldHra02(FR) #COST 1 GOLD 150 #TIME 300
+        HEALING GRP 24 UnitKGen(SH) UnitKri(SH) UnitPus(SH) UnitPop(SH) UnitBar(SH) UnitFlg(SH) UnitOf(SH) UnitEgr(SH) UnitMus(SH) UnitFuz(SH) UnitVol(SH) UnitGre(SH) UnitSap(SH) UnitKDrg(SH) UnitKGus(SH) UnitKLan(SH) UnitKFlg(SH) UnitKEgr(SH) GuardVesGre(SH) GuardVesEgr(SH) GuardVesKLan(SH)	GuardVesKGus(SH) FinOpl(SH) UnitKKir(SH)
+BldHra03(SH) U26  #POSITION 0 0 #LEVEL 4 BldHra03(FR) #COST 1 GOLD 100 #TIME 300
+        HEALING GRP 24 UnitKGen(SH) UnitKri(SH) UnitPus(SH) UnitPop(SH) UnitBar(SH) UnitFlg(SH) UnitOf(SH) UnitEgr(SH) UnitMus(SH) UnitFuz(SH) UnitVol(SH) UnitGre(SH) UnitSap(SH) UnitKDrg(SH) UnitKGus(SH) UnitKLan(SH) UnitKFlg(SH) UnitKEgr(SH) GuardVesGre(SH) GuardVesEgr(SH) GuardVesKLan(SH)	GuardVesKGus(SH) FinOpl(SH) UnitKKir(SH)
+UPGBldHra02(SH) A10 #POSITION 7 2 #LEVEL 1 UPG24(FR) #COST 1 WOOD 0 #TIME 0
+        HEALING GRP 24 UnitKGen(SH) UnitKri(SH) UnitPus(SH) UnitPop(SH) UnitBar(SH) UnitFlg(SH) UnitOf(SH) UnitEgr(SH) UnitMus(SH) UnitFuz(SH) UnitVol(SH) UnitGre(SH) UnitSap(SH) UnitKDrg(SH) UnitKGus(SH) UnitKLan(SH) UnitKFlg(SH) UnitKEgr(SH) GuardVesGre(SH) GuardVesEgr(SH) GuardVesKLan(SH)	GuardVesKGus(SH) FinOpl(SH) UnitKKir(SH)
+UPGBldHra03(SH) A10 #POSITION 7 2 #LEVEL 1 UPG24(FR) #COST 1 WOOD 0 #TIME 0
+        HEALING GRP 24 UnitKGen(SH) UnitKri(SH) UnitPus(SH) UnitPop(SH) UnitBar(SH) UnitFlg(SH) UnitOf(SH) UnitEgr(SH) UnitMus(SH) UnitFuz(SH) UnitVol(SH) UnitGre(SH) UnitSap(SH) UnitKDrg(SH) UnitKGus(SH) UnitKLan(SH) UnitKFlg(SH) UnitKEgr(SH) GuardVesGre(SH) GuardVesEgr(SH) GuardVesKLan(SH)	GuardVesKGus(SH) FinOpl(SH) UnitKKir(SH)
+UPGBldHra04(SH) A10 #POSITION 7 2 #LEVEL 1 UPG24(FR) #COST 1 WOOD 0 #TIME 0
+        HEALING GRP 24 UnitKGen(SH) UnitKri(SH) UnitPus(SH) UnitPop(SH) UnitBar(SH) UnitFlg(SH) UnitOf(SH) UnitEgr(SH) UnitMus(SH) UnitFuz(SH) UnitVol(SH) UnitGre(SH) UnitSap(SH) UnitKDrg(SH) UnitKGus(SH) UnitKLan(SH) UnitKFlg(SH) UnitKEgr(SH) GuardVesGre(SH) GuardVesEgr(SH) GuardVesKLan(SH)	GuardVesKGus(SH) FinOpl(SH) UnitKKir(SH)
+UPGBldHra05(SH) A10 #POSITION 7 2 #LEVEL 1 UPG24(FR) #COST 1 WOOD 0 #TIME 0
+        HEALING GRP 24 UnitKGen(SH) UnitKri(SH) UnitPus(SH) UnitPop(SH) UnitBar(SH) UnitFlg(SH) UnitOf(SH) UnitEgr(SH) UnitMus(SH) UnitFuz(SH) UnitVol(SH) UnitGre(SH) UnitSap(SH) UnitKDrg(SH) UnitKGus(SH) UnitKLan(SH) UnitKFlg(SH) UnitKEgr(SH) GuardVesGre(SH) GuardVesEgr(SH) GuardVesKLan(SH)	GuardVesKGus(SH) FinOpl(SH) UnitKKir(SH)
+UPGBldHra06(SH) A10 #POSITION 7 2 #LEVEL 1 UPG24(FR) #COST 1 WOOD 0 #TIME 0
+        HEALING GRP 24 UnitKGen(SH) UnitKri(SH) UnitPus(SH) UnitPop(SH) UnitBar(SH) UnitFlg(SH) UnitOf(SH) UnitEgr(SH) UnitMus(SH) UnitFuz(SH) UnitVol(SH) UnitGre(SH) UnitSap(SH) UnitKDrg(SH) UnitKGus(SH) UnitKLan(SH) UnitKFlg(SH) UnitKEgr(SH) GuardVesGre(SH) GuardVesEgr(SH) GuardVesKLan(SH)	GuardVesKGus(SH) FinOpl(SH) UnitKKir(SH)
+UPPopHra01(SH) U7 #POSITION 0 1 #LEVEL 2 UPPopHra01(FR) #COST 4 IRON 100 GOLD 100 WOOD 300 FOOD 300 #TIME 300
+	DAMAGE WEAPONKIND MEDIK UnitPop(SH) +50
+BldKro(SH)PAUSE U24 #POSITION 0 0 #LEVEL 2 Bashnia(AU)PAUSE #COST 2 COAL 250 IRON 350 #TIME 1000	
+        SINGLE_ATTPAUSE ATTINDEX 0 BldKro(SH) 80	
+BldKro(SH)PAUSE3 U20 #POSITION 0 0 #LEVEL 3 Bashnia(AU)PAUSE #COST 2 COAL 250 IRON 350 #TIME 1000	
+        SINGLE_ATTPAUSE ATTINDEX 0 BldKro(SH) 60	
+BldKro(SH)PAUSE4 U34 #POSITION 0 0 #LEVEL 4 Bashnia(AU)PAUSE #COST 2 COAL 250 IRON 350 #TIME 1000	
+        SINGLE_ATTPAUSE ATTINDEX 0 BldKro(SH) 40	
+BldFor(SH)PAUSE U24 #POSITION 0 0 #LEVEL 2 Bashnia(AU)PAUSE #COST 2 COAL 250 IRON 350 #TIME 1000	
+        SINGLE_ATTPAUSE ATTINDEX 0 BldFor(SH) 80	
+BldFor(SH)PAUSE3 U20 #POSITION 0 0 #LEVEL 3 Bashnia(AU)PAUSE #COST 2 COAL 250 IRON 350 #TIME 1000	
+        SINGLE_ATTPAUSE ATTINDEX 0 BldFor(SH) 60	
+BldFor(SH)PAUSE4 U34 #POSITION 0 0 #LEVEL 4 Bashnia(AU)PAUSE #COST 2 COAL 250 IRON 350 #TIME 1000	
+        SINGLE_ATTPAUSE ATTINDEX 0 BldFor(SH) 40	
+DefendBldKro(SH) U36 #POSITION 1 0 #LEVEL 1 DefendUp01(RE) #COST 2 STONE 2000 GOLD 500 #TIME 350	
+	  SHIELD GRP 1 BldKro(SH) +10
+DefendBldFor(SH) U36 #POSITION 1 0 #LEVEL 1 DefendUp01(RE) #COST 2 STONE 4000 GOLD 500 #TIME 350	
+	  SHIELD GRP 1 BldFor(SH) +10
+LIFEBldFor(SH) U13 #POSITION 0 1 #LEVEL 1 DefendUp01(RE) #COST 1 GOLD 0 #TIME 0	
+	  LIFE GRP 1 BldFor(SH) +40000
+LIFEBldKro(SH) U13 #POSITION 0 1 #LEVEL 1 DefendUp01(RE) #COST 1 GOLD 0 #TIME 0	
+	  LIFE GRP 1 BldKro(SH) +22000
+MOREFARMS(SH) U39 #POSITION 6 0 #LEVEL 1 MOREFARMS(SH) #COST 1 GOLD 600 #TIME 500
+	MOREFARMS GRP 2 BldDo1(SH) BldDo2(SH) +50%
+[UPGRADEPLACE]
+BldHra(SH) 5
+BldHra00(SH)
+BldHra01(SH)
+BldHra02(SH)
+BldHra03(SH)
+UPPopHra01(SH)
+
+BldTow(SH) 3 
+Bashnia(SH)PAUSE
+Bashnia(SH)PAUSE3
+Bashnia(SH)PAUSE4
+
+BldKro(SH) 4
+BldKro(SH)PAUSE
+BldKro(SH)PAUSE3
+BldKro(SH)PAUSE4
+DefendBldKro(SH)
+
+BldFor(SH) 4
+BldFor(SH)PAUSE
+BldFor(SH)PAUSE3
+BldFor(SH)PAUSE4
+DefendBldFor(SH)
+
+BldDvo(SH) 1
+MOREFARMS(SH)
+
+[UPGRADEENABLE]
+Bashnia(SH)PAUSE
+Bashnia(SH)PAUSE3
+Bashnia(SH)PAUSE4
+BldHra00(SH)
+BldHra01(SH)
+BldHra02(SH)
+BldHra03(SH)
+UPPopHra01(SH)
+BldKro(SH)PAUSE
+BldKro(SH)PAUSE3
+BldKro(SH)PAUSE4
+BldFor(SH)PAUSE
+BldFor(SH)PAUSE3
+BldFor(SH)PAUSE4
+DefendBldKro(SH)
+DefendBldFor(SH)
+LIFEBldFor(SH)
+LIFEBldKro(SH)
+MOREFARMS(SH) 
+
+[UPGRADELINKS]
+
+[DISABLED_UPGRADES]
+
+[AUTOUPGRADE]
+BldHra01(SH) 5 UPGBldHra02(SH) UPGBldHra03(SH) UPGBldHra04(SH) UPGBldHra05(SH) UPGBldHra06(SH)
+BldHra02(SH) 5 UPGBldHra02(SH) UPGBldHra03(SH) UPGBldHra04(SH) UPGBldHra05(SH) UPGBldHra06(SH)
+BldHra03(SH) 5 UPGBldHra02(SH) UPGBldHra03(SH) UPGBldHra04(SH) UPGBldHra05(SH) UPGBldHra06(SH)
+BldHra00(SH) 5 UPGBldHra02(SH) UPGBldHra03(SH) UPGBldHra04(SH) UPGBldHra05(SH) UPGBldHra06(SH)
+DefendBldKro(SH) 1 LIFEBldKro(SH)
+DefendBldFor(SH) 1 LIFEBldFor(SH)
+
+[ACCESSCONTROL]
+Bochka(SH)      1 BldArt(SH)
+BldKaz(SH)      1 BldCen(SH)
+BldSkl(SH)      1 BldCen(SH)
+BldRin(SH)      1 BldCen(SH)
+BldDo1(SH)      1 BldCen(SH)
+BldKon(SH)      1 BldAka(SH)
+BldAka(SH)      2 BldKaz(SH)
+                  BldSkl(SH)
+BldHra(SH)      1 BldCen(SH)
+BldTow(SH)      1 BldAka(SH)
+BldKro(SH)      2 BldArt(SH)
+                  BldAka(SH)
+BldFor(SH)      2 BldArt(SH)
+                  BldAka(SH)
+BldKre(SH)      2 BldDvo(SH)
+                  BldArt(SH)
+BldDo2(SH)      1 BldDvo(SH)
+BldDvo(SH)      1 BldAka(SH)
+BldKir(SH)      1 BldAka(SH)
+BldArt(SH)      1 BldAka(SH)
+BldArs(SH)      1 BldArt(SH)
+BldKuz(SH)      1 BldKaz(SH)
+UnitEgr(SH)     1 BldAka(SH)
+UnitFuz(SH)     1 BldAka(SH)
+UnitGre(SH)     1 BldKuz(SH)
+UnitSap(SH)     1 BldAka(SH)
+UnitOf(SH)      1 BldAka(SH)
+UnitBar(SH)     1 BldAka(SH)
+UnitFlg(SH)     1 BldAka(SH)
+UnitKLan(SH)    1 BldAka(SH)
+UnitKDrg(SH)    1 BldDvo(SH) 
+UnitKKir(SH)    2 BldDvo(SH) 
+                  BldKuz(SH)
+UnitKGus(SH)    1 BldKuz(SH) 
+UnitKFlg(SH)    1 BldKuz(SH)
+BldKonHC(SH)    1 BldAka(SH)
+GuardVesGre(SH)  2   BldAka(SH) BldDvo(SH)
+GuardVesEgr(SH)  2   BldAka(SH) BldDvo(SH)
+GuardVesKLan(SH) 2   BldAka(SH) BldDvo(SH)
+GuardVesKGus(SH) 2   BldAka(SH) BldDvo(SH)
+BldKonT(SH) 1 BldDvo(SH)
+UnitKGen(SH) 3 BldAka(SH) BldDvo(SH) BldKonHC(SH)
+PlMedik(SH) 1 BldAka(SH)
+BldLes(SH) 1 BldAka(SH)
+
+[UNITLOCK]
+BldBlg(SH) 3 BldBlg(SH)
+BldSkl(SH) 2 BldSkl(SH)
+BldKuz(SH) 1 BldKuz(SH)
+BldAka(SH) 1 BldAka(SH)
+BldHra(SH) 1 BldHra(SH)
+BldRin(SH) 1 BldRin(SH)
+BldDvo(SH) 1 BldDvo(SH)
+BldKre(SH) 1 BldKre(SH)
+BldFor(SH) 1 BldFor(SH)
+BldKro(SH) 1 BldKro(SH)
+BldKon(SH) 1 BldKon(SH)
+BldKonHC(SH) 1 BldKonHC(SH)
+BldKaz(SH) 2 BldKaz(SH)
+GuardVesGre(SH)  120   GuardVesGre(SH)
+GuardVesEgr(SH)   30   GuardVesEgr(SH)
+GuardVesKLan(SH)  45   GuardVesKLan(SH)
+GuardVesKGus(SH)  45   GuardVesKGus(SH)
+UnitEgr(SH) 65 UnitEgr(SH)
+UnitSap(SH) 70 UnitSap(SH)
+BldKonT(SH) 1 BldKonT(SH)
+UnitKFlg(SH)   15  UnitKFlg(SH) 
+UnitKGen(SH) 15 UnitKGen(SH)
+PlMedik(SH) 1 PlMedik(SH)
+GENMED(SH) 3 GENMED(SH)
+FinOpl(SH) 255 FinOpl(SH) 
+
+[CANSETDEST]
+BldKaz(SH)
+BldLes(SH)
+BldMel(SH)
+BldAka(SH)
+BldCen(SH)
+BldDo1(SH)
+BldDo2(SH)
+BldDvo(SH)
+BldHra(SH)
+BldKuz(SH)
+BldSkl(SH)
+BldMay(SH)
+BldKre(SH)
+BldTow(SH)
+BldKro(SH)
+BldKon(SH)
+BldKonHC(SH)
+BldRudGold(SH)
+BldRudIron(SH) 
+BldRudCoal(SH)
+BldRudSton(SH)
+BldRudUgl(SH)
+BldFor(SH)
+BldBlg(SH)
+BldArt(SH)
+PlMedik(SH)
+GENMED(SH)
+FinOpl(SH) 
+
+[PRIVATE]
+Bashnia(SH)PAUSE
+Bashnia(SH)PAUSE3
+Bashnia(SH)PAUSE4
+BldKro(SH)PAUSE
+BldKro(SH)PAUSE3
+BldKro(SH)PAUSE4
+BldFor(SH)PAUSE
+BldFor(SH)PAUSE3
+BldFor(SH)PAUSE4
+
+[SPECIAL_UPGRADE]
+
+[SPECIAL_UNIT]
+
+[COUNTRY]
+SHVED 59
+#GUARD
+GuardVesGre(SH)  
+GuardVesEgr(SH)  
+GuardVesKLan(SH)  
+GuardVesKGus(SH)  
+#UNITS
+UnitKri(SH)
+UnitMus(SH)
+UnitFuz(SH)
+UnitGre(SH)
+UnitOf(SH)
+UnitBar(SH)
+UnitFlg(SH)
+UnitEgr(SH)
+UnitSap(SH)
+UnitPop(SH)
+GENMED(SH)
+FinOpl(SH) 
+#LIGHTCAVALRY
+UnitKEgr(SH)
+UnitKGus(SH)
+#HEAVYCAVALRY
+UnitKDrg(SH)
+UnitKKir(SH)
+UnitKFlg(SH)   
+#ARTILARY
+ArtPus4(SH)
+ArtPus4L(SH)
+ArtPus4G(SH)
+#BUILDINGS
+BldCen(SH)
+BldKaz(SH)
+BldKuz(SH)
+BldSkl(SH)
+BldDo1(SH)
+BldDo2(SH)
+BldAka(SH)
+BldDvo(SH)
+BldKon(SH)
+BldKonHC(SH)
+BldHra(SH)
+BldArt(SH)
+BldBlg(SH)
+BldTow(SH)
+BldKro(SH)
+BldFor(SH)
+BldKre(SH)
+BldLes(SH)
+BldRudIron(SH)
+BldRudSton(SH)
+BldRudGold(SH)
+BldRudUgl(SH)
+BldRudCoal(SH)
+BldRin(SH)
+BldKir(SH)  
+BldMay(SH)
+BldKonT(SH)   
+UnitPus(SH)
+PlMedik(SH)
+
+[OFFICERS]
+FinOpl(SH) NONE UnitPop(SH) 2
+SQUARE2 1 #SQUARE80Fin 1 FinOpl(SH) 
+LINE2   1 #LINE80Fin  1 FinOpl(SH)
+
+UnitOf(SH) UnitBar(SH) UnitFlg(SH)   3
+SQUARE 1 #SQUARE120 5 UnitFuz(SH) UnitGre(SH) UnitVol(SH) UnitMus(SH) GuardVesGre(SH)  
+LINE   1 #LINE120COS 5 UnitFuz(SH) UnitGre(SH) UnitVol(SH) UnitMus(SH) GuardVesGre(SH) 
+KARE   1 #KARE120COS 5 UnitFuz(SH) UnitGre(SH) UnitVol(SH) UnitMus(SH) GuardVesGre(SH) 
+
+UnitKGen(SH) UnitKFlg(SH) 3
+SHER   1 #MOVR2COS45 7 UnitKLan(SH) UnitKEgr(SH) UnitKGus(SH) UnitKKir(SH) UnitKDrg(SH) GuardVesKLan(SH) GuardVesKGus(SH)  
+PRUS   1 #PRUS45COS 7 UnitKLan(SH)  UnitKEgr(SH) UnitKGus(SH) UnitKKir(SH) UnitKDrg(SH) GuardVesKLan(SH) GuardVesKGus(SH)  
+TRI    1 #TRI1COS45 7 UnitKLan(SH) UnitKEgr(SH) UnitKGus(SH) UnitKKir(SH) UnitKDrg(SH) GuardVesKLan(SH) GuardVesKGus(SH)  
+
+UnitEgr(SH) NONE 1
+LINE   1 #LINE30COSEGR  1 UnitEgr(SH) 
+UnitSap(SH) NONE 1
+LINE   1 #SQUARE30 1 UnitSap(SH)
+GuardVesEgr(SH)  NONE 1
+LINE   1 #LINE30COSEGR  1 GuardVesEgr(SH)
+
+[STAGEDEPENDENT]
+
+[UPGRADESTAGE]
+
+[END]

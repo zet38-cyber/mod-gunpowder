@@ -1,0 +1,24 @@
+C2 campaign log, V 2.16
+
+== 19:32:49  Campaign map opened (list from the previous opening, if any)
+Nation files loaded (file, unit numbers):
+  FRANCE.NDS     units    0..  72 (73)
+  RUSSIA.NDS     units   73.. 142 (70)
+  ENGLAND.NDS    units  143.. 227 (85)
+  PRUSSIA.NDS    units  228.. 294 (67)
+  AUSTRIA.NDS    units  295.. 357 (63)
+  EGIPET.NDS     units  358.. 423 (66)
+  POLAND.NDS     units  424.. 489 (66)
+  SPAIN.NDS      units  490.. 557 (68)
+  REIN.NDS       units  558.. 621 (64)
+  SHVED.NDS      units  622.. 688 (67)
+  GORFRA.NDS     units  689.. 711 (23)
+  GORAUS.NDS     units  712.. 744 (33)
+  GORRUS.NDS     units  745.. 756 (12)
+  GORTUR.NDS     units  757.. 771 (15)
+  SELFRA.NDS     units  772.. 793 (22)
+  NEUTRAL.NDS    units  794.. 878 (85)
+  DRAGON.NDS     units  879.. 895 (17)
+  ANIMALS.NDS    units  896.. 910 (15)
+  GUARD.NDS      units  911.. 946 (36)
+Unit list: not built yet in this session.

@@ -1,0 +1,91 @@
+#mis_06_Komo Commander
+#null
+
+
+#Lose_1 - Your mission failed!  You didn't protect the storehouse!
+
+//////////////////////////////////   Rolik __ Start  ///////////////////////////////////////
+
+#mis_06_Farn_1  First we must deal with the immediate threat to the crown, ultimately and decisively! 
+
+#mis_06_Chef_1  McKeith will suffer today. But, half of my troops are bogged down in heavy rain and muddy, impassable conditions. I doubt we can break through McKeith's left flank, until my soldiers arrive. 
+
+#mis_06_Farn_2  It will be tough without them. I see that your cannons and chasseurs have nevertheless arrived. Let's plan the attack this way. My troops will hold the line until your chasseurs have taken out the enemy's artillery. Your men will have to fend off any attacks to protect the ammunition which is stored behind your position. If the enemy captures it, we will be doomed.  
+
+#mis_06_Chef_2  Your plan is good. When my chasseurs accomplish their task, I'll let you know. 
+
+
+/////////////////////////////////////  Task   ///////////////////////////////////////
+
+
+#mis_06_task_1 Hold the left flank and under no circumstances retreat. You are protecting a storage of ammunition and foodstuffs. If you fail to accomplish the task, His Majesty's army will be defeated. 
+
+
+#mis_06_task_2 Your objective is to destroy enemy cannons with the help of chasseurs. Make sure your losses are not critical when your troops go on the offensive.   
+
+
+
+#mis_06_task_3 Reinforcements have arrived. Your objective is to capture the enemy storage of ammo and foodstuffs to prevent fierce resistance by the enemy troops.
+
+
+#mis_06_task_4 Continue to hold the left flank and attack the enemy from the rear. Your task is to eliminate the enemy army to protect the Crown. 
+
+
+
+/////////////////////////////////////  Hint  ///////////////////////////////////////
+
+
+
+#mis_06_hint_1 You can set the artillery on automatic mode to shoot squads close to the cannons. This will simplify the task of controlling the left flank, when you destroy the enemy artillery.    
+
+
+
+#mis_06_hint_2 Keep an eye on fatigue and morale. If these indicators drop, give the troops a rest and wait until the squad regains combat ability. Otherwise, your troops are useless in battle. They are sure to run at the very first enemy salvo.  
+
+#mis_06_hint_3 Killed artillery men can be replaced with new soldiers. Approach the cannons with a few soldiers, choose "cannon" and press button %s.
+
+
+
+//////////////////////////////////////////// vvMesage ////////////////////////////////////////////
+
+
+
+#mis_06_mesag_1  Strengthen your left flank to prevent the enemy from capturing your and your ally's storage. Set the squads behind the artillery in line %s and put them into "stand ground" mode. 
+ 
+#mis_06_mesag_2  Reload the cannons with grapeshot %s. Grapeshot is ideal for defense against a dense mass of enemy infantry. Unless you use grapeshot, chances of effective resistance are slim.  
+
+#mis_06_mesag_3  Make use of chasseurs to destroy enemy artillery. The targeted artillery units are marked by flags. You have three groups of chasseurs to draw from. Should you lose your first group of chasseurs, you'll be given a reserve group. Bear in mind there are only three groups available. So, you have only three tries. 
+
+#mis_06_mesag_4  You have been given the 2nd reserve group of chasseurs to command. Destroy the enemy artillery as soon as possible.
+
+#mis_06_mesag_5  This is the last group of chasseurs and your last chance. Should you fail to destroy the enemy artillery, you will lose.
+
+#mis_06_mesag_6  Mission failed, all chasseurs have been lost!
+
+#mis_06_mesag_7  Capture enemy headquarters. Defeat the squads near the tent camp, as only that will make the enemy capitulate. 
+
+#mis_06_mesag_8 Congratulations!! You have accomplished all the tasks necessary.
+
+//////////////////////////////////   Rolik __ Kill Pyshka  ///////////////////////////////////////
+
+
+#mis_06_Komo_3  Sir! The 26th dragoon squadron has arrived! I'm Lieutenant Mills! We were delayed by heavy rains, sir. But our group managed to change horses and obtain a supply of foodstuffs two days ago. The rest of the squadron wasn't as lucky.  It may take them a week to get here. 
+
+#mis_06_Chef_3  Damn! I can't wait that long. But, thank God, you pulled through. Listen Mills, I have a special assignment for your men. During a recent maneuver, our chasseurs discovered a substantial store of ammo and food located behind enemy lines. These supplies are poorly guarded. Your objective is to capture them and eliminate the enemy there.   
+
+#mis_06_Komo_4  Affirmative, sir! Your order will carried out immediately and with honor!
+
+
+//////////////////////////////////   Rolik __ Destroy enemy Sklad and go All to Battle me and frands  ///////////////////////////////////////
+
+
+#mis_06_Farn_5  Greg, have your troops arrived?
+
+#mis_06_Chef_5  No! They are advancing at a snail's pace. I have no idea when they will arrive. But with the men we have, we captured some supplies and destroyed many of their guns.  
+
+#mis_06_Farn_6  Good! We are in perfect position to attack. You must support my men with everything you've got.
+
+#mis_06_Komo_5  Gentlemen! We will have the strategic advantage if Mr.Cheffy's troops, my dragoons, and the infantry outflank and strike the enemy at the rear while they are distracted by Mr.Farnbroe's assault! 
+
+
+#mis_06_Chef_6  Capital suggestion, Mills, provided Curtis has no objections. We will do as you propose. Mills, I will personally recommend you to General Wellington for a promotion. Now, let's get started, gentlemen! May God abide with us! 

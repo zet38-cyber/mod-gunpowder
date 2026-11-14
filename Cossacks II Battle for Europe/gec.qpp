@@ -1,0 +1,815 @@
+Переменные\    int ID\BrigadeVariables\НачалоСкрипта\    ID=GetPlayerSelectedBrigadeID(GetPlayerNation())\    SetCurrentBrigadeID(ID,GetPlayerNation())\    if (((Brigade.FinalStateOrder==73))) 
+        PlaySound("Video
+Of
+Info
+info04a.ogg");
+    PlaySound("Video
+Of
+Info
+info04b.ogg");
+    PlaySound("Video
+Of
+Info
+info04c.ogg");
+    PlaySound("Video
+Of
+Info
+info04d.ogg");
+    PlaySound("Video
+Of
+Info
+info04e.ogg");
+    PlaySound("Video
+Of
+Info
+info04f.ogg");
+    PlaySound("Video
+Of
+Info
+info04g.ogg");
+    PlaySound("Video
+Of
+Info
+info04h.ogg");
+    PlaySound("Video
+Of
+Info
+info04i.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==74))) 
+        PlaySound("Video
+Of
+Info
+info05a.ogg");
+    PlaySound("Video
+Of
+Info
+info05b.ogg");
+    PlaySound("Video
+Of
+Info
+info05c.ogg");
+    PlaySound("Video
+Of
+Info
+info05d.ogg");
+    PlaySound("Video
+Of
+Info
+info05e.ogg");
+    PlaySound("Video
+Of
+Info
+info05f.ogg");
+    PlaySound("Video
+Of
+Info
+info05g.ogg");
+    PlaySound("Video
+Of
+Info
+info05h.ogg");
+    PlaySound("Video
+Of
+Info
+info05i.ogg");
+    PlaySound("Video
+Of
+Info
+info05j.ogg");
+    PlaySound("Video
+Of
+Info
+info05k.ogg");
+    PlaySound("Video
+Of
+Info
+info05l.ogg");
+    PlaySound("Video
+Of
+Info
+info05m.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==75))) 
+        PlaySound("Video
+Of
+Info
+info06a.ogg");
+    PlaySound("Video
+Of
+Info
+info06b.ogg");
+    PlaySound("Video
+Of
+Info
+info06c.ogg");
+    PlaySound("Video
+Of
+Info
+info06d.ogg");
+    PlaySound("Video
+Of
+Info
+info06e.ogg");
+    PlaySound("Video
+Of
+Info
+info06f.ogg");
+    PlaySound("Video
+Of
+Info
+info06g.ogg");
+    PlaySound("Video
+Of
+Info
+info06h.ogg");
+    PlaySound("Video
+Of
+Info
+info06i.ogg");
+    PlaySound("Video
+Of
+Info
+info06j.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==76))) 
+        PlaySound("Video
+Of
+Info
+info07a.ogg");
+    PlaySound("Video
+Of
+Info
+info07b.ogg");
+    PlaySound("Video
+Of
+Info
+info07c.ogg");
+    PlaySound("Video
+Of
+Info
+info07d.ogg");
+    PlaySound("Video
+Of
+Info
+info07e.ogg");
+    PlaySound("Video
+Of
+Info
+info07f.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==41))) 
+        PlaySound("Video
+Of
+Info
+info08f.ogg");
+    PlaySound("Video
+Of
+Info
+info08g.ogg");
+    PlaySound("Video
+Of
+Info
+info08h.ogg");
+    PlaySound("Video
+Of
+Info
+info08i.ogg");
+    PlaySound("Video
+Of
+Info
+info08j.ogg");
+    PlaySound("Video
+Of
+Info
+info08k.ogg");
+    PlaySound("Video
+Of
+Info
+info08l.ogg");
+    PlaySound("Video
+Of
+Info
+info08m.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==40))) 
+        PlaySound("Video
+Of
+Info
+info08a.ogg");
+    PlaySound("Video
+Of
+Info
+info08b.ogg");
+    PlaySound("Video
+Of
+Info
+info08c.ogg");
+    PlaySound("Video
+Of
+Info
+info08d.ogg");
+    PlaySound("Video
+Of
+Info
+info08e.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==42))) 
+        PlaySound("Video
+Of
+Info
+info09a.ogg");
+    PlaySound("Video
+Of
+Info
+info09b.ogg");
+    PlaySound("Video
+Of
+Info
+info09c.ogg");
+    PlaySound("Video
+Of
+Info
+info09d.ogg");
+    PlaySound("Video
+Of
+Info
+info09e.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==82))) 
+        PlaySound("Video
+Of
+Info
+info10a.ogg");
+    PlaySound("Video
+Of
+Info
+info10b.ogg");
+    PlaySound("Video
+Of
+Info
+info10c.ogg");
+    PlaySound("Video
+Of
+Info
+info10d.ogg");
+    PlaySound("Video
+Of
+Info
+info10e.ogg");
+    PlaySound("Video
+Of
+Info
+info10f.ogg");
+    PlaySound("Video
+Of
+Info
+info10g.ogg");
+    PlaySound("Video
+Of
+Info
+info10h.ogg");
+    PlaySound("Video
+Of
+Info
+info10i.ogg");
+    PlaySound("Video
+Of
+Info
+info10j.ogg");
+    PlaySound("Video
+Of
+Info
+info10k.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==50))) 
+        PlaySound("Video
+Of
+Info
+info11a.ogg");
+    PlaySound("Video
+Of
+Info
+info11b.ogg");
+    PlaySound("Video
+Of
+Info
+info11c.ogg");
+    PlaySound("Video
+Of
+Info
+info11d.ogg");
+    PlaySound("Video
+Of
+Info
+info11e.ogg");
+    PlaySound("Video
+Of
+Info
+info11f.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==51))) 
+        PlaySound("Video
+Of
+Info
+info12a.ogg");
+    PlaySound("Video
+Of
+Info
+info12b.ogg");
+    PlaySound("Video
+Of
+Info
+info12c.ogg");
+    PlaySound("Video
+Of
+Info
+info12d.ogg");
+    PlaySound("Video
+Of
+Info
+info12e.ogg");
+    PlaySound("Video
+Of
+Info
+info12f.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==60))) 
+        PlaySound("Video
+Of
+Info
+info13a.ogg");
+    PlaySound("Video
+Of
+Info
+info13b.ogg");
+    PlaySound("Video
+Of
+Info
+info13c.ogg");
+    PlaySound("Video
+Of
+Info
+info13d.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==16))) 
+        PlaySound("Video
+Of
+Info
+info14a.ogg");
+    PlaySound("Video
+Of
+Info
+info14b.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==44))) 
+        PlaySound("Video
+Of
+Info
+info02a.ogg");
+    PlaySound("Video
+Of
+Info
+info02b.ogg");
+    PlaySound("Video
+Of
+Info
+info02c.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==43))) 
+        PlaySound("Video
+Of
+Info
+info01a.ogg");
+    PlaySound("Video
+Of
+Info
+info01b.ogg");
+    PlaySound("Video
+Of
+Info
+info01c.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==45))) 
+        PlaySound("Video
+Of
+Info
+info03a.ogg");
+    PlaySound("Video
+Of
+Info
+info03b.ogg");
+    PlaySound("Video
+Of
+Info
+info03c.ogg");
+    PlaySound("Video
+Of
+Info
+info03d.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==100))) 
+        PlaySound("Video
+Of
+Info
+cannon01a.ogg");
+    PlaySound("Video
+Of
+Info
+cannon01b.ogg");
+    PlaySound("Video
+Of
+Info
+cannon01d.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==101))) 
+        PlaySound("Video
+Of
+Info
+cannon01a.ogg");
+    PlaySound("Video
+Of
+Info
+cannon01c.ogg");
+    PlaySound("Video
+Of
+Info
+cannon01e.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==102))) 
+        PlaySound("Video
+Of
+Info
+cannon02a.ogg");
+    PlaySound("Video
+Of
+Info
+cannon02b.ogg");
+    PlaySound("Video
+Of
+Info
+cannon02c.ogg");
+    PlaySound("Video
+Of
+Info
+cannon02d.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==103))) 
+        PlaySound("Video
+Of
+Info
+cannon02e.ogg");
+    PlaySound("Video
+Of
+Info
+cannon02f.ogg");
+    PlaySound("Video
+Of
+Info
+cannon02g.ogg");
+    PlaySound("Video
+Of
+Info
+cannon02h.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==104))) 
+        PlaySound("Video
+Of
+Info
+cannon03a.ogg");
+    PlaySound("Video
+Of
+Info
+cannon03b.ogg");
+    PlaySound("Video
+Of
+Info
+cannon03c.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==105))) 
+        PlaySound("Video
+Of
+Info
+cannon03d.ogg");
+    PlaySound("Video
+Of
+Info
+cannon03e.ogg");
+    PlaySound("Video
+Of
+Info
+cannon03f.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==106))) 
+        PlaySound("Video
+Of
+Info
+cannon04a.ogg");
+    PlaySound("Video
+Of
+Info
+cannon04b.ogg");
+    PlaySound("Video
+Of
+Info
+cannon04c.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==107))) 
+        PlaySound("Video
+Of
+Info
+cannon05a.ogg");
+    PlaySound("Video
+Of
+Info
+cannon05b.ogg");
+    PlaySound("Video
+Of
+Info
+cannon05c.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==108))) 
+        PlaySound("Video
+Of
+Info
+cannon05d.ogg");
+    PlaySound("Video
+Of
+Info
+cannon05e.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==92))) 
+        PlaySound("Video
+Of
+report
+report01a.ogg");
+    PlaySound("Video
+Of
+report
+report01b.ogg");
+    PlaySound("Video
+Of
+report
+report01c.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==63))) 
+        PlaySound("Video
+Of
+report
+report02a.ogg");
+    PlaySound("Video
+Of
+report
+report02b.ogg");
+    PlaySound("Video
+Of
+report
+report02c.ogg");
+    PlaySound("Video
+Of
+report
+report02d.ogg");
+    PlaySound("Video
+Of
+report
+report02e.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==93))) 
+        PlaySound("Video
+Of
+report
+report03a.ogg");
+    PlaySound("Video
+Of
+report
+report03b.ogg");
+    PlaySound("Video
+Of
+report
+report03c.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==94))) 
+        PlaySound("Video
+Of
+report
+report03d.ogg");
+    PlaySound("Video
+Of
+report
+report03e.ogg");
+    PlaySound("Video
+Of
+report
+report03f.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==96))) 
+        PlaySound("Video
+Of
+report
+report04a.ogg");
+    PlaySound("Video
+Of
+report
+report04b.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==95))) 
+        PlaySound("Video
+Of
+report
+report04c.ogg");
+    PlaySound("Video
+Of
+report
+report04d.ogg");
+    PlaySound("Video
+Of
+report
+report04e.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==111))) 
+        PlaySound("Video
+Of
+report
+report05a.ogg");
+    PlaySound("Video
+Of
+report
+report05b.ogg");
+    PlaySound("Video
+Of
+report
+report05c.ogg");
+    PlaySound("Video
+Of
+report
+report05d.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==112))) 
+        PlaySound("Video
+Of
+report
+report05e.ogg");
+    PlaySound("Video
+Of
+report
+report05f.ogg");
+    PlaySound("Video
+Of
+report
+report05g.ogg");
+    PlaySound("Video
+Of
+report
+report05h.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==113))) 
+        PlaySound("Video
+Of
+report
+report05i.ogg");
+    PlaySound("Video
+Of
+report
+report05j.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==114))) 
+        PlaySound("Video
+Of
+report
+report05k.ogg");
+    PlaySound("Video
+Of
+report
+report05l.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==115))) 
+        PlaySound("Video
+Of
+report
+report05m.ogg");
+    PlaySound("Video
+Of
+report
+report05n.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==116))) 
+        PlaySound("Video
+Of
+report
+report05o.ogg");
+    PlaySound("Video
+Of
+report
+report05p.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==121))) 
+        PlaySound("Video
+Of
+report
+report06a.ogg");
+    PlaySound("Video
+Of
+report
+report06b.ogg");
+    PlaySound("Video
+Of
+report
+report06c.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==122))) 
+        PlaySound("Video
+Of
+report
+report06d.ogg");
+    PlaySound("Video
+Of
+report
+report06e.ogg");
+    PlaySound("Video
+Of
+report
+report06f.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==123))) 
+        PlaySound("Video
+Of
+report
+report06g.ogg");
+    PlaySound("Video
+Of
+report
+report06h.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==124))) 
+        PlaySound("Video
+Of
+report
+report06i.ogg");
+    PlaySound("Video
+Of
+report
+report06j.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==125))) 
+        PlaySound("Video
+Of
+report
+report06k.ogg");
+    PlaySound("Video
+Of
+report
+report06l.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==126))) 
+        PlaySound("Video
+Of
+report
+report06m.ogg");
+    PlaySound("Video
+Of
+report
+report06n.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==61))) 
+        PlaySound("Video
+Of
+report
+battle04.ogg");
+    PlaySound("Video
+Of
+report
+battle05.ogg");
+    PlaySound("Video
+Of
+report
+battle06.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==62))) 
+        PlaySound("Video
+Of
+report
+battle01.ogg");
+    PlaySound("Video
+Of
+report
+battle02.ogg");
+    PlaySound("Video
+Of
+report
+battle03.ogg");
+    Brigade.FinalStateOrder=0
+endif\    if (((Brigade.FinalStateOrder==64))) 
+        PlaySound("Video
+Of
+report
+battle07.ogg");
+    PlaySound("Video
+Of
+report
+battle08.ogg");
+    PlaySound("Video
+Of
+report
+battle09.ogg");
+    Brigade.FinalStateOrder=0
+endif\КонецСкрипта

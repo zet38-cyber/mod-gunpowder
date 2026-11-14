@@ -1,0 +1,30 @@
+	---Dialogs---
+
+#miss05_dial_11 Wildings! Why did you send for me? Do you have something urgent to report?  
+#miss05_dial_12 Sir, this soldier says his patrol was attacked by Baron Sheffsley's men. He is the sole survivor.
+#miss05_dial_13 Soldier, are you sure you were attacked by Sheffsley's men? Why would they attack His Majesty's squad? 
+#miss05_dial_14 Commander, Sheffsley's and McKeith's forces are united. They have French rifles and are definitely preparing for massive military action. Their training camps are situated on opposite banks of the lake. 
+#miss05_dial_15 So that filthy traitor decided to ally with Sheffsley and the French! But, luck is on our side. They stupidly divided their forces. We can strike a fatal blow before they attack us! Wildings, report on forces and provisions.   
+#miss05_dial_16 Sir, the locals have agreed to surrender this town and all of the neighboring villages to us. The flow of resources will be sufficient and a training camp will be constructed by the villagers. We are ready to attack!  
+#miss05_dial_17 Wildings, you are responsible for all preparations. Soldier, take a rest. You deserve it. I must prepare for the next battle for Crown and Country!  
+
+      ----------------   Messages   -----------------
+
+#miss05_mess1 Sir, the lighthouse master says he can help us. But, his plan sounds fishy. He says the bridge is controlled by friendly militia. He will give them signal when we approach, so they will not attack us. I advise caution, sir.  
+
+	-------------- Tasks and hints ----------------
+
+#miss05_task1 Destroy Baron Sheffsley's city halls and his army will forfeit reinforcements.  
+#miss05_task2 Destroy Baron McKeith's city halls and his army will have no chance against you! 
+
+#miss05_hint1 To destroy enemy buildings, you can use cannons, grenadiers or combat engineers. It is impossible to destroy buildings in any other way.  
+#miss05_hint2 You lose if the enemy destroys your city hall or captures all your villages.
+
+#miss05_loose You have lost. Baron McKeith managed to destroy your bridgehead, capture all your villages and push back your forces to the south. Nothing will stop his evil ambitions! 
+#miss05_victory Great! You are victorious! McKeith's forces are routed and he has to retreat!
+
+	------------- Names ------------------
+
+#miss05_cheffy Greg Chaffy
+#miss05_wildings Corporal Wildings
+#miss05_grenadier Grenadier

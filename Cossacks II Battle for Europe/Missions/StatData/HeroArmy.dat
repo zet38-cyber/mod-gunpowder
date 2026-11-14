@@ -1,0 +1,66 @@
+#LIEUTENANT  0
+#ENGLAND     4                                   2   UnitFuz(EN)   3 UnitVol(EN)   1
+#FRANCE      4                                   2   UnitFuzNG(FR) 3 UnitFuz(FR)   2
+#AUSTRIA     4                                   2   UnitFuzNG(AU) 3 UnitFuz(AU)   2
+#PRUSSIA     4                                   2   UnitFuz(PR)   3 UnitVol(PR)   1
+#RUSSIA      6                                   2   UnitPar(RU)   4 UnitFuz(RU)   2
+#EGYPT       4                                   2   UnitVol(EG)   3 UnitFuzNG(EG) 2
+#POLAND      4                                   2   UnitFuz(PO)   3 UnitVol(PO) 2
+#SPAIN       4                                   2   UnitPar(SP)   3 UnitFuz(SP)   2
+#REIN        4                                   2   UnitMus(RE)   3 UnitFuz(RE)   2
+
+#CAPTAIN     1
+#ENGLAND     6    5 1                            1   UnitKEgr(EN)  2
+#FRANCE      6    4 2                            3   UnitVol(FR)   1 UnitKUln(FR)  1 UnitKEgr(FR) 1
+#AUSTRIA     6    4 2                            3   UnitVol(AU)   1 UnitKUln(AU)  1 UnitKEgr(AU) 1
+#PRUSSIA     6    5 1                            1   UnitKEgr(PR)  2
+#RUSSIA      9    4 3                            3   UnitKDKoz(RU) 1 UnitKUln(RU)  1 UnitKEgr(RU) 1
+#EGYPT       6    4 2                            1   UnitFuz(EG)   1
+#POLAND      6    4 2                            2   UnitKUln(PO)  2 UnitKEgr(PO) 1
+#SPAIN       6    5 1                            1   UnitKEgr(SP)  2
+#REIN        6    4 2                            2   UnitVol(RE)   1 UnitKLan(RE)  2
+
+#MAJOR	     2
+#ENGLAND     9    6 2 2                          3   UnitSap(EN)   1 UnitKGus(EN)  1 ArtPus4L(EN) 2
+#FRANCE      9    5 2 2 1 1                      3   UnitSap(FR)   1 UnitKDrg(FR)  1 ArtPus4L(FR) 2
+#AUSTRIA     9    5 2 2 1 1                      3   UnitSap(AU)   1 UnitKDrg(AU)  1 ArtPus4L(AU) 2
+#PRUSSIA     9    6 2 2                          3   UnitSap(PR)   1 UnitKDrg(PR)  1 ArtPus4L(PR) 2
+#RUSSIA      13   5 4 1 1 1                      3   UnitSap(RU)   1 UnitKDrg(RU)  1 ArtPus4L(RU) 2
+#EGYPT       9    4 3 2                          3   UnitGre(EG)   1 UnitKDrg(EG)  1 ArtPus4L(EG) 2
+#POLAND      9    5 2 2 2                        3   UnitSap(PO)   1 UnitKGus(PO)  1 ArtPus4L(PO) 2
+#SPAIN       9    6 2 2                          3   UnitSap(SP)   1 UnitKGus(SP)  1 ArtPus4L(SP) 2
+#REIN        9    5 2 2 2                        3   UnitSap(RE)   1 UnitKDrg(RE)  1 ArtPus4L(RE) 2
+
+#COLONEL     3
+#ENGLAND     13   6 2 2 1 2 3                    3   UnitGre(EN)   2 UnitEgrNG(EN) 1 ArtPus4(EN)   1
+#FRANCE      13   5 2 2 1 1 1 1 3                4   ArtPus4(FR)   1 UnitGre(FR)   2 UnitEgrNG(FR) 1 UnitKGus(FR) 1
+#AUSTRIA     13   5 2 2 1 1 1 2 3                4   ArtPus4(AU)   1 UnitGre(AU)   2 UnitEgrNG(AU) 1 UnitKGus(AU) 1
+#PRUSSIA     13   6 2 2 1 2 3                    4   UnitGre(PR)   2 UnitEgrNG(PR) 1 ArtPus4(PR)   1 UnitKGus(PR) 1
+#RUSSIA      16   5 4 1 1 1 1 1 3                4   ArtPus4(RU)   1 UnitGre(RU)   2 UnitEgr(RU)   1 UnitKGus(RU) 1
+#EGYPT       13   5 3 2 2 2 3                    2   UnitKArb(EG)  1 ArtPus4(EG)   1
+#POLAND      13   5 2 2 2 1 2 3                  3   ArtPus4(PO)   1 UnitGre(PO)   2 UnitEgr(PO)   1 
+#SPAIN       13   6 2 2 1 2 3                    3   ArtPus4(SP)   1 UnitGre(SP)   2 UnitEgr(SP)   1
+#REIN        13   5 2 2 2 1 1 3                  4   ArtPus4(RE)   1 UnitGre(RE)   2 UnitEgr(RE)   1 UnitKGus(RE) 1
+
+#GENERAL     4
+#ENGLAND     16   7 2 2 1 2 3 3 2 2              4   UnitKDrg(EN)  1 ArtPus4G(EN)  1 ArtPus4R(EN) 2 GuardEngGre(EN) 1
+#FRANCE      16   6 2 2 1 1 1 1 3 2 2 2 1        4   UnitKKir(FR)  1                 ArtPus4G(FR) 1 GuardFrnGre(FR) 1 GuardFrnKMam(FR) 1
+#AUSTRIA     16   6 2 2 1 1 1 2 3 2 2 2 2        3   UnitKKir(AU)  1                 ArtPus4G(AU) 1 GuardAusGre(AU) 1
+#PRUSSIA     16   7 2 2 1 2 3 2 2 2 2            3   UnitKKir(PR)  1                 ArtPus4G(PR) 1 GuardPruMus(PR) 1
+#RUSSIA      20   6 4 1 1 1 1 1 3 2 2 2 1        3   UnitKKir(RU)  1                 ArtPus4G(RU) 1 GuardRusMus(RU) 1
+#EGYPT       16   5 3 2 2 2 3 2 2                3   UnitKMam(EG)  1                 ArtPus4G(EG) 1 GuardEgpMus(EG) 1
+#POLAND      16   6 2 3 2 1 2 3 2 2 2            3   UnitKKra(PO)  1                 ArtPus4G(PO) 1 GuardPolGre(PO) 1
+#SPAIN       16   7 2 2 1 2 3 2 2 2              3   UnitKDrg(SP)  1                 ArtPus4G(SP) 1 GuardSpnMus(SP) 1
+#REIN        16   6 2 2 3 1 2 3 2 2 2 1          3   UnitKKir(RE)  1                 ArtPus4G(RE) 1 GuardVesGre(RE) 1
+
+
+#MARSHAL     5
+#ENGLAND     20   8 3 2 1 2 3 3 2 2 2 2 3 1       3  GuardEngEgr(EN)  1 GuardEngEgrNG(EN) 1 GuardEngKDrgT(EN)  1
+#FRANCE      20   7 3 3 1 1 1 1 3 2 3 2 1 1 2 1 1 2  GuardFrnKGre(FR) 1 GuardFrnKKar(FR)  1 
+#AUSTRIA     20   7 3 3 1 1 1 2 3 2 3 2 2 2 2 1   3  GuardAusEgr(AU)  1 GuardAusKGus(AU)  1 GuardAusKKir(AU)   1
+#PRUSSIA     20   8 3 2 1 2 3 3 2 2 2 2 2 1       4  GuardPruEgr(PR)  1 UnitKKar(PR)      1 GuardPruKDrg(PR)   1 GuardPruGva(PR) 1
+#RUSSIA      24   6 4 1 1 1 1 1 3 2 3 2 1 1 2 1   3  GuardRusEgr(RU)  1 GuardRusKKir(RU)  1 GuardRusKChKoz(RU) 1
+#EGYPT       20   6 4 3 2 2 3 2 2 2 2 1           3  GuardEgpEgr(EG)  1 GuardEgpKMamL(EG) 1 GuardEgpKMamT(EG)  1
+#POLAND      20   7 3 3 2 1 2 3 2 3 2 2 2 1       3  GuardPolKUln(PO) 1 GuardPolKGus(PO)  1 GuardPolKKra(PO) 1
+#SPAIN       20   8 3 2 1 2 3 2 3 2 2 2 1         3  GuardSpnGre(SP)  1 GuardSpnKEgr(SP)  1 GuardSpnKDrg(SP) 1
+#REIN        20   7 3 3 3 1 2 3 2 3 2 2 1 2 1     3  GuardVesEgr(RE)  1 GuardVesKLan(RE)  1 GuardVesKGus(RE) 1

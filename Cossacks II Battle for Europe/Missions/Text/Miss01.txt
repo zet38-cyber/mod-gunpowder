@@ -1,0 +1,62 @@
+#NULL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+#GREG		Greg Chaffy
+#CURTIS		Curtis Farnbroe 
+#JONES		Sergeant Jones
+#WILDINGS	           Corporal Wildings
+#WILL		Wellford Chaffy
+
+#DEL_MOV11	Curtis! Is that you, my friend?  I'm so happy to see you!
+#DEL_MOV12	Greg? Why are you here? I thought you were returning next month. 
+#DEL_MOV13	Yes, that was the plan. But, I got a promotion a little earlier than expected. Hold on! What was that sound?  Did I hear gun shots in the city?  
+#DEL_MOV14	Yes, those were gunshots. I'm afraid you've returned at a bad time. This uprising erupted suddenly and caught us all by surprise. I was at the Commandant's office when it started. Jones and I went to see what was happening. He got separated from me in the crowd.  So, I escaped the city and am on my way to rejoin my troops in Shapley. 
+#DEL_MOV15	Then let's hurry to Shapley to join your soldiers and see what's going on in the city! 
+#DEL_MOV16	My riders should be patrolling the area between Shapley and the Abbs Bridge. We have a good chance of meeting up with them.  
+#DEL_MOV17	Look! There are soldiers advancing from the city towards Abbs! I think your men should deal with them. Lets hurry up!
+#VICTORY01	Baron McKeith's forces have to retreat from Manchester! Victory!  
+#LOOSECON1	Greg Chaffy has been killed!
+#LOOSECON2	Curtis Farnbroe has been killed!
+#LOOSECON3	Willovill has been captured by enemy forces! After losing the main strategic point you decided that this battle is pointless and surrendered to enemy. 
+#LOOSECON4	Curtis Farnbroe's dragoons were destroyed. Curtis died with his soldiers. 
+
+#MISSTASK01	There is a group of soldiers moving quickly from Manchester in our direction! This group should be destroyed with the help of Farnbroe's cavalry.
+#MISSTASK02	Stop the group of the soldiers moving toward Willovill with the help of Curtis Farnbroe's cavalry.
+#MISSTASK03	Farnbroe's dragoons must protect the reinforcements' march to Shapley. Your task is to stop the wave of enemies that are attacking Willovill and hold the bridge. Wilson, a dragoon from Farnbroe's troop, will be at your disposal. If you will send him to Shapley, Farnbroe's cavalry will come to assist you in battle.   
+#MISSTASK04	Take a strategic position for Manchester's liberation. The best strategic direction is Abbs. Liberate it from enemy forces and strengthen your positions there. The enemy will try to attack your flank, so you should take care of the bridge, too.  
+#MISSTASK05	After the liberation of  Abbs, the situation is favorable for an attack on Manchester. Be careful as reconnaissance reports a kronwerk in this area.
+
+#HINTMISS11	The Cavalry excels in sudden strikes from the flanks and rear. It's not efficient in direct combat. Fighting with cavalry, you should use many maneuvers, surprise attacks and fast movements. Remember, the cavalry can deliver the first powerful blow and dramatically destroy the enemy's morale. In a long battle, the cavalry will lose its advantage if the enemy infantry falls into tight formation.  
+#HINTMISS12	If your infantry formation is "in line" and stands still for some time, its status changes to "stand ground" formation. This earns a huge defense bonus and may become a critical factor in different tasks on the battlefield connected with holding strategic points and positions. If "stand ground" formation holds abridge, for example, it may survive a few powerful attacks and still hold its ground. But, you should remember that in "stand ground" mode the formation is very vulnerable to rear and flank attacks.   
+#HINTMISS13	Kronwerk: a small fortress. It is armed with heavy guns and is a place for training infantry. The garrison is positioned near the kronwerk. Destroy the garrison and you can capture the kronwerk. This gives you incontestable tactical advantages. For example, you can lure enemy formations into range of its guns. 
+
+
+#DEL_MOV21	Jones! Here you are! Thank God you are safe!	
+#DEL_MOV22	Lieutenant! I'm happy to see you in one piece! Mister Chaffy, you have returned from the Academy! My honor, sir! But, you have come back at a most inauspicious time. 
+#DEL_MOV23	Jones, tell me what you've seen! What's happening in Manchester? 
+#DEL_MOV24	Baron McKeith organized this uprising, seized power, arrested your father and, with the help of Baron Sheffsley and Earl Cope, plans to capture the whole of England!   
+#DEL_MOV25	As an officer of His Majesty's Royal Army, patriot and son, I will do anything to vanquish the enemy and save my father. Will you help me, my friend?  
+#DEL_MOV26	You know the answer, Greg! But, my troops won't stand a chance against the combined power of two barons and a duke! In Willovill we might find soldiers and food so we can send our men much needed reinforcements.  
+#DEL_MOV27	Gentlemen! The enemy is approaching the town. If we don't hurry, we can forget about finding our messenger or hiring new recruits in Willovill!      
+#DEL_MOV28	Squadron! Get ready to fight! March on! 
+
+#DEL_MOV31	Greg, my dragoons destroyed the enemy. You take command of the Willovill infantry.
+#DEL_MOV32	At last, new troops! Our first priority is to block the bridge near Willovill until reinforcements can arrive from the south.   
+#DEL_MOV33	The messenger from Shapley has already left. 
+#DEL_MOV34	Curtis, your cavalry must protect the infantry's flanks. I will stay to cope with the situation here. 
+#DEL_MOV35	I'll leave one of my riders with you. If anything happens, send him to Shapley and I will come to help you. Wilson! You are assigned to Chaffy's command!  
+
+
+#DEL_MOV41	We have held the bridge! We have sufficient numbers to liberate Abbs! 
+#DEL_MOV42	Yes, but we must leave one group behind to protect our rear and the western bridge. 
+#DEL_MOV43	Good advice! As soon as my soldiers recover their strength, we will launch an attack on Abbs. 
+
+
+#DEL_MOV51	We have liberated Abbs! The additional forces from Willovill were vital to the victory!  
+#DEL_MOV52	Outstanding! We can assault Manchester on two fronts. There is a fortress to the south of the city. Its garrison is currently positioned near the ford. If we will destroy the garrison, this fortress will belong to us! Jones, prepare our soldiers for an attack! Report when you are ready!  
+#DEL_MOV53	Yes, Sir! 
+
+
+#DEL_MOV61	Greg, my son! I'm so proud of you! Your bold response liberated Manchester from those greedy imbeciles!
+#DEL_MOV62	Thank you, father. Their actions were a threat to the crown and the government. They had to be suppressed!
+#DEL_MOV63	We must await a decision from London as to their ultimate fate. They must know about the riot by now. 
+
+

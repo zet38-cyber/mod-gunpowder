@@ -1,0 +1,4 @@
+engine.exe base 00B50000. VA = engine.exe address to look up in engine.pdb.
+
+t=4447 s  crash handler had been replaced by 187CCDC0 (vopyl.dll+2CDC0); FEX restored
+

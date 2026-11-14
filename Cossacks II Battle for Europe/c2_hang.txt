@@ -1,0 +1,1499 @@
+==== 2026-10-10 12:53:56  no frame, no frame presented for 45343 ms
+stage: load 'In GameCycle t=31046'  game 'PlayGame_004'
+eip 77452C0C esp 0055F1A4 ebp 0055F1C8
+main thread is at:
+    77452C0C  ntdll.dll+72C0C
+EBP chain:
+    0130ABA1  engine.exe+99ABA1  VA 00D9ABA1
+    0130BF17  engine.exe+99BF17  VA 00D9BF17
+    00C39C31  engine.exe+2C9C31  VA 006C9C31
+    00DEDFE1  engine.exe+47DFE1  VA 0087DFE1
+    00E0F1DF  engine.exe+49F1DF  VA 0089F1DF
+    01057538  engine.exe+6E7538  VA 00AE7538
+    00DB4072  engine.exe+444072  VA 00844072
+    010DB53B  engine.exe+76B53B  VA 00B6B53B
+    010575B0  engine.exe+6E75B0  VA 00AE75B0
+    00FD8A21  engine.exe+668A21  VA 00A68A21
+    01057D1C  engine.exe+6E7D1C  VA 00AE7D1C
+    00FD8A21  engine.exe+668A21  VA 00A68A21
+    00DB4072  engine.exe+444072  VA 00844072
+    010DB53B  engine.exe+76B53B  VA 00B6B53B
+    0105748F  engine.exe+6E748F  VA 00AE748F
+    00FD8A21  engine.exe+668A21  VA 00A68A21
+    00DB4072  engine.exe+444072  VA 00844072
+    010DB53B  engine.exe+76B53B  VA 00B6B53B
+    00E687E8  engine.exe+4F87E8  VA 008F87E8
+    00DD225D  engine.exe+46225D  VA 0086225D
+    016A6756  engine.exe+D36756  VA 01136756
+    7671FA29  KERNEL32.DLL+1FA29
+    77447A9E  ntdll.dll+67A9E
+    77447A6E  ntdll.dll+67A6E
+stack scan, return addresses nearest first:
+    771436CF  KERNELBASE.dll+1236CF
+    0130ABA1  engine.exe+99ABA1  VA 00D9ABA1
+    0130BF17  engine.exe+99BF17  VA 00D9BF17
+    00BCB880  engine.exe+25B880  VA 0065B880
+    00C39C31  engine.exe+2C9C31  VA 006C9C31
+    018101E8  engine.exe+EA01E8  VA 012A01E8
+    7743BE5F  ntdll.dll+5BE5F
+    00CE180B  engine.exe+37180B  VA 0077180B
+    00CE1816  engine.exe+371816  VA 00771816
+    7743BCEC  ntdll.dll+5BCEC
+    7743BD9B  ntdll.dll+5BD9B
+    00D4177C  engine.exe+3D177C  VA 007D177C
+    767223A7  KERNEL32.DLL+223A7
+    00DEDFE1  engine.exe+47DFE1  VA 0087DFE1
+    00E0F1DF  engine.exe+49F1DF  VA 0089F1DF
+    00CDA758  engine.exe+36A758  VA 0076A758
+    00F23263  engine.exe+5B3263  VA 009B3263
+    01057538  engine.exe+6E7538  VA 00AE7538
+    00FD8A21  engine.exe+668A21  VA 00A68A21
+    00DB4072  engine.exe+444072  VA 00844072
+    7032DBFD  d3d11.dll+11DBFD
+    7742C7BC  ntdll.dll+4C7BC
+    7742DCD4  ntdll.dll+4DCD4
+    75BEA6AC  USER32.dll+3A6AC
+    1059A74C  nvwgf2um.dll+57A74C
+    1059C65C  nvwgf2um.dll+57C65C
+    7032DBFD  d3d11.dll+11DBFD
+    1059A764  nvwgf2um.dll+57A764
+    1059C674  nvwgf2um.dll+57C674
+    70336421  d3d11.dll+126421
+    7033642F  d3d11.dll+12642F
+    014D11F1  engine.exe+B611F1  VA 00F611F1
+    75BEA47E  USER32.dll+3A47E
+    7529101C  win32u.dll+101C
+    75BEE0DA  USER32.dll+3E0DA
+    75BD23DD  USER32.dll+223DD
+    01594DF4  engine.exe+C24DF4  VA 01024DF4
+    010DB53B  engine.exe+76B53B  VA 00B6B53B
+    010575B0  engine.exe+6E75B0  VA 00AE75B0
+    00FD8A21  engine.exe+668A21  VA 00A68A21
+    01057D1C  engine.exe+6E7D1C  VA 00AE7D1C
+    00FD8A21  engine.exe+668A21  VA 00A68A21
+    00DB4072  engine.exe+444072  VA 00844072
+    7032DBFD  d3d11.dll+11DBFD
+    7742C7BC  ntdll.dll+4C7BC
+    7742DCD4  ntdll.dll+4DCD4
+    75BEA8AF  USER32.dll+3A8AF
+    75BEA6AC  USER32.dll+3A6AC
+    1059A74C  nvwgf2um.dll+57A74C
+    1059C65C  nvwgf2um.dll+57C65C
+    7032DBFD  d3d11.dll+11DBFD
+    1059A764  nvwgf2um.dll+57A764
+    1059C674  nvwgf2um.dll+57C674
+    70336421  d3d11.dll+126421
+    7033642F  d3d11.dll+12642F
+    014D11F1  engine.exe+B611F1  VA 00F611F1
+    75BEA47E  USER32.dll+3A47E
+    7529101C  win32u.dll+101C
+    75BEE0DA  USER32.dll+3E0DA
+    75BD23DD  USER32.dll+223DD
+    01594DF4  engine.exe+C24DF4  VA 01024DF4
+    010DB53B  engine.exe+76B53B  VA 00B6B53B
+    0105748F  engine.exe+6E748F  VA 00AE748F
+    00FD8A21  engine.exe+668A21  VA 00A68A21
+    00DB4072  engine.exe+444072  VA 00844072
+    7032DBFD  d3d11.dll+11DBFD
+    1059A792  nvwgf2um.dll+57A792
+    703611BD  d3d11.dll+1511BD
+    1059A74C  nvwgf2um.dll+57A74C
+    1059C65C  nvwgf2um.dll+57C65C
+    7032DBFD  d3d11.dll+11DBFD
+    1059A764  nvwgf2um.dll+57A764
+    1059C674  nvwgf2um.dll+57C674
+    70336421  d3d11.dll+126421
+    7033642F  d3d11.dll+12642F
+    014D11F1  engine.exe+B611F1  VA 00F611F1
+    75BEA47E  USER32.dll+3A47E
+    7529101C  win32u.dll+101C
+    75BEE0DA  USER32.dll+3E0DA
+    75BD23DD  USER32.dll+223DD
+windows of the main thread:
+  window 000B02C4 class 'CEW_KERNEL' title 'GSC engine' visible=1 rect 0,0-1680,1050 (game)
+  window 000702F6 class 'MSCTFIME UI' title 'MSCTFIME UI' visible=0 rect 0,0-0,0
+  window 000A0178 class 'IME' title 'Default IME' visible=0 rect 0,0-0,0
+
+==== 2026-10-10 14:29:25  no frame, no frame presented for 2396766 ms
+stage: load 'In GameCycle t=45366'  game 'PlayGame_004'
+eip 00E7DA14 esp 068F4D80 ebp 068F4FC4
+main thread is at:
+    00E7DA14  engine.exe+B7DA14  VA 00F7DA14
+EBP chain:
+    00E7F97C  engine.exe+B7F97C  VA 00F7F97C
+    00E820A9  engine.exe+B820A9  VA 00F820A9
+    0054293A  engine.exe+24293A  VA 0064293A
+    005DF1F4  engine.exe+2DF1F4  VA 006DF1F4
+    005E0503  engine.exe+2E0503  VA 006E0503
+    005D7ACD  engine.exe+2D7ACD  VA 006D7ACD
+    00E99CBC  engine.exe+B99CBC  VA 00F99CBC
+    00EA147F  engine.exe+BA147F  VA 00FA147F
+    00EA2583  engine.exe+BA2583  VA 00FA2583
+    005D8D50  engine.exe+2D8D50  VA 006D8D50
+    0063216C  engine.exe+33216C  VA 0073216C
+    0077DE5E  engine.exe+47DE5E  VA 0087DE5E
+    0079F1DF  engine.exe+49F1DF  VA 0089F1DF
+    009E7538  engine.exe+6E7538  VA 00AE7538
+    00744072  engine.exe+444072  VA 00844072
+    00A6B53B  engine.exe+76B53B  VA 00B6B53B
+    009E75B0  engine.exe+6E75B0  VA 00AE75B0
+    00968A21  engine.exe+668A21  VA 00A68A21
+    009E7D1C  engine.exe+6E7D1C  VA 00AE7D1C
+    00968A21  engine.exe+668A21  VA 00A68A21
+    00744072  engine.exe+444072  VA 00844072
+    00A6B53B  engine.exe+76B53B  VA 00B6B53B
+    009E748F  engine.exe+6E748F  VA 00AE748F
+    00968A21  engine.exe+668A21  VA 00A68A21
+    00744072  engine.exe+444072  VA 00844072
+    00A6B53B  engine.exe+76B53B  VA 00B6B53B
+    007F87E8  engine.exe+4F87E8  VA 008F87E8
+    0076225D  engine.exe+46225D  VA 0086225D
+    01036756  engine.exe+D36756  VA 01136756
+    7671FA29  KERNEL32.DLL+1FA29
+    77447A9E  ntdll.dll+67A9E
+    77447A6E  ntdll.dll+67A6E
+stack scan, return addresses nearest first:
+    00E8369A  engine.exe+B8369A  VA 00F8369A
+    00E7F97C  engine.exe+B7F97C  VA 00F7F97C
+    00E820A9  engine.exe+B820A9  VA 00F820A9
+    0054293A  engine.exe+24293A  VA 0064293A
+    005DF1F4  engine.exe+2DF1F4  VA 006DF1F4
+    7743C13B  ntdll.dll+5C13B
+    00E7F97C  engine.exe+B7F97C  VA 00F7F97C
+    7743C061  ntdll.dll+5C061
+    00C9B45C  engine.exe+99B45C  VA 00D9B45C
+    00C9AB1E  engine.exe+99AB1E  VA 00D9AB1E
+    00C9AACC  engine.exe+99AACC  VA 00D9AACC
+    00C99F01  engine.exe+999F01  VA 00D99F01
+    00C99F19  engine.exe+999F19  VA 00D99F19
+    10498416  nvwgf2um.dll+478416
+    101C2F6F  nvwgf2um.dll+1A2F6F
+    104A33E2  nvwgf2um.dll+4833E2
+    104A37C2  nvwgf2um.dll+4837C2
+    104A3AAB  nvwgf2um.dll+483AAB
+    104A3ABB  nvwgf2um.dll+483ABB
+    00E5D2C9  engine.exe+B5D2C9  VA 00F5D2C9
+    00E5D12C  engine.exe+B5D12C  VA 00F5D12C
+    00E5EE67  engine.exe+B5EE67  VA 00F5EE67
+    1052E67A  nvwgf2um.dll+50E67A
+    1059A98D  nvwgf2um.dll+57A98D
+    1059CD9D  nvwgf2um.dll+57CD9D
+    70335980  d3d11.dll+125980
+    703359FB  d3d11.dll+1259FB
+    10599EBD  nvwgf2um.dll+579EBD
+    0051C1EA  engine.exe+21C1EA  VA 0061C1EA
+    010351E4  engine.exe+D351E4  VA 011351E4
+    0109DFE8  engine.exe+D9DFE8  VA 0119DFE8
+    01095974  engine.exe+D95974  VA 01195974
+    010959F0  engine.exe+D959F0  VA 011959F0
+    0109083E  engine.exe+D9083E  VA 0119083E
+    0108DE07  engine.exe+D8DE07  VA 0118DE07
+    01083E32  engine.exe+D83E32  VA 01183E32
+    01083E41  engine.exe+D83E41  VA 01183E41
+    00E919A2  engine.exe+B919A2  VA 00F919A2
+    10498416  nvwgf2um.dll+478416
+    00E9AD57  engine.exe+B9AD57  VA 00F9AD57
+    1059C65C  nvwgf2um.dll+57C65C
+    7032DBFD  d3d11.dll+11DBFD
+    7032DC21  d3d11.dll+11DC21
+    00E6CC28  engine.exe+B6CC28  VA 00F6CC28
+    00E66072  engine.exe+B66072  VA 00F66072
+    005D79DC  engine.exe+2D79DC  VA 006D79DC
+    00F2B93D  engine.exe+C2B93D  VA 0102B93D
+    005E0503  engine.exe+2E0503  VA 006E0503
+    005D7ACD  engine.exe+2D7ACD  VA 006D7ACD
+    00E99CBC  engine.exe+B99CBC  VA 00F99CBC
+    00EA147F  engine.exe+BA147F  VA 00FA147F
+    00EA2583  engine.exe+BA2583  VA 00FA2583
+    00F31B78  engine.exe+C31B78  VA 01031B78
+    00F31B78  engine.exe+C31B78  VA 01031B78
+    00F2CA11  engine.exe+C2CA11  VA 0102CA11
+    005D8D50  engine.exe+2D8D50  VA 006D8D50
+    0063216C  engine.exe+33216C  VA 0073216C
+    00635ED0  engine.exe+335ED0  VA 00735ED0
+    006926C8  engine.exe+3926C8  VA 007926C8
+    00677E0E  engine.exe+377E0E  VA 00777E0E
+    006AED23  engine.exe+3AED23  VA 007AED23
+    77426DA3  ntdll.dll+46DA3
+    77425DDE  ntdll.dll+45DDE
+    77425DDE  ntdll.dll+45DDE
+    1EC6E11F  CoreUIComponents.dll+1E11F
+    1EC6D810  CoreUIComponents.dll+1D810
+    1EB7F3ED  textinputframework.dll+8F3ED
+    1EB260EF  textinputframework.dll+360EF
+    1EB17C01  textinputframework.dll+27C01
+    1EB17C01  textinputframework.dll+27C01
+    1EB2B146  textinputframework.dll+3B146
+    1EB91081  textinputframework.dll+A1081
+    1EB89BEE  textinputframework.dll+99BEE
+    1EC6F344  CoreUIComponents.dll+1F344
+    1ED5A7B8  CoreUIComponents.dll+10A7B8
+    1ED0E8EE  CoreUIComponents.dll+BE8EE
+    1ED00177  CoreUIComponents.dll+B0177
+    1ED7E3C0  CoreUIComponents.dll+12E3C0
+    1EC6EA80  CoreUIComponents.dll+1EA80
+    1EC6EAA9  CoreUIComponents.dll+1EAA9
+windows of the main thread:
+  window 00150178 class 'CEW_KERNEL' title 'GSC engine' visible=1 rect 0,0-1680,1050 (game)
+  window 0030053C class 'MSCTFIME UI' title 'MSCTFIME UI' visible=0 rect 0,0-0,0
+  window 001900E4 class 'IME' title 'Default IME' visible=0 rect 0,0-0,0
+
+==== 2026-10-12 21:24:07  no frame, no frame presented for 67594 ms
+stage: load 'In GameCycle t=31530'  game 'PlayGame_004'
+eip 017D5500 esp 004FCF84 ebp 004FD020
+main thread is at:
+    017D5500  engine.exe+CA5500  VA 010A5500
+EBP chain:
+    01751162  engine.exe+C21162  VA 01021162
+    017D444F  engine.exe+CA444F  VA 010A444F
+    016B1A1D  engine.exe+B81A1D  VA 00F81A1D
+    016AFE9D  engine.exe+B7FE9D  VA 00F7FE9D
+    016B0240  engine.exe+B80240  VA 00F80240
+    00E0345A  engine.exe+2D345A  VA 006D345A
+    00E0326F  engine.exe+2D326F  VA 006D326F
+    00F6C43E  engine.exe+43C43E  VA 0083C43E
+    00D73729  engine.exe+243729  VA 00643729
+    00F731BE  engine.exe+4431BE  VA 008431BE
+    00F72A2B  engine.exe+442A2B  VA 00842A2B
+    00F731BE  engine.exe+4431BE  VA 008431BE
+    00F72A2B  engine.exe+442A2B  VA 00842A2B
+    00F73B48  engine.exe+443B48  VA 00843B48
+    0129C26B  engine.exe+76C26B  VA 00B6C26B
+    012B634F  engine.exe+78634F  VA 00B8634F
+    0150745E  engine.exe+9D745E  VA 00DD745E
+    00E70770  engine.exe+340770  VA 00740770
+    00E633EA  engine.exe+3333EA  VA 007333EA
+    00FAE71E  engine.exe+47E71E  VA 0087E71E
+    00FCFA8F  engine.exe+49FA8F  VA 0089FA8F
+    0121795A  engine.exe+6E795A  VA 00AE795A
+    01198FC1  engine.exe+668FC1  VA 00A68FC1
+    00F73E12  engine.exe+443E12  VA 00843E12
+    0129C26B  engine.exe+76C26B  VA 00B6C26B
+    01217DFD  engine.exe+6E7DFD  VA 00AE7DFD
+    0121778C  engine.exe+6E778C  VA 00AE778C
+    01198FC1  engine.exe+668FC1  VA 00A68FC1
+    00F73E12  engine.exe+443E12  VA 00843E12
+    0129C26B  engine.exe+76C26B  VA 00B6C26B
+    012177F8  engine.exe+6E77F8  VA 00AE77F8
+    01198FC1  engine.exe+668FC1  VA 00A68FC1
+    00F73E12  engine.exe+443E12  VA 00843E12
+    0129C26B  engine.exe+76C26B  VA 00B6C26B
+    01028CF8  engine.exe+4F8CF8  VA 008F8CF8
+    00F9201D  engine.exe+46201D  VA 0086201D
+    01867D66  engine.exe+D37D66  VA 01137D66
+    75BBFA29  KERNEL32.DLL+1FA29
+    774E7A9E  ntdll.dll+67A9E
+    774E7A6E  ntdll.dll+67A6E
+stack scan, return addresses nearest first:
+    01751162  engine.exe+C21162  VA 01021162
+    016B4D6A  engine.exe+B84D6A  VA 00F84D6A
+    016B4C34  engine.exe+B84C34  VA 00F84C34
+    017D444F  engine.exe+CA444F  VA 010A444F
+    014CA8DF  engine.exe+99A8DF  VA 00D9A8DF
+    017D676C  engine.exe+CA676C  VA 010A676C
+    017D3344  engine.exe+CA3344  VA 010A3344
+    01757330  engine.exe+C27330  VA 01027330
+    016AF875  engine.exe+B7F875  VA 00F7F875
+    016AFDA3  engine.exe+B7FDA3  VA 00F7FDA3
+    016AE736  engine.exe+B7E736  VA 00F7E736
+    014CA8DF  engine.exe+99A8DF  VA 00D9A8DF
+    014CA8DF  engine.exe+99A8DF  VA 00D9A8DF
+    017D2EF3  engine.exe+CA2EF3  VA 010A2EF3
+    014CA8DF  engine.exe+99A8DF  VA 00D9A8DF
+    017D676C  engine.exe+CA676C  VA 010A676C
+    017D3344  engine.exe+CA3344  VA 010A3344
+    01757330  engine.exe+C27330  VA 01027330
+    016AF875  engine.exe+B7F875  VA 00F7F875
+    016AFDA3  engine.exe+B7FDA3  VA 00F7FDA3
+    016B4D6A  engine.exe+B84D6A  VA 00F84D6A
+    016B4C34  engine.exe+B84C34  VA 00F84C34
+    016B0EAA  engine.exe+B80EAA  VA 00F80EAA
+    016B1A1D  engine.exe+B81A1D  VA 00F81A1D
+    016AFE9D  engine.exe+B7FE9D  VA 00F7FE9D
+    016AFE9D  engine.exe+B7FE9D  VA 00F7FE9D
+    0175E4AD  engine.exe+C2E4AD  VA 0102E4AD
+    016B0240  engine.exe+B80240  VA 00F80240
+    00E0345A  engine.exe+2D345A  VA 006D345A
+    00E0326F  engine.exe+2D326F  VA 006D326F
+    00F6C43E  engine.exe+43C43E  VA 0083C43E
+    00D73729  engine.exe+243729  VA 00643729
+    00F72E7A  engine.exe+442E7A  VA 00842E7A
+    018A50FD  engine.exe+D750FD  VA 011750FD
+    00F731BE  engine.exe+4431BE  VA 008431BE
+    00DFC723  engine.exe+2CC723  VA 006CC723
+    00F73332  engine.exe+443332  VA 00843332
+    00F7333E  engine.exe+44333E  VA 0084333E
+    00F72A2B  engine.exe+442A2B  VA 00842A2B
+    00F731BE  engine.exe+4431BE  VA 008431BE
+    00F6601F  engine.exe+43601F  VA 0083601F
+    00F73332  engine.exe+443332  VA 00843332
+    00F7333E  engine.exe+44333E  VA 0084333E
+    00F72A2B  engine.exe+442A2B  VA 00842A2B
+    00F73B48  engine.exe+443B48  VA 00843B48
+    6D6ACA5B  CoreMessaging.dll+3CA5B
+    6D6ACB34  CoreMessaging.dll+3CB34
+    774CC7BC  ntdll.dll+4C7BC
+    772FA6AC  USER32.dll+3A6AC
+    75762E9B  KERNELBASE.dll+112E9B
+    772FB07F  USER32.dll+3B07F
+    7651118C  win32u.dll+118C
+    77301499  USER32.dll+41499
+    772FA47E  USER32.dll+3A47E
+    772FA8AF  USER32.dll+3A8AF
+    772FA26A  USER32.dll+3A26A
+    772FDE3F  USER32.dll+3DE3F
+    774F2A0C  ntdll.dll+72A0C
+    772FDE57  USER32.dll+3DE57
+    774F4E9D  ntdll.dll+74E9D
+    7651101C  win32u.dll+101C
+    772FE0DA  USER32.dll+3E0DA
+    772E23DD  USER32.dll+223DD
+    0129C26B  engine.exe+76C26B  VA 00B6C26B
+    012B634F  engine.exe+78634F  VA 00B8634F
+    0150745E  engine.exe+9D745E  VA 00DD745E
+    00E70770  engine.exe+340770  VA 00740770
+    00E633EA  engine.exe+3333EA  VA 007333EA
+    013452EE  engine.exe+8152EE  VA 00C152EE
+    774DC13B  ntdll.dll+5C13B
+    01217DFD  engine.exe+6E7DFD  VA 00AE7DFD
+    774DC13B  ntdll.dll+5C13B
+    0121778C  engine.exe+6E778C  VA 00AE778C
+    774DC061  ntdll.dll+5C061
+    014CC45C  engine.exe+99C45C  VA 00D9C45C
+    014CBB1E  engine.exe+99BB1E  VA 00D9BB1E
+    014CBACC  engine.exe+99BACC  VA 00D9BACC
+    014CAF01  engine.exe+99AF01  VA 00D9AF01
+    014CAF19  engine.exe+99AF19  VA 00D9AF19
+    018CF618  engine.exe+D9F618  VA 0119F618
+windows of the main thread:
+  window 0010009E class 'CEW_KERNEL' title 'GSC engine' visible=1 rect 0,0-1680,1050 (game)
+  window 000C04D0 class 'MSCTFIME UI' title 'MSCTFIME UI' visible=0 rect 0,0-0,0
+  window 000F02EC class 'IME' title 'Default IME' visible=0 rect 0,0-0,0
+
+==== 2026-10-13 19:25:34  no frame, no frame presented for 131281 ms
+stage: load 'In GameCycle t=32122'  game 'PlayGame_004'
+eip 01B82CD7 esp 006BDCAC ebp 006BDCCC
+main thread is at:
+    01B82CD7  engine.exe+DF2CD7  VA 011F2CD7
+EBP chain:
+    01B64D14  engine.exe+DD4D14  VA 011D4D14
+    0157470E  engine.exe+7E470E  VA 00BE470E
+stack scan, return addresses nearest first:
+    01B64D6F  engine.exe+DD4D6F  VA 011D4D6F
+    01B64D6F  engine.exe+DD4D6F  VA 011D4D6F
+    01B64D14  engine.exe+DD4D14  VA 011D4D14
+    01B469E2  engine.exe+DB69E2  VA 011B69E2
+    0157BB58  engine.exe+7EBB58  VA 00BEBB58
+    0157470E  engine.exe+7E470E  VA 00BE470E
+    018FBE79  engine.exe+B6BE79  VA 00F6BE79
+    00F99404  engine.exe+209404  VA 00609404
+windows of the main thread:
+  window 000803B6 class 'CEW_KERNEL' title 'GSC engine' visible=1 rect 0,0-1680,1050 (game)
+  window 00090322 class 'MSCTFIME UI' title 'MSCTFIME UI' visible=0 rect 0,0-0,0
+  window 000E0372 class 'IME' title 'Default IME' visible=0 rect 0,0-0,0
+
+==== 2026-10-13 19:52:59  no frame, no frame presented for 178953 ms
+stage: load 'Before MainMenu'  game ''
+eip 76F92A3C esp 0075F238 ebp 0075F298
+main thread is at:
+    76F92A3C  ntdll.dll+72A3C
+EBP chain:
+    00FDF366  engine.exe+24F366  VA 0064F366
+    00FDD8B0  engine.exe+24D8B0  VA 0064D8B0
+    01163C7C  engine.exe+3D3C7C  VA 007D3C7C
+    0115C425  engine.exe+3CC425  VA 007CC425
+    01162166  engine.exe+3D2166  VA 007D2166
+    0120DE5A  engine.exe+47DE5A  VA 0087DE5A
+    0147B3F1  engine.exe+6EB3F1  VA 00AEB3F1
+    011D7C12  engine.exe+447C12  VA 00847C12
+    014FFFFB  engine.exe+76FFFB  VA 00B6FFFB
+    0128CA58  engine.exe+4FCA58  VA 008FCA58
+    011F5DFD  engine.exe+465DFD  VA 00865DFD
+    01ACC8D6  engine.exe+D3C8D6  VA 0113C8D6
+    76BAFA29  KERNEL32.DLL+1FA29
+    76F87A9E  ntdll.dll+67A9E
+    76F87A6E  ntdll.dll+67A6E
+stack scan, return addresses nearest first:
+    74EDF42C  KERNELBASE.dll+10F42C
+    00FDF366  engine.exe+24F366  VA 0064F366
+    00FDD8B0  engine.exe+24D8B0  VA 0064D8B0
+    01163C7C  engine.exe+3D3C7C  VA 007D3C7C
+    0115C425  engine.exe+3CC425  VA 007CC425
+    01162166  engine.exe+3D2166  VA 007D2166
+    01096B97  engine.exe+306B97  VA 00706B97
+    0116534C  engine.exe+3D534C  VA 007D534C
+    0120DE5A  engine.exe+47DE5A  VA 0087DE5A
+    0147B3F1  engine.exe+6EB3F1  VA 00AEB3F1
+    013FCC81  engine.exe+66CC81  VA 00A6CC81
+    011D7C12  engine.exe+447C12  VA 00847C12
+    6FC6DBFD  d3d11.dll+11DBFD
+    76F6C7BC  ntdll.dll+4C7BC
+    76F6DCD4  ntdll.dll+4DCD4
+    7649A8AF  USER32.dll+3A8AF
+    7649A6AC  USER32.dll+3A6AC
+    1059A74C  nvwgf2um.dll+57A74C
+    1059C65C  nvwgf2um.dll+57C65C
+    6FC6DBFD  d3d11.dll+11DBFD
+    1059A764  nvwgf2um.dll+57A764
+    1059C674  nvwgf2um.dll+57C674
+    6FC76421  d3d11.dll+126421
+    6FC7642F  d3d11.dll+12642F
+    018F6E81  engine.exe+B66E81  VA 00F66E81
+    7649A47E  USER32.dll+3A47E
+    768E101C  win32u.dll+101C
+    7649E0DA  USER32.dll+3E0DA
+    764823DD  USER32.dll+223DD
+    019BB024  engine.exe+C2B024  VA 0102B024
+    014FFFFB  engine.exe+76FFFB  VA 00B6FFFB
+    0128CA58  engine.exe+4FCA58  VA 008FCA58
+    011F5DFD  engine.exe+465DFD  VA 00865DFD
+    010A64CC  engine.exe+3164CC  VA 007164CC
+    01ACC8D6  engine.exe+D3C8D6  VA 0113C8D6
+    76BAFA29  KERNEL32.DLL+1FA29
+    76F87A9E  ntdll.dll+67A9E
+    76F87A6E  ntdll.dll+67A6E
+windows of the main thread:
+  window 001103C2 class 'CEW_KERNEL' title 'GSC engine' visible=1 rect 0,0-1680,1050 (game)
+  window 000F02E8 class 'MSCTFIME UI' title 'MSCTFIME UI' visible=0 rect 0,0-0,0
+  window 00150372 class 'IME' title 'Default IME' visible=0 rect 0,0-0,0
+
+==== 2026-10-13 20:47:49  no frame, no frame presented for 45297 ms
+stage: load 'Before MainMenu'  game ''
+eip 768E101C esp 0093F5EC ebp 0093F638
+main thread is at:
+    768E101C  win32u.dll+101C
+EBP chain:
+    764823DD  USER32.dll+223DD
+    014FFF30  engine.exe+76FF30  VA 00B6FF30
+    0147BAFD  engine.exe+6EBAFD  VA 00AEBAFD
+    0147B48C  engine.exe+6EB48C  VA 00AEB48C
+    013FCC81  engine.exe+66CC81  VA 00A6CC81
+    011D7C12  engine.exe+447C12  VA 00847C12
+    014FFFFB  engine.exe+76FFFB  VA 00B6FFFB
+    0147B4F8  engine.exe+6EB4F8  VA 00AEB4F8
+    013FCC81  engine.exe+66CC81  VA 00A6CC81
+    011D7C12  engine.exe+447C12  VA 00847C12
+    014FFFFB  engine.exe+76FFFB  VA 00B6FFFB
+    0128CA58  engine.exe+4FCA58  VA 008FCA58
+    011F5DFD  engine.exe+465DFD  VA 00865DFD
+    01ACC8D6  engine.exe+D3C8D6  VA 0113C8D6
+    76BAFA29  KERNEL32.DLL+1FA29
+    76F87A9E  ntdll.dll+67A9E
+    76F87A6E  ntdll.dll+67A6E
+stack scan, return addresses nearest first:
+    7649E0DA  USER32.dll+3E0DA
+    764823DD  USER32.dll+223DD
+    014FFF30  engine.exe+76FF30  VA 00B6FF30
+    0147BAFD  engine.exe+6EBAFD  VA 00AEBAFD
+    0147B48C  engine.exe+6EB48C  VA 00AEB48C
+    013FCC81  engine.exe+66CC81  VA 00A6CC81
+    011D7C12  engine.exe+447C12  VA 00847C12
+    6E0BDBFD  d3d11.dll+11DBFD
+    76F6C7BC  ntdll.dll+4C7BC
+    76F6DCD4  ntdll.dll+4DCD4
+    7649A6AC  USER32.dll+3A6AC
+    1059A74C  nvwgf2um.dll+57A74C
+    1059C65C  nvwgf2um.dll+57C65C
+    6E0BDBFD  d3d11.dll+11DBFD
+    1059A764  nvwgf2um.dll+57A764
+    1059C674  nvwgf2um.dll+57C674
+    6E0C6421  d3d11.dll+126421
+    6E0C642F  d3d11.dll+12642F
+    018F6E81  engine.exe+B66E81  VA 00F66E81
+    7649A47E  USER32.dll+3A47E
+    768E101C  win32u.dll+101C
+    7649E0DA  USER32.dll+3E0DA
+    764823DD  USER32.dll+223DD
+    019BB024  engine.exe+C2B024  VA 0102B024
+    014FFFFB  engine.exe+76FFFB  VA 00B6FFFB
+    0147B4F8  engine.exe+6EB4F8  VA 00AEB4F8
+    013FCC81  engine.exe+66CC81  VA 00A6CC81
+    011D7C12  engine.exe+447C12  VA 00847C12
+    6E0BDBFD  d3d11.dll+11DBFD
+    76F6C7BC  ntdll.dll+4C7BC
+    76F6DCD4  ntdll.dll+4DCD4
+    7649A8AF  USER32.dll+3A8AF
+    7649A6AC  USER32.dll+3A6AC
+    1059A74C  nvwgf2um.dll+57A74C
+    1059C65C  nvwgf2um.dll+57C65C
+    6E0BDBFD  d3d11.dll+11DBFD
+    1059A764  nvwgf2um.dll+57A764
+    1059C674  nvwgf2um.dll+57C674
+    6E0C6421  d3d11.dll+126421
+    6E0C642F  d3d11.dll+12642F
+    018F6E81  engine.exe+B66E81  VA 00F66E81
+    7649A47E  USER32.dll+3A47E
+    768E101C  win32u.dll+101C
+    7649E0DA  USER32.dll+3E0DA
+    764823DD  USER32.dll+223DD
+    019BB024  engine.exe+C2B024  VA 0102B024
+    014FFFFB  engine.exe+76FFFB  VA 00B6FFFB
+    0128CA58  engine.exe+4FCA58  VA 008FCA58
+    011F5DFD  engine.exe+465DFD  VA 00865DFD
+    010A64CC  engine.exe+3164CC  VA 007164CC
+    01ACC8D6  engine.exe+D3C8D6  VA 0113C8D6
+    76BAFA29  KERNEL32.DLL+1FA29
+    76F87A9E  ntdll.dll+67A9E
+    76F87A6E  ntdll.dll+67A6E
+windows of the main thread:
+  window 000F0382 class 'CEW_KERNEL' title 'GSC engine' visible=1 rect 0,0-1680,1050 (game)
+  window 000704BE class 'MSCTFIME UI' title 'MSCTFIME UI' visible=0 rect 0,0-0,0
+  window 000C0450 class 'IME' title 'Default IME' visible=0 rect 0,0-0,0
+
+==== 2026-10-14 00:41:58  no frame, no frame presented for 291172 ms
+stage: load 'In GameCycle t=98209'  game 'PlayGame_004'
+eip 768E103C esp 0735EC90 ebp 0735EC9C
+main thread is at:
+    768E103C  win32u.dll+103C
+EBP chain:
+    011D6894  engine.exe+446894  VA 00846894
+    011D6FBE  engine.exe+446FBE  VA 00846FBE
+    011D6FBE  engine.exe+446FBE  VA 00846FBE
+    011D682B  engine.exe+44682B  VA 0084682B
+    011D7948  engine.exe+447948  VA 00847948
+    0110554B  engine.exe+37554B  VA 0077554B
+    010CA28E  engine.exe+33A28E  VA 0073A28E
+    012125AA  engine.exe+4825AA  VA 008825AA
+    012337EF  engine.exe+4A37EF  VA 008A37EF
+    0147BA98  engine.exe+6EBA98  VA 00AEBA98
+    011D7C12  engine.exe+447C12  VA 00847C12
+    014FFFFB  engine.exe+76FFFB  VA 00B6FFFB
+    0147BB10  engine.exe+6EBB10  VA 00AEBB10
+    013FCC81  engine.exe+66CC81  VA 00A6CC81
+    0147C27C  engine.exe+6EC27C  VA 00AEC27C
+    013FCC81  engine.exe+66CC81  VA 00A6CC81
+    011D7C12  engine.exe+447C12  VA 00847C12
+    014FFFFB  engine.exe+76FFFB  VA 00B6FFFB
+    0147B9EF  engine.exe+6EB9EF  VA 00AEB9EF
+    013FCC81  engine.exe+66CC81  VA 00A6CC81
+    011D7C12  engine.exe+447C12  VA 00847C12
+    014FFFFB  engine.exe+76FFFB  VA 00B6FFFB
+    0128CA58  engine.exe+4FCA58  VA 008FCA58
+    011F5DFD  engine.exe+465DFD  VA 00865DFD
+    01ACC8D6  engine.exe+D3C8D6  VA 0113C8D6
+    76BAFA29  KERNEL32.DLL+1FA29
+    76F87A9E  ntdll.dll+67A9E
+    76F87A6E  ntdll.dll+67A6E
+stack scan, return addresses nearest first:
+    7649EC46  USER32.dll+3EC46
+    011D6894  engine.exe+446894  VA 00846894
+    01B0A56E  engine.exe+D7A56E  VA 0117A56E
+    017318F8  engine.exe+9A18F8  VA 00DA18F8
+    011D6FBE  engine.exe+446FBE  VA 00846FBE
+    01B0A56E  engine.exe+D7A56E  VA 0117A56E
+    011D6FBE  engine.exe+446FBE  VA 00846FBE
+    011D71ED  engine.exe+4471ED  VA 008471ED
+    011D682B  engine.exe+44682B  VA 0084682B
+    011D748F  engine.exe+44748F  VA 0084748F
+    011D7948  engine.exe+447948  VA 00847948
+    011D8475  engine.exe+448475  VA 00848475
+    011D84A5  engine.exe+4484A5  VA 008484A5
+    01511470  engine.exe+781470  VA 00B81470
+    76F7C13B  ntdll.dll+5C13B
+    76F7C13B  ntdll.dll+5C13B
+    76F7C13B  ntdll.dll+5C13B
+    015ABB71  engine.exe+81BB71  VA 00C1BB71
+    0147BB10  engine.exe+6EBB10  VA 00AEBB10
+    76F7C061  ntdll.dll+5C061
+    76F92B3C  ntdll.dll+72B3C
+    74EF4B01  KERNELBASE.dll+124B01
+    017303AB  engine.exe+9A03AB  VA 00DA03AB
+    0172FB87  engine.exe+99FB87  VA 00D9FB87
+    0160994F  engine.exe+87994F  VA 00C7994F
+    00FD6938  engine.exe+246938  VA 00646938
+    01272F12  engine.exe+4E2F12  VA 008E2F12
+    01272F2D  engine.exe+4E2F2D  VA 008E2F2D
+    01667C64  engine.exe+8D7C64  VA 00CD7C64
+    016690B3  engine.exe+8D90B3  VA 00CD90B3
+    76F7BE5F  ntdll.dll+5BE5F
+    0110554B  engine.exe+37554B  VA 0077554B
+    76F7BCEC  ntdll.dll+5BCEC
+    76F7BD9B  ntdll.dll+5BD9B
+    010CF3CE  engine.exe+33F3CE  VA 0073F3CE
+    0116534C  engine.exe+3D534C  VA 007D534C
+    010CA28E  engine.exe+33A28E  VA 0073A28E
+    012125AA  engine.exe+4825AA  VA 008825AA
+    012337EF  engine.exe+4A37EF  VA 008A37EF
+    010FE488  engine.exe+36E488  VA 0076E488
+    013474B3  engine.exe+5B74B3  VA 009B74B3
+    0147BA98  engine.exe+6EBA98  VA 00AEBA98
+    013FCC81  engine.exe+66CC81  VA 00A6CC81
+    011D7C12  engine.exe+447C12  VA 00847C12
+    6E0BDBFD  d3d11.dll+11DBFD
+    76F6C7BC  ntdll.dll+4C7BC
+    76F6DCD4  ntdll.dll+4DCD4
+    7649A6AC  USER32.dll+3A6AC
+    1059A74C  nvwgf2um.dll+57A74C
+    1059C65C  nvwgf2um.dll+57C65C
+    6E0BDBFD  d3d11.dll+11DBFD
+    1059A764  nvwgf2um.dll+57A764
+    1059C674  nvwgf2um.dll+57C674
+    6E0C6421  d3d11.dll+126421
+    6E0C642F  d3d11.dll+12642F
+    018F6E81  engine.exe+B66E81  VA 00F66E81
+    7649A47E  USER32.dll+3A47E
+    768E101C  win32u.dll+101C
+    7649E0DA  USER32.dll+3E0DA
+    764823DD  USER32.dll+223DD
+    019BB024  engine.exe+C2B024  VA 0102B024
+    014FFFFB  engine.exe+76FFFB  VA 00B6FFFB
+    0147BB10  engine.exe+6EBB10  VA 00AEBB10
+    013FCC81  engine.exe+66CC81  VA 00A6CC81
+    0147C27C  engine.exe+6EC27C  VA 00AEC27C
+    013FCC81  engine.exe+66CC81  VA 00A6CC81
+    011D7C12  engine.exe+447C12  VA 00847C12
+    6E0BDBFD  d3d11.dll+11DBFD
+    76F6C7BC  ntdll.dll+4C7BC
+    76F6DCD4  ntdll.dll+4DCD4
+    7649A8AF  USER32.dll+3A8AF
+    7649A6AC  USER32.dll+3A6AC
+    1059A74C  nvwgf2um.dll+57A74C
+    1059C65C  nvwgf2um.dll+57C65C
+    6E0BDBFD  d3d11.dll+11DBFD
+    1059A764  nvwgf2um.dll+57A764
+    1059C674  nvwgf2um.dll+57C674
+    6E0C6421  d3d11.dll+126421
+    6E0C642F  d3d11.dll+12642F
+    018F6E81  engine.exe+B66E81  VA 00F66E81
+windows of the main thread:
+  window 0077036E class 'CEW_KERNEL' title 'GSC engine' visible=1 rect 0,0-1680,1050 (game)
+  window 001E0436 class 'MSCTFIME UI' title 'MSCTFIME UI' visible=0 rect 0,0-0,0
+  window 001C0414 class 'IME' title 'Default IME' visible=0 rect 0,0-0,0
+
+==== 2026-10-14 00:43:35  no frame, no frame presented for 92453 ms
+stage: load 'In GameCycle t=98517'  game 'PlayGame_004'
+eip 0190CFFE esp 0735522C ebp 07355230
+main thread is at:
+    0190CFFE  engine.exe+B7CFFE  VA 00F7CFFE
+EBP chain:
+    01066180  engine.exe+2D6180  VA 006D6180
+    01074393  engine.exe+2E4393  VA 006E4393
+    0106B94D  engine.exe+2DB94D  VA 006DB94D
+    0192FEFC  engine.exe+B9FEFC  VA 00F9FEFC
+    019376BF  engine.exe+BA76BF  VA 00FA76BF
+    019387C3  engine.exe+BA87C3  VA 00FA87C3
+    0106CBD0  engine.exe+2DCBD0  VA 006DCBD0
+    010C5F0C  engine.exe+335F0C  VA 00735F0C
+    0121248E  engine.exe+48248E  VA 0088248E
+    012337EF  engine.exe+4A37EF  VA 008A37EF
+    0147BA98  engine.exe+6EBA98  VA 00AEBA98
+    011D7C12  engine.exe+447C12  VA 00847C12
+    014FFFFB  engine.exe+76FFFB  VA 00B6FFFB
+    0147BB10  engine.exe+6EBB10  VA 00AEBB10
+    013FCC81  engine.exe+66CC81  VA 00A6CC81
+    0147C27C  engine.exe+6EC27C  VA 00AEC27C
+    013FCC81  engine.exe+66CC81  VA 00A6CC81
+    011D7C12  engine.exe+447C12  VA 00847C12
+    014FFFFB  engine.exe+76FFFB  VA 00B6FFFB
+    0147B9EF  engine.exe+6EB9EF  VA 00AEB9EF
+    013FCC81  engine.exe+66CC81  VA 00A6CC81
+    011D7C12  engine.exe+447C12  VA 00847C12
+    014FFFFB  engine.exe+76FFFB  VA 00B6FFFB
+    0128CA58  engine.exe+4FCA58  VA 008FCA58
+    011F5DFD  engine.exe+465DFD  VA 00865DFD
+    01ACC8D6  engine.exe+D3C8D6  VA 0113C8D6
+    76BAFA29  KERNEL32.DLL+1FA29
+    76F87A9E  ntdll.dll+67A9E
+    76F87A6E  ntdll.dll+67A6E
+stack scan, return addresses nearest first:
+    01066180  engine.exe+2D6180  VA 006D6180
+    01072FDE  engine.exe+2E2FDE  VA 006E2FDE
+    01000325  engine.exe+270325  VA 00670325
+    6CA2E381  D3DCOMPILER_47.dll+DE381
+    6CA23B57  D3DCOMPILER_47.dll+D3B57
+    6CA298F2  D3DCOMPILER_47.dll+D98F2
+    6CA299C5  D3DCOMPILER_47.dll+D99C5
+    6CA299D4  D3DCOMPILER_47.dll+D99D4
+    6CA299C5  D3DCOMPILER_47.dll+D99C5
+    6CA299D4  D3DCOMPILER_47.dll+D99D4
+    6CA29957  D3DCOMPILER_47.dll+D9957
+    6CA299C5  D3DCOMPILER_47.dll+D99C5
+    6CA299D4  D3DCOMPILER_47.dll+D99D4
+    6CB70DA2  D3DCOMPILER_47.dll+220DA2
+    6CB7E6C0  D3DCOMPILER_47.dll+22E6C0
+    6CB7E6D3  D3DCOMPILER_47.dll+22E6D3
+    6CA298F2  D3DCOMPILER_47.dll+D98F2
+    6CAC79AA  D3DCOMPILER_47.dll+1779AA
+    6CAC79AA  D3DCOMPILER_47.dll+1779AA
+    6CA7C2D6  D3DCOMPILER_47.dll+12C2D6
+    6CB70DA2  D3DCOMPILER_47.dll+220DA2
+    6CB7E6C0  D3DCOMPILER_47.dll+22E6C0
+    6CB7E6D3  D3DCOMPILER_47.dll+22E6D3
+    6CA46971  D3DCOMPILER_47.dll+F6971
+    6CA46F9D  D3DCOMPILER_47.dll+F6F9D
+    111800E5  nvwgf2um.dll+11600E5
+    6D9E005F  windowscodecs.dll+10005F
+    76AA0053  shcore.dll+50053
+    76AA0053  shcore.dll+50053
+    76AA0053  shcore.dll+50053
+    015672C8  engine.exe+7D72C8  VA 00BD72C8
+    015672C8  engine.exe+7D72C8  VA 00BD72C8
+    010F558A  engine.exe+36558A  VA 0076558A
+    0164083A  engine.exe+8B083A  VA 00CB083A
+    0157E63F  engine.exe+7EE63F  VA 00BEE63F
+    010445FE  engine.exe+2B45FE  VA 006B45FE
+    079C8B19  IntExplorer.dll+8B19
+    079C8B19  IntExplorer.dll+8B19
+    10842E11  nvwgf2um.dll+822E11
+    101FB9CC  nvwgf2um.dll+1DB9CC
+    100F8C10  nvwgf2um.dll+D8C10
+    100F8C26  nvwgf2um.dll+D8C26
+    101FEAB6  nvwgf2um.dll+1DEAB6
+    101FEBC6  nvwgf2um.dll+1DEBC6
+    101FBE01  nvwgf2um.dll+1DBE01
+    101FBECA  nvwgf2um.dll+1DBECA
+    101F95F0  nvwgf2um.dll+1D95F0
+    1010256A  nvwgf2um.dll+E256A
+    101FDFB1  nvwgf2um.dll+1DDFB1
+    101FE047  nvwgf2um.dll+1DE047
+    101FE0AB  nvwgf2um.dll+1DE0AB
+    76F6627F  ntdll.dll+4627F
+    01B34168  engine.exe+DA4168  VA 011A4168
+    01B2BAF4  engine.exe+D9BAF4  VA 0119BAF4
+    01B2BB70  engine.exe+D9BB70  VA 0119BB70
+    01B269BE  engine.exe+D969BE  VA 011969BE
+    01B23F87  engine.exe+D93F87  VA 01193F87
+    01B19FB2  engine.exe+D89FB2  VA 01189FB2
+    01B19FC1  engine.exe+D89FC1  VA 01189FC1
+    10842E11  nvwgf2um.dll+822E11
+    10842E11  nvwgf2um.dll+822E11
+    103E58C1  nvwgf2um.dll+3C58C1
+    10842E11  nvwgf2um.dll+822E11
+    101FCBFC  nvwgf2um.dll+1DCBFC
+    101FCED7  nvwgf2um.dll+1DCED7
+    103E6506  nvwgf2um.dll+3C6506
+    103E6773  nvwgf2um.dll+3C6773
+    101FD69D  nvwgf2um.dll+1DD69D
+    10100D79  nvwgf2um.dll+E0D79
+    101FB9CC  nvwgf2um.dll+1DB9CC
+    10842E11  nvwgf2um.dll+822E11
+    101FB9CC  nvwgf2um.dll+1DB9CC
+    100F8C10  nvwgf2um.dll+D8C10
+    100F8C26  nvwgf2um.dll+D8C26
+    101FB9CC  nvwgf2um.dll+1DB9CC
+    100F8C10  nvwgf2um.dll+D8C10
+    76F7C13B  ntdll.dll+5C13B
+    0147BB10  engine.exe+6EBB10  VA 00AEBB10
+    10498416  nvwgf2um.dll+478416
+    76F92B3C  ntdll.dll+72B3C
+windows of the main thread:
+  window 0077036E class 'CEW_KERNEL' title 'GSC engine' visible=1 rect 0,0-1680,1050 (game)
+  window 001E0436 class 'MSCTFIME UI' title 'MSCTFIME UI' visible=0 rect 0,0-0,0
+  window 001C0414 class 'IME' title 'Default IME' visible=0 rect 0,0-0,0
+
+==== 2026-10-16 21:49:56  no frame, no frame presented for 109547 ms
+stage: load 'In GameCycle t=3096'  game 'PlayGame_004'
+eip 01B2D9AE esp 006F4A18 ebp 006F4A44
+main thread is at:
+    01B2D9AE  engine.exe+D7D9AE  VA 0117D9AE
+EBP chain:
+    0191C64A  engine.exe+B6C64A  VA 00F6C64A
+    01A5C513  engine.exe+CAC513  VA 010AC513
+    01A5C964  engine.exe+CAC964  VA 010AC964
+    019E0950  engine.exe+C30950  VA 01030950
+    019393D3  engine.exe+B893D3  VA 00F893D3
+    0193A67C  engine.exe+B8A67C  VA 00F8A67C
+    0193CDA9  engine.exe+B8CDA9  VA 00F8CDA9
+    00FF654A  engine.exe+24654A  VA 0064654A
+    01093074  engine.exe+2E3074  VA 006E3074
+    01094393  engine.exe+2E4393  VA 006E4393
+    0108B94D  engine.exe+2DB94D  VA 006DB94D
+    019549BC  engine.exe+BA49BC  VA 00FA49BC
+    0195C17F  engine.exe+BAC17F  VA 00FAC17F
+    0195D283  engine.exe+BAD283  VA 00FAD283
+    0108CBD0  engine.exe+2DCBD0  VA 006DCBD0
+    010E5F0C  engine.exe+335F0C  VA 00735F0C
+    01232A7E  engine.exe+482A7E  VA 00882A7E
+    01253DDF  engine.exe+4A3DDF  VA 008A3DDF
+    0149CAB3  engine.exe+6ECAB3  VA 00AECAB3
+    011F81B2  engine.exe+4481B2  VA 008481B2
+    0152139B  engine.exe+77139B  VA 00B7139B
+    0149CB30  engine.exe+6ECB30  VA 00AECB30
+    0141D741  engine.exe+66D741  VA 00A6D741
+    0149D2AC  engine.exe+6ED2AC  VA 00AED2AC
+    0141D741  engine.exe+66D741  VA 00A6D741
+    011F81B2  engine.exe+4481B2  VA 008481B2
+    0152139B  engine.exe+77139B  VA 00B7139B
+    0149CA2F  engine.exe+6ECA2F  VA 00AECA2F
+    0141D741  engine.exe+66D741  VA 00A6D741
+    011F81B2  engine.exe+4481B2  VA 008481B2
+    0152139B  engine.exe+77139B  VA 00B7139B
+    012AD4F8  engine.exe+4FD4F8  VA 008FD4F8
+    012163AD  engine.exe+4663AD  VA 008663AD
+    01AF1346  engine.exe+D41346  VA 01141346
+    7746FCC9  KERNEL32.DLL+1FCC9
+    778C82AE  ntdll.dll+682AE
+    778C827E  ntdll.dll+6827E
+stack scan, return addresses nearest first:
+    01926F92  engine.exe+B76F92  VA 00F76F92
+    0191C64A  engine.exe+B6C64A  VA 00F6C64A
+    01937D66  engine.exe+B87D66  VA 00F87D66
+    01937D66  engine.exe+B87D66  VA 00F87D66
+    778BC66B  ntdll.dll+5C66B
+    01938232  engine.exe+B88232  VA 00F88232
+    01A5C513  engine.exe+CAC513  VA 010AC513
+    01A5FD8C  engine.exe+CAFD8C  VA 010AFD8C
+    01A5C964  engine.exe+CAC964  VA 010AC964
+    019E0950  engine.exe+C30950  VA 01030950
+    01938EA5  engine.exe+B88EA5  VA 00F88EA5
+    019393D3  engine.exe+B893D3  VA 00F893D3
+    0193A67C  engine.exe+B8A67C  VA 00F8A67C
+    0193CDA9  engine.exe+B8CDA9  VA 00F8CDA9
+    00FF654A  engine.exe+24654A  VA 0064654A
+    01093074  engine.exe+2E3074  VA 006E3074
+    6FAFE381  D3DCOMPILER_47.dll+DE381
+    6FAF3B57  D3DCOMPILER_47.dll+D3B57
+    6FAF98F2  D3DCOMPILER_47.dll+D98F2
+    6FAF99C5  D3DCOMPILER_47.dll+D99C5
+    6FAF99D4  D3DCOMPILER_47.dll+D99D4
+    6FAF92D2  D3DCOMPILER_47.dll+D92D2
+    6FAF92D2  D3DCOMPILER_47.dll+D92D2
+    6FAF95C3  D3DCOMPILER_47.dll+D95C3
+    6FAFE381  D3DCOMPILER_47.dll+DE381
+    6FAF3B57  D3DCOMPILER_47.dll+D3B57
+    6FAF98F2  D3DCOMPILER_47.dll+D98F2
+    6FAF99C5  D3DCOMPILER_47.dll+D99C5
+    6FAF99D4  D3DCOMPILER_47.dll+D99D4
+    6FAF92D2  D3DCOMPILER_47.dll+D92D2
+    6FAF92D2  D3DCOMPILER_47.dll+D92D2
+    6FAF95C3  D3DCOMPILER_47.dll+D95C3
+    6FAFE381  D3DCOMPILER_47.dll+DE381
+    6FAF3B57  D3DCOMPILER_47.dll+D3B57
+    6FAF98F2  D3DCOMPILER_47.dll+D98F2
+    6FAF99C5  D3DCOMPILER_47.dll+D99C5
+    6FAF99D4  D3DCOMPILER_47.dll+D99D4
+    6FB152FB  D3DCOMPILER_47.dll+F52FB
+    6FAFE381  D3DCOMPILER_47.dll+DE381
+    6FAF99C5  D3DCOMPILER_47.dll+D99C5
+    6FAF99D4  D3DCOMPILER_47.dll+D99D4
+    6FAF99C5  D3DCOMPILER_47.dll+D99C5
+    6FAF99D4  D3DCOMPILER_47.dll+D99D4
+    778A8F4B  ntdll.dll+48F4B
+    6FAFE381  D3DCOMPILER_47.dll+DE381
+    6FAF3B57  D3DCOMPILER_47.dll+D3B57
+    6FAF98F2  D3DCOMPILER_47.dll+D98F2
+    6FAF99C5  D3DCOMPILER_47.dll+D99C5
+    6FAF99D4  D3DCOMPILER_47.dll+D99D4
+    6FAFE381  D3DCOMPILER_47.dll+DE381
+    6FAF3B57  D3DCOMPILER_47.dll+D3B57
+    6FAF98F2  D3DCOMPILER_47.dll+D98F2
+    6FAF99C5  D3DCOMPILER_47.dll+D99C5
+    6FAF99D4  D3DCOMPILER_47.dll+D99D4
+    778A8F4B  ntdll.dll+48F4B
+    6FAFE381  D3DCOMPILER_47.dll+DE381
+    6FAF3B57  D3DCOMPILER_47.dll+D3B57
+    6FAF98F2  D3DCOMPILER_47.dll+D98F2
+    6FAF99C5  D3DCOMPILER_47.dll+D99C5
+    6FAF99D4  D3DCOMPILER_47.dll+D99D4
+    6FAF207F  D3DCOMPILER_47.dll+D207F
+    6FAF207F  D3DCOMPILER_47.dll+D207F
+    6FAF9374  D3DCOMPILER_47.dll+D9374
+    6FAF9374  D3DCOMPILER_47.dll+D9374
+    6FAF95C3  D3DCOMPILER_47.dll+D95C3
+    6FAF98F2  D3DCOMPILER_47.dll+D98F2
+    6FAF99C5  D3DCOMPILER_47.dll+D99C5
+    6FAF99D4  D3DCOMPILER_47.dll+D99D4
+    6FAF9957  D3DCOMPILER_47.dll+D9957
+    6FAF99C5  D3DCOMPILER_47.dll+D99C5
+    6FAF99D4  D3DCOMPILER_47.dll+D99D4
+    6FC40DA2  D3DCOMPILER_47.dll+220DA2
+    6FC4E6C0  D3DCOMPILER_47.dll+22E6C0
+    6FC4E6D3  D3DCOMPILER_47.dll+22E6D3
+    6FAF98F2  D3DCOMPILER_47.dll+D98F2
+    6FB979AA  D3DCOMPILER_47.dll+1779AA
+    6FB979AA  D3DCOMPILER_47.dll+1779AA
+    6FB4C2D6  D3DCOMPILER_47.dll+12C2D6
+    6FC40DA2  D3DCOMPILER_47.dll+220DA2
+    6FC4E6C0  D3DCOMPILER_47.dll+22E6C0
+windows of the main thread:
+  window 000B0634 class 'CEW_KERNEL' title 'GSC engine' visible=1 rect 0,0-1680,1050 (game)
+  window 000F0824 class 'MSCTFIME UI' title 'MSCTFIME UI' visible=0 rect 0,0-0,0
+  window 000606AE class 'IME' title 'Default IME' visible=0 rect 0,0-0,0
+
+==== 2026-10-16 23:47:38  no frame, no frame presented for 50593 ms
+stage: load 'In GameCycle t=109186'  game 'PlayGame_004'
+eip 01928DB9 esp 006BD064 ebp 006BD0BC
+main thread is at:
+    01928DB9  engine.exe+B78DB9  VA 00F78DB9
+EBP chain:
+    0191C5E6  engine.exe+B6C5E6  VA 00F6C5E6
+    01A5C513  engine.exe+CAC513  VA 010AC513
+    01A5C964  engine.exe+CAC964  VA 010AC964
+    019E0950  engine.exe+C30950  VA 01030950
+    01599D70  engine.exe+7E9D70  VA 00BE9D70
+stack scan, return addresses nearest first:
+    0191C5E6  engine.exe+B6C5E6  VA 00F6C5E6
+    01927708  engine.exe+B77708  VA 00F77708
+    01A5C513  engine.exe+CAC513  VA 010AC513
+    019E7ACD  engine.exe+C37ACD  VA 01037ACD
+    778BB0B9  ntdll.dll+5B0B9
+    01A5FD8C  engine.exe+CAFD8C  VA 010AFD8C
+    01A63A9A  engine.exe+CB3A9A  VA 010B3A9A
+    01A5C964  engine.exe+CAC964  VA 010AC964
+    019E0950  engine.exe+C30950  VA 01030950
+    01599D70  engine.exe+7E9D70  VA 00BE9D70
+    101C2F6F  nvwgf2um.dll+1A2F6F
+    104A33E2  nvwgf2um.dll+4833E2
+    104A37C2  nvwgf2um.dll+4837C2
+    1059AA34  nvwgf2um.dll+57AA34
+    6FD8F2DD  d3d11.dll+11F2DD
+    6FD8F2F6  d3d11.dll+11F2F6
+    105999A7  nvwgf2um.dll+5799A7
+    1059C2B7  nvwgf2um.dll+57C2B7
+    0191DE32  engine.exe+B6DE32  VA 00F6DE32
+    01927708  engine.exe+B77708  VA 00F77708
+    019E7ACD  engine.exe+C37ACD  VA 01037ACD
+    0159A354  engine.exe+7EA354  VA 00BEA354
+    00FB9404  engine.exe+209404  VA 00609404
+windows of the main thread:
+  window 000704F6 class 'CEW_KERNEL' title '' visible=1 rect 0,0-1680,1050 (game)
+  window 000E03D6 class 'MSCTFIME UI' title '' visible=0 rect 0,0-0,0
+  window 00240604 class 'IME' title '' visible=0 rect 0,0-0,0
+
+==== 2026-10-17 10:06:59  no frame, no frame presented for 25375 ms
+stage: load 'In GameCycle t=106324'  game 'PlayGame_004'
+eip 01C709AE esp 008F4908 ebp 008F4934
+main thread is at:
+    01C709AE  engine.exe+D809AE  VA 011809AE
+EBP chain:
+    01A5F64A  engine.exe+B6F64A  VA 00F6F64A
+    01B9F513  engine.exe+CAF513  VA 010AF513
+    01B9F964  engine.exe+CAF964  VA 010AF964
+    01B23950  engine.exe+C33950  VA 01033950
+    01A7B805  engine.exe+B8B805  VA 00F8B805
+    01A7D67C  engine.exe+B8D67C  VA 00F8D67C
+    01A7FDA9  engine.exe+B8FDA9  VA 00F8FDA9
+    0113654A  engine.exe+24654A  VA 0064654A
+    011D3074  engine.exe+2E3074  VA 006E3074
+    011D4393  engine.exe+2E4393  VA 006E4393
+    011CB94D  engine.exe+2DB94D  VA 006DB94D
+    01A979BC  engine.exe+BA79BC  VA 00FA79BC
+    01A9F17F  engine.exe+BAF17F  VA 00FAF17F
+    01AA0283  engine.exe+BB0283  VA 00FB0283
+    011CCBD0  engine.exe+2DCBD0  VA 006DCBD0
+    01225F6C  engine.exe+335F6C  VA 00735F6C
+    0137350E  engine.exe+48350E  VA 0088350E
+    0139487F  engine.exe+4A487F  VA 008A487F
+    015DDA43  engine.exe+6EDA43  VA 00AEDA43
+    013378F2  engine.exe+4478F2  VA 008478F2
+    0166227B  engine.exe+77227B  VA 00B7227B
+    015DDAC0  engine.exe+6EDAC0  VA 00AEDAC0
+    0155E1A1  engine.exe+66E1A1  VA 00A6E1A1
+    015DE22C  engine.exe+6EE22C  VA 00AEE22C
+    0155E1A1  engine.exe+66E1A1  VA 00A6E1A1
+    013378F2  engine.exe+4478F2  VA 008478F2
+    0166227B  engine.exe+77227B  VA 00B7227B
+    015DD9BF  engine.exe+6ED9BF  VA 00AED9BF
+    0155E1A1  engine.exe+66E1A1  VA 00A6E1A1
+    013378F2  engine.exe+4478F2  VA 008478F2
+    0166227B  engine.exe+77227B  VA 00B7227B
+    013EDFD8  engine.exe+4FDFD8  VA 008FDFD8
+    01355B0D  engine.exe+465B0D  VA 00865B0D
+    01C34346  engine.exe+D44346  VA 01144346
+    757DFCC9  KERNEL32.DLL+1FCC9
+    778182AE  ntdll.dll+682AE
+    7781827E  ntdll.dll+6827E
+stack scan, return addresses nearest first:
+    01A69F92  engine.exe+B79F92  VA 00F79F92
+    01A5F64A  engine.exe+B6F64A  VA 00F6F64A
+    01A7AD66  engine.exe+B8AD66  VA 00F8AD66
+    7780C66B  ntdll.dll+5C66B
+    01A7AD66  engine.exe+B8AD66  VA 00F8AD66
+    01A7B232  engine.exe+B8B232  VA 00F8B232
+    01B9F513  engine.exe+CAF513  VA 010AF513
+    01BA2D8C  engine.exe+CB2D8C  VA 010B2D8C
+    01004E5C  engine.exe+114E5C  VA 00514E5C
+    01B9F964  engine.exe+CAF964  VA 010AF964
+    01B23950  engine.exe+C33950  VA 01033950
+    01A7BEA5  engine.exe+B8BEA5  VA 00F8BEA5
+    01A7B805  engine.exe+B8B805  VA 00F8B805
+    01A7D67C  engine.exe+B8D67C  VA 00F8D67C
+    01A7FDA9  engine.exe+B8FDA9  VA 00F8FDA9
+    0113654A  engine.exe+24654A  VA 0064654A
+    011D3074  engine.exe+2E3074  VA 006E3074
+    0715066A  IChat.dll+2066A
+    70150DA2  D3DCOMPILER_47.dll+220DA2
+    7015E6C0  D3DCOMPILER_47.dll+22E6C0
+    7015E6D3  D3DCOMPILER_47.dll+22E6D3
+    700098F2  D3DCOMPILER_47.dll+D98F2
+    700A79AA  D3DCOMPILER_47.dll+1779AA
+    700A79AA  D3DCOMPILER_47.dll+1779AA
+    7005C2D6  D3DCOMPILER_47.dll+12C2D6
+    70150DA2  D3DCOMPILER_47.dll+220DA2
+    7015E6C0  D3DCOMPILER_47.dll+22E6C0
+    7015E6D3  D3DCOMPILER_47.dll+22E6D3
+    70026971  D3DCOMPILER_47.dll+F6971
+    70026F9D  D3DCOMPILER_47.dll+F6F9D
+    111800E5  nvwgf2um.dll+11600E5
+    233300CA  msxml6.dll+1200CA
+    017A821A  engine.exe+8B821A  VA 00CB821A
+    016E4A24  engine.exe+7F4A24  VA 00BF4A24
+    011A45FE  engine.exe+2B45FE  VA 006B45FE
+    07188B19  IntExplorer.dll+8B19
+    07188B19  IntExplorer.dll+8B19
+    01C9BBD8  engine.exe+DABBD8  VA 011ABBD8
+    01C93564  engine.exe+DA3564  VA 011A3564
+    01C935E0  engine.exe+DA35E0  VA 011A35E0
+    01C8E42E  engine.exe+D9E42E  VA 0119E42E
+    01C8B9F7  engine.exe+D9B9F7  VA 0119B9F7
+    01C81A22  engine.exe+D91A22  VA 01191A22
+    01C81A31  engine.exe+D91A31  VA 01191A31
+    0E61CF7B  nvspcap.dll+8CF7B
+    0E613AD6  nvspcap.dll+83AD6
+    0E613B3B  nvspcap.dll+83B3B
+    0E60DDB4  nvspcap.dll+7DDB4
+    0E60B207  nvspcap.dll+7B207
+    0E60DC31  nvspcap.dll+7DC31
+    0E60B207  nvspcap.dll+7B207
+    0E5FE0F5  nvspcap.dll+6E0F5
+    0E5FE104  nvspcap.dll+6E104
+    7780C66B  ntdll.dll+5C66B
+    015DDAC0  engine.exe+6EDAC0  VA 00AEDAC0
+    10498416  nvwgf2um.dll+478416
+    7782334C  ntdll.dll+7334C
+    76CE5711  KERNELBASE.dll+135711
+    101C2F6F  nvwgf2um.dll+1A2F6F
+    018976F4  engine.exe+9A76F4  VA 00DA76F4
+    104A33E2  nvwgf2um.dll+4833E2
+    104A37C2  nvwgf2um.dll+4837C2
+    103CD4C4  nvwgf2um.dll+3AD4C4
+    104A3AAB  nvwgf2um.dll+483AAB
+    104A3ABB  nvwgf2um.dll+483ABB
+    10498416  nvwgf2um.dll+478416
+    1052E67A  nvwgf2um.dll+50E67A
+    1059A92D  nvwgf2um.dll+57A92D
+    1059CD3D  nvwgf2um.dll+57CD3D
+    705F5980  d3d11.dll+125980
+    705F59FB  d3d11.dll+1259FB
+    1052E6E1  nvwgf2um.dll+50E6E1
+    7780B0B9  ntdll.dll+5B0B9
+    76CBEAAB  KERNELBASE.dll+10EAAB
+    7571AC1F  msvcrt.dll+7AC1F
+    7571B733  msvcrt.dll+7B733
+    7571B7BF  msvcrt.dll+7B7BF
+    105999A7  nvwgf2um.dll+5799A7
+    1059C2B7  nvwgf2um.dll+57C2B7
+    10498416  nvwgf2um.dll+478416
+windows of the main thread:
+  window 00100086 class 'CEW_KERNEL' title 'GSC engine' visible=1 rect 0,0-1680,1050 (game)
+  window 00090428 class 'MSCTFIME UI' title 'MSCTFIME UI' visible=0 rect 0,0-0,0
+  window 00110362 class 'IME' title 'Default IME' visible=0 rect 0,0-0,0
+
+==== 2026-10-17 10:08:05  no frame, no frame presented for 58688 ms
+stage: load 'In GameCycle t=106324'  game 'PlayGame_004'
+eip 01C709AE esp 008BD620 ebp 008BD64C
+main thread is at:
+    01C709AE  engine.exe+D809AE  VA 011809AE
+EBP chain:
+    01A5F64A  engine.exe+B6F64A  VA 00F6F64A
+    01B9F513  engine.exe+CAF513  VA 010AF513
+    01B9F964  engine.exe+CAF964  VA 010AF964
+    01B23950  engine.exe+C33950  VA 01033950
+    016DBAB0  engine.exe+7EBAB0  VA 00BEBAB0
+stack scan, return addresses nearest first:
+    01A69F92  engine.exe+B79F92  VA 00F79F92
+    01A5F64A  engine.exe+B6F64A  VA 00F6F64A
+    01897DBB  engine.exe+9A7DBB  VA 00DA7DBB
+    01A6A708  engine.exe+B7A708  VA 00F7A708
+    01B9F513  engine.exe+CAF513  VA 010AF513
+    01B2AACD  engine.exe+C3AACD  VA 0103AACD
+    7780B0B9  ntdll.dll+5B0B9
+    01BA2D8C  engine.exe+CB2D8C  VA 010B2D8C
+    01BA6A9A  engine.exe+CB6A9A  VA 010B6A9A
+    01B9F964  engine.exe+CAF964  VA 010AF964
+    01B23950  engine.exe+C33950  VA 01033950
+    016DBAB0  engine.exe+7EBAB0  VA 00BEBAB0
+    010F9404  engine.exe+209404  VA 00609404
+windows of the main thread:
+  window 00100086 class 'CEW_KERNEL' title '' visible=1 rect 0,0-1680,1050 (game)
+  window 00090428 class 'MSCTFIME UI' title '' visible=0 rect 0,0-0,0
+  window 00110362 class 'IME' title '' visible=0 rect 0,0-0,0
+
+==== 2026-10-17 13:55:27  no frame, no frame presented for 24141 ms
+stage: load 'In GameCycle t=24519'  game 'PlayGame_004'
+eip 7782341C esp 0073EDF0 ebp 0073EE14
+main thread is at:
+    7782341C  ntdll.dll+7341C
+EBP chain:
+    018981D1  engine.exe+9A81D1  VA 00DA81D1
+    01899547  engine.exe+9A9547  VA 00DA9547
+    011BDAA1  engine.exe+2CDAA1  VA 006CDAA1
+    01373691  engine.exe+483691  VA 00883691
+    0139487F  engine.exe+4A487F  VA 008A487F
+    015DDA43  engine.exe+6EDA43  VA 00AEDA43
+    013378F2  engine.exe+4478F2  VA 008478F2
+    0166227B  engine.exe+77227B  VA 00B7227B
+    015DDAC0  engine.exe+6EDAC0  VA 00AEDAC0
+    0155E1A1  engine.exe+66E1A1  VA 00A6E1A1
+    015DE22C  engine.exe+6EE22C  VA 00AEE22C
+    0155E1A1  engine.exe+66E1A1  VA 00A6E1A1
+    013378F2  engine.exe+4478F2  VA 008478F2
+    0166227B  engine.exe+77227B  VA 00B7227B
+    015DD9BF  engine.exe+6ED9BF  VA 00AED9BF
+    0155E1A1  engine.exe+66E1A1  VA 00A6E1A1
+    013378F2  engine.exe+4478F2  VA 008478F2
+    0166227B  engine.exe+77227B  VA 00B7227B
+    013EDFD8  engine.exe+4FDFD8  VA 008FDFD8
+    01355B0D  engine.exe+465B0D  VA 00865B0D
+    01C34346  engine.exe+D44346  VA 01144346
+    757DFCC9  KERNEL32.DLL+1FCC9
+    778182AE  ntdll.dll+682AE
+    7781827E  ntdll.dll+6827E
+stack scan, return addresses nearest first:
+    76CE4D9F  KERNELBASE.dll+134D9F
+    018981D1  engine.exe+9A81D1  VA 00DA81D1
+    01899547  engine.exe+9A9547  VA 00DA9547
+    0114F5A0  engine.exe+25F5A0  VA 0065F5A0
+    011BDAA1  engine.exe+2CDAA1  VA 006CDAA1
+    7780C38F  ntdll.dll+5C38F
+    01265741  engine.exe+375741  VA 00775741
+    0126574C  engine.exe+37574C  VA 0077574C
+    7780C21C  ntdll.dll+5C21C
+    7780C2CB  ntdll.dll+5C2CB
+    757E2647  KERNEL32.DLL+22647
+    01373691  engine.exe+483691  VA 00883691
+    0139487F  engine.exe+4A487F  VA 008A487F
+    0125E678  engine.exe+36E678  VA 0076E678
+    014A8A03  engine.exe+5B8A03  VA 009B8A03
+    015DDA43  engine.exe+6EDA43  VA 00AEDA43
+    0155E1A1  engine.exe+66E1A1  VA 00A6E1A1
+    013378F2  engine.exe+4478F2  VA 008478F2
+    7020DBFD  d3d11.dll+11DBFD
+    777FCA8C  ntdll.dll+4CA8C
+    777FDFA4  ntdll.dll+4DFA4
+    75B1830C  USER32.dll+3830C
+    1059A74C  nvwgf2um.dll+57A74C
+    1059C65C  nvwgf2um.dll+57C65C
+    7020DBFD  d3d11.dll+11DBFD
+    1059A764  nvwgf2um.dll+57A764
+    1059C674  nvwgf2um.dll+57C674
+    70216421  d3d11.dll+126421
+    7021642F  d3d11.dll+12642F
+    01A5E961  engine.exe+B6E961  VA 00F6E961
+    75B180DE  USER32.dll+380DE
+    75B1850F  USER32.dll+3850F
+    7691101C  win32u.dll+101C
+    75B1C67A  USER32.dll+3C67A
+    75B009E5  USER32.dll+209E5
+    01B22AC4  engine.exe+C32AC4  VA 01032AC4
+    0166227B  engine.exe+77227B  VA 00B7227B
+    015DDAC0  engine.exe+6EDAC0  VA 00AEDAC0
+    0155E1A1  engine.exe+66E1A1  VA 00A6E1A1
+    015DE22C  engine.exe+6EE22C  VA 00AEE22C
+    0155E1A1  engine.exe+66E1A1  VA 00A6E1A1
+    013378F2  engine.exe+4478F2  VA 008478F2
+    7020DBFD  d3d11.dll+11DBFD
+    777FCA8C  ntdll.dll+4CA8C
+    777FDFA4  ntdll.dll+4DFA4
+    1059A74C  nvwgf2um.dll+57A74C
+    1059C65C  nvwgf2um.dll+57C65C
+    7020DBFD  d3d11.dll+11DBFD
+    1059A764  nvwgf2um.dll+57A764
+    1059C674  nvwgf2um.dll+57C674
+    70216421  d3d11.dll+126421
+    7021642F  d3d11.dll+12642F
+    01A5E961  engine.exe+B6E961  VA 00F6E961
+    75B180DE  USER32.dll+380DE
+    75B1850F  USER32.dll+3850F
+    7691101C  win32u.dll+101C
+    75B1C67A  USER32.dll+3C67A
+    75B009E5  USER32.dll+209E5
+    01B22AC4  engine.exe+C32AC4  VA 01032AC4
+    0166227B  engine.exe+77227B  VA 00B7227B
+    015DD9BF  engine.exe+6ED9BF  VA 00AED9BF
+    0155E1A1  engine.exe+66E1A1  VA 00A6E1A1
+    013378F2  engine.exe+4478F2  VA 008478F2
+    7020DBFD  d3d11.dll+11DBFD
+    777FCA8C  ntdll.dll+4CA8C
+    777FDFA4  ntdll.dll+4DFA4
+    1059A74C  nvwgf2um.dll+57A74C
+    1059C65C  nvwgf2um.dll+57C65C
+    7020DBFD  d3d11.dll+11DBFD
+    1059A764  nvwgf2um.dll+57A764
+    1059C674  nvwgf2um.dll+57C674
+    70216421  d3d11.dll+126421
+    7021642F  d3d11.dll+12642F
+    01A5E961  engine.exe+B6E961  VA 00F6E961
+    75B180DE  USER32.dll+380DE
+    75B1850F  USER32.dll+3850F
+    7691101C  win32u.dll+101C
+    75B1C67A  USER32.dll+3C67A
+    75B009E5  USER32.dll+209E5
+    01B22AC4  engine.exe+C32AC4  VA 01032AC4
+windows of the main thread:
+  window 003204BE class 'CEW_KERNEL' title 'GSC engine' visible=1 rect 0,0-1680,1050 (game)
+  window 00910414 class 'MSCTFIME UI' title 'MSCTFIME UI' visible=0 rect 0,0-0,0
+  window 0013055A class 'IME' title 'Default IME' visible=0 rect 0,0-0,0
+
+==== 2026-10-18 12:03:17  no frame, no frame presented for 123141 ms
+stage: load 'In GameCycle t=1894'  game 'PlayGame_002'
+eip 1ECD7BA1 esp 069DEA38 ebp 069DEA98
+main thread is at:
+    1ECD7BA1  CoreUIComponents.dll+17BA1
+EBP chain:
+    1ECFEE6F  CoreUIComponents.dll+3EE6F
+    1EB88BBA  textinputframework.dll+28BBA
+    1EB8855D  textinputframework.dll+2855D
+    768D0407  MSCTF.dll+30407
+    768D0155  MSCTF.dll+30155
+    768CF392  MSCTF.dll+2F392
+    74DE0219  USER32.dll+40219
+    76EF56CD  ntdll.dll+756CD
+    74DC433C  USER32.dll+2433C
+    74DC42A7  USER32.dll+242A7
+    00822099  engine.exe+312099  VA 00712099
+    74DE1C0B  USER32.dll+41C0B
+    74DD82CA  USER32.dll+382CA
+    74DD7EE0  USER32.dll+37EE0
+    74DDC3AF  USER32.dll+3C3AF
+    76EF56CD  ntdll.dll+756CD
+    74DC09E5  USER32.dll+209E5
+    009B650D  engine.exe+4A650D  VA 008A650D
+    00BFF2A3  engine.exe+6EF2A3  VA 00AEF2A3
+    009588F2  engine.exe+4488F2  VA 008488F2
+    00C83B1B  engine.exe+773B1B  VA 00B73B1B
+    00BFF320  engine.exe+6EF320  VA 00AEF320
+    00B7FA21  engine.exe+66FA21  VA 00A6FA21
+    00BFFA8C  engine.exe+6EFA8C  VA 00AEFA8C
+    00B7FA21  engine.exe+66FA21  VA 00A6FA21
+    009588F2  engine.exe+4488F2  VA 008488F2
+    00C83B1B  engine.exe+773B1B  VA 00B73B1B
+    00BFF21F  engine.exe+6EF21F  VA 00AEF21F
+    00B7FA21  engine.exe+66FA21  VA 00A6FA21
+    009588F2  engine.exe+4488F2  VA 008488F2
+    00C83B1B  engine.exe+773B1B  VA 00B73B1B
+    00A0F758  engine.exe+4FF758  VA 008FF758
+    00976B0D  engine.exe+466B0D  VA 00866B0D
+    012573C6  engine.exe+D473C6  VA 011473C6
+    76B1FCC9  KERNEL32.DLL+1FCC9
+    76EE82AE  ntdll.dll+682AE
+    76EE827E  ntdll.dll+6827E
+stack scan, return addresses nearest first:
+    1ECFEF0D  CoreUIComponents.dll+3EF0D
+    1ECFEE6F  CoreUIComponents.dll+3EE6F
+    1EB88BBA  textinputframework.dll+28BBA
+    1EB8855D  textinputframework.dll+2855D
+    768D0407  MSCTF.dll+30407
+    74DD5A0C  USER32.dll+35A0C
+    74DD5A57  USER32.dll+35A57
+    74DD5A1D  USER32.dll+35A1D
+    768F50D5  MSCTF.dll+550D5
+    768BEAA9  MSCTF.dll+1EAA9
+    768D0155  MSCTF.dll+30155
+    768CF392  MSCTF.dll+2F392
+    74DD970D  USER32.dll+3970D
+    74DE0219  USER32.dll+40219
+    76EF56CD  ntdll.dll+756CD
+    763A107C  win32u.dll+107C
+    74DD719F  USER32.dll+3719F
+    74DC433C  USER32.dll+2433C
+    74DC42A7  USER32.dll+242A7
+    00822099  engine.exe+312099  VA 00712099
+    76EDB0B9  ntdll.dll+5B0B9
+    74DD631C  USER32.dll+3631C
+    6FC6FA3E  uxtheme.dll+2FA3E
+    74DD7067  USER32.dll+37067
+    74DD6F56  USER32.dll+36F56
+    74DD6FA2  USER32.dll+36FA2
+    74DD6F67  USER32.dll+36F67
+    74DD46D9  USER32.dll+346D9
+    74DDA3AF  USER32.dll+3A3AF
+    76ECCA8C  ntdll.dll+4CA8C
+    76ECDFA4  ntdll.dll+4DFA4
+    74DE1C0B  USER32.dll+41C0B
+    74DD82CA  USER32.dll+382CA
+    768D6013  MSCTF.dll+36013
+    74DD80DE  USER32.dll+380DE
+    74DD7EE0  USER32.dll+37EE0
+    74DDC3AF  USER32.dll+3C3AF
+    74DDC67A  USER32.dll+3C67A
+    012BF32E  engine.exe+DAF32E  VA 011AF32E
+    74DC09E5  USER32.dll+209E5
+    009B650D  engine.exe+4A650D  VA 008A650D
+    0087EED8  engine.exe+36EED8  VA 0076EED8
+    00ACA233  engine.exe+5BA233  VA 009BA233
+    00BFF2A3  engine.exe+6EF2A3  VA 00AEF2A3
+    00B7FA21  engine.exe+66FA21  VA 00A6FA21
+    009588F2  engine.exe+4488F2  VA 008488F2
+    6F16DBFD  d3d11.dll+11DBFD
+    74DD830C  USER32.dll+3830C
+    1059A74C  nvwgf2um.dll+57A74C
+    1059C65C  nvwgf2um.dll+57C65C
+    1059A764  nvwgf2um.dll+57A764
+    1059C674  nvwgf2um.dll+57C674
+    6F176421  d3d11.dll+126421
+    6F17642F  d3d11.dll+12642F
+    01081521  engine.exe+B71521  VA 00F71521
+    74DD850F  USER32.dll+3850F
+    763A101C  win32u.dll+101C
+    01145B14  engine.exe+C35B14  VA 01035B14
+    00C83B1B  engine.exe+773B1B  VA 00B73B1B
+    00BFF320  engine.exe+6EF320  VA 00AEF320
+    00BFFA8C  engine.exe+6EFA8C  VA 00AEFA8C
+    00BFF21F  engine.exe+6EF21F  VA 00AEF21F
+    00F695F0  engine.exe+A595F0  VA 00E595F0
+    00A0F758  engine.exe+4FF758  VA 008FF758
+    00976B0D  engine.exe+466B0D  VA 00866B0D
+    00826C7C  engine.exe+316C7C  VA 00716C7C
+    012573C6  engine.exe+D473C6  VA 011473C6
+    76B1FCC9  KERNEL32.DLL+1FCC9
+    76EE82AE  ntdll.dll+682AE
+    76EE827E  ntdll.dll+6827E
+windows of the main thread:
+  window 001B0440 class 'CEW_KERNEL' title 'GSC engine' visible=1 rect 0,0-1680,1050 (game)
+  window 00020546 class 'MSCTFIME UI' title 'MSCTFIME UI' visible=0 rect 0,0-0,0
+  window 00080554 class 'IME' title 'Default IME' visible=0 rect 0,0-0,0
+
+==== 2026-10-18 14:31:43  no frame, no frame presented for 21437 ms
+stage: load 'In GameCycle t=153198'  game 'PlayGame_004'
+eip 76EF341C esp 069DE9F8 ebp 069DEA1C
+main thread is at:
+    76EF341C  ntdll.dll+7341C
+EBP chain:
+    00EB9CE1  engine.exe+9A9CE1  VA 00DA9CE1
+    00EBC12D  engine.exe+9AC12D  VA 00DAC12D
+    007DE0A1  engine.exe+2CE0A1  VA 006CE0A1
+    00995471  engine.exe+485471  VA 00885471
+    009B665F  engine.exe+4A665F  VA 008A665F
+    00BFF2A3  engine.exe+6EF2A3  VA 00AEF2A3
+    009588F2  engine.exe+4488F2  VA 008488F2
+    00C83B1B  engine.exe+773B1B  VA 00B73B1B
+    00BFF320  engine.exe+6EF320  VA 00AEF320
+    00B7FA21  engine.exe+66FA21  VA 00A6FA21
+    00BFFA8C  engine.exe+6EFA8C  VA 00AEFA8C
+    00B7FA21  engine.exe+66FA21  VA 00A6FA21
+    009588F2  engine.exe+4488F2  VA 008488F2
+    00C83B1B  engine.exe+773B1B  VA 00B73B1B
+    00BFF21F  engine.exe+6EF21F  VA 00AEF21F
+    00B7FA21  engine.exe+66FA21  VA 00A6FA21
+    009588F2  engine.exe+4488F2  VA 008488F2
+    00C83B1B  engine.exe+773B1B  VA 00B73B1B
+    00A0F758  engine.exe+4FF758  VA 008FF758
+    00976B0D  engine.exe+466B0D  VA 00866B0D
+    012573C6  engine.exe+D473C6  VA 011473C6
+    76B1FCC9  KERNEL32.DLL+1FCC9
+    76EE82AE  ntdll.dll+682AE
+    76EE827E  ntdll.dll+6827E
+stack scan, return addresses nearest first:
+    757C4D9F  KERNELBASE.dll+134D9F
+    00EB9CE1  engine.exe+9A9CE1  VA 00DA9CE1
+    00EBC12D  engine.exe+9AC12D  VA 00DAC12D
+    0076F670  engine.exe+25F670  VA 0065F670
+    007DE0A1  engine.exe+2CE0A1  VA 006CE0A1
+    76EDC38F  ntdll.dll+5C38F
+    008861EE  engine.exe+3761EE  VA 007761EE
+    008861F9  engine.exe+3761F9  VA 007761F9
+    76EDC21C  ntdll.dll+5C21C
+    76EDC2CB  ntdll.dll+5C2CB
+    76B22647  KERNEL32.DLL+22647
+    00995471  engine.exe+485471  VA 00885471
+    009B665F  engine.exe+4A665F  VA 008A665F
+    0087EED8  engine.exe+36EED8  VA 0076EED8
+    00ACA233  engine.exe+5BA233  VA 009BA233
+    00BFF2A3  engine.exe+6EF2A3  VA 00AEF2A3
+    00B7FA21  engine.exe+66FA21  VA 00A6FA21
+    009588F2  engine.exe+4488F2  VA 008488F2
+    6F3BDBFD  d3d11.dll+11DBFD
+    76ECCA8C  ntdll.dll+4CA8C
+    76ECDFA4  ntdll.dll+4DFA4
+    1059A74C  nvwgf2um.dll+57A74C
+    1059C65C  nvwgf2um.dll+57C65C
+    1059A764  nvwgf2um.dll+57A764
+    1059C674  nvwgf2um.dll+57C674
+    6F3C6421  d3d11.dll+126421
+    6F3C642F  d3d11.dll+12642F
+    01081521  engine.exe+B71521  VA 00F71521
+    74DD80DE  USER32.dll+380DE
+    74DD850F  USER32.dll+3850F
+    763A101C  win32u.dll+101C
+    74DDC67A  USER32.dll+3C67A
+    74DC09E5  USER32.dll+209E5
+    01145B14  engine.exe+C35B14  VA 01035B14
+    00C83B1B  engine.exe+773B1B  VA 00B73B1B
+    00BFF320  engine.exe+6EF320  VA 00AEF320
+    00BFFA8C  engine.exe+6EFA8C  VA 00AEFA8C
+    74DD830C  USER32.dll+3830C
+    00BFF21F  engine.exe+6EF21F  VA 00AEF21F
+    00F695F0  engine.exe+A595F0  VA 00E595F0
+    00A0F758  engine.exe+4FF758  VA 008FF758
+    00976B0D  engine.exe+466B0D  VA 00866B0D
+    00826C7C  engine.exe+316C7C  VA 00716C7C
+    012573C6  engine.exe+D473C6  VA 011473C6
+    76B1FCC9  KERNEL32.DLL+1FCC9
+    76EE82AE  ntdll.dll+682AE
+    76EE827E  ntdll.dll+6827E
+windows of the main thread:
+  window 000B056A class 'CEW_KERNEL' title 'GSC engine' visible=1 rect 0,0-1680,1050 (game)
+  window 0020059C class 'MSCTFIME UI' title 'MSCTFIME UI' visible=0 rect 0,0-0,0
+  window 000A0552 class 'IME' title 'Default IME' visible=0 rect 0,0-0,0
+
+==== 2026-11-05 10:22:44  no frame, no frame presented for 135219 ms
+stage: load 'In GameCycle t=21069'  game 'PlayGame_001'
+eip 7759101C esp 006FEDB8 ebp 006FEE04
+main thread is at:
+    7759101C  win32u.dll+101C
+EBP chain:
+    75FC09E5  USER32.dll+209E5
+    00FF99F5  engine.exe+4A99F5  VA 008A99F5
+    01241F0C  engine.exe+6F1F0C  VA 00AF1F0C
+    00F9BBC2  engine.exe+44BBC2  VA 0084BBC2
+    012C6EC7  engine.exe+776EC7  VA 00B76EC7
+    01242900  engine.exe+6F2900  VA 00AF2900
+    011C2E41  engine.exe+672E41  VA 00A72E41
+    01243059  engine.exe+6F3059  VA 00AF3059
+    011C2E41  engine.exe+672E41  VA 00A72E41
+    00F9BBC2  engine.exe+44BBC2  VA 0084BBC2
+    012C6EC7  engine.exe+776EC7  VA 00B76EC7
+    012427FF  engine.exe+6F27FF  VA 00AF27FF
+    011C2E41  engine.exe+672E41  VA 00A72E41
+    00F9BBC2  engine.exe+44BBC2  VA 0084BBC2
+    012C6EC7  engine.exe+776EC7  VA 00B76EC7
+    01052B58  engine.exe+502B58  VA 00902B58
+    00FB9E2D  engine.exe+469E2D  VA 00869E2D
+    01809C56  engine.exe+CB9C56  VA 010B9C56
+    76BAFCC9  KERNEL32.DLL+1FCC9
+    77CA82AE  ntdll.dll+682AE
+    77CA827E  ntdll.dll+6827E
+stack scan, return addresses nearest first:
+    75FDC67A  USER32.dll+3C67A
+    01871B8E  engine.exe+D21B8E  VA 01121B8E
+    75FC09E5  USER32.dll+209E5
+    00FF99F5  engine.exe+4A99F5  VA 008A99F5
+    014FD470  engine.exe+9AD470  VA 00DAD470
+    0123E27E  engine.exe+6EE27E  VA 00AEE27E
+    01241F0C  engine.exe+6F1F0C  VA 00AF1F0C
+    011C2E41  engine.exe+672E41  VA 00A72E41
+    00F9BBC2  engine.exe+44BBC2  VA 0084BBC2
+    77C8CA8C  ntdll.dll+4CA8C
+    77C8DFA4  ntdll.dll+4DFA4
+    75FD830C  USER32.dll+3830C
+    76CB62A8  MSCTF.dll+362A8
+    76CB62F9  MSCTF.dll+362F9
+    75FD80DE  USER32.dll+380DE
+    75FD850F  USER32.dll+3850F
+    6F0C3A92  dxgi.dll+73A92
+    75FE1C0B  USER32.dll+41C0B
+    75FD82CA  USER32.dll+382CA
+    1059A764  nvwgf2um.dll+57A764
+    1059C674  nvwgf2um.dll+57C674
+    6F756421  d3d11.dll+126421
+    6F75642F  d3d11.dll+12642F
+    016C3A50  engine.exe+B73A50  VA 00F73A50
+    7759101C  win32u.dll+101C
+    017489CD  engine.exe+BF89CD  VA 00FF89CD
+    012C6EC7  engine.exe+776EC7  VA 00B76EC7
+    01242900  engine.exe+6F2900  VA 00AF2900
+    01243059  engine.exe+6F3059  VA 00AF3059
+    012427FF  engine.exe+6F27FF  VA 00AF27FF
+    01052B58  engine.exe+502B58  VA 00902B58
+    00FB9E2D  engine.exe+469E2D  VA 00869E2D
+    00E680EC  engine.exe+3180EC  VA 007180EC
+    01809C56  engine.exe+CB9C56  VA 010B9C56
+    76BAFCC9  KERNEL32.DLL+1FCC9
+    77CA82AE  ntdll.dll+682AE
+    77CA827E  ntdll.dll+6827E
+windows of the main thread:
+  window 0008079C class 'CEW_KERNEL' title 'GSC engine' visible=1 rect 0,0-1680,1050 (game)
+  window 000B07BA class 'MSCTFIME UI' title 'MSCTFIME UI' visible=0 rect 0,0-0,0
+  window 001605A6 class 'IME' title 'Default IME' visible=0 rect 0,0-0,0
+

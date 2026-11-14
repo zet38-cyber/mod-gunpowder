@@ -1,0 +1,156 @@
+//NullPanel
+#def_panel(0,Internet/pix/i_pri1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1)
+#def_panel(15,Internet/pix/i_pri1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1)
+//TablePanel
+#def_panel(1,Internet/pix/i_pri1,37,38,39,40,43,44,42,41,-1,-1)
+#def_panel(2,Internet/pix/i_pri1,60,61,53,54,62,63,56,55,-1,-1)
+#def_panel(4,Internet/pix/i_pri1,71,72,64,65,73,74,67,66,-1,-1)
+#def_panel(6,Internet/pix/i_pri1,82,83,75,76,84,85,78,77,-1,-1)
+
+#def_panel(3,Internet/pix/i_pri1_old,60,61,53,54,62,63,56,55,57,57)
+#def_panel(5,Internet/pix/i_pri1_old,71,72,64,65,73,74,67,66,68,68)
+#def_panel(7,Internet/pix/i_pri1_old,82,83,75,76,84,85,78,77,79,79)
+
+#def_panel(8,Internet/pix/int_elem,-1,-1,-1,-1,-1,-1,-1,-1,-1,3)
+
+#def_panel(9,Internet/pix/int_elem,-1,-1,-1,-1,-1,-1,-1,0,-1,-1)
+#def_panel(10,Internet/pix/int_elem,-1,-1,-1,-1,-1,2,-1,-1,-1,-1)
+
+#def_panel(11,Internet/pix/i_pri1,12,13,10,11,31,35,17,16,26,26)
+
+#def_panel(12,Interf3/loading,-1,-1,-1,-1,-1,-1,-1,-1,3,3)
+
+#def_box(Internet/pix/i_pri%d,-1,-1,-1,-1,-1,-1,-1,-1,0,0,0,0)
+#def_sbox(Internet/pix/i_pri%d,-1,-1,-1,-1,-1,-1,-1,-1,0,0,0,0,6,-22,22)
+#def_scroll(Internet/pix/scroll,0,0)
+
+#def_sbtn(Internet/pix/int_elem3,0,0,0,0,0,0,2,-2)
+
+#def_dtbl_fon(0,Interf3/background,0)
+#def_dtbl_fon(1,Interf3/elements/delimeter,10,-5,-130)
+#def_dtbl_fon(2,Interf3/elements/delimeter,11,0,40)
+#def_dtbl_top(Internet/pix/i_pri1,23,25,24,21,22,0,18)
+#def_dtbl_top_text(WG16,WG16,0,0)
+#def_dtbl_message(BC14,BC14,1,1,0,0)
+#def_dtbl_button(Internet/pix/i_pri1,45,46,-1,-2,0,2,1)
+#def_dtbl_button_text(WG14,YG14,0,0,0,1)
+#def_dtbl_button_hotkey(13,27,0)
+
+#def_tbl_line(9,10,32,29,0,3)
+#def_tbl(1,1,1,1,30,25,26,32,32,3,3,8,3,-1)
+
+#def_combo(Interf3/elements/combo,0,24)
+#def_combo2(Interf3/elements/combo,0,25,3,24,4,7)
+
+#nfont(BC10,Interf3\fonts\FontC10,FF150E08,none)
+
+#nfont(BC12,Interf3\fonts\FontC12,FF150E08,none)
+#nfont(RC12,Interf3\fonts\FontC12,FF640100,none)
+#nfont(R2C12,Interf3\fonts\FontC12,FF707070,none)
+#nfont(GC12,Interf3\fonts\FontC12,FF6A3000,none)
+
+#nfont(BC14,Interf3\fonts\FontC14,FF150E08,none)
+#nfont(RC14,Interf3\fonts\FontC14,FF640100,none)
+#nfont(R0C14,Interf3\fonts\FontC14,90707070,none)
+#nfont(R2C14,Interf3\fonts\FontC14,FF707070,none)
+#nfont(GC14,Interf3\fonts\FontC14,FF6A3000,none)
+
+#nfont(YG14,Interf3\fonts\FontG14,FFD4C19C,none)
+#nfont(WG14,Interf3\fonts\FontG14,FFFFF5E1,none)
+
+#nfont(YG16,Interf3\fonts\FontG16,FFD4C19C,none)
+#nfont(WG16,Interf3\fonts\FontG16,FFFFF5E1,none)
+
+#nfont(RG18,Interf3\fonts\FontG18,FF640100,none)
+
+#nfont(WG30,Interf3\fonts\FontG30,FFFFF5E1,none)#ebox[%EBG](x:0,y:0,w:1024,h:768)
+#edit[%E_LUP](%EBG[x:0,y:0,w:0,h:0],{%GV_LAST_UPDATE})
+#edit[%E_UD](%EBG[x:0,y:0,w:0,h:0],{%GV_UPDATE_DAT})
+#exec(LW_cfile&1\00&Cookies/%GV_UPDATE_DAT)#font(WG30,WG30,WG30)
+#rtxt[%TI](%EBG[x:0,y:22,w:100%-10,h:30],{},"Интернет игра")
+#def_dtbl_button_hotkey(13,0,27)#def_dtbl_button_hint(Регистрация игрока,Использовать существующего игрока)#table[%TBL](%EBG[x:399,y:217,w:540,h:392],{}{}{GW|open&reg_new_user.dcml\00&cansel=^VE_PROF=^VE_MODE=creat^VE_NAME=<%GV_VE_NAME>^VE_NICK=<%GV_VE_NICK>^VE_MAIL=<%GV_VE_MAIL>^VE_GMID=<%GV_VE_GMID>^VE_PASS=<%GV_VE_PASS>^VE_RASS=<%GV_VE_RASS>^VE_ICQ=<%GV_VE_ICQ>^VE_HOMP=<%GV_VE_HOMP>^VE_SEX=<%GV_VE_SEX>^VE_CNTRY=<%GV_VE_CNTRY>^VE_PHON=<%GV_VE_PHON>^VE_BIRTH=<%GV_VE_BIRTH>^accounts=\00|LW_lockall}{GW|open&change_account2.dcml\00&cansel=^accounts=\00|LW_lockall}{LW_key&#CANCEL},0,11,477,РЕГИСТРАЦИЯ ИГРОКА,,24,Регистрация,Существующий,"Отмена")#def_dtbl_button_hint(,,)
+#ebox[%LBX](x:420,y:213,w:500,h:220)
+
+#font(BC14,RC14,RC14))
+#txt[%L_NAME](%LBX[x:4,y:33,w:100%,h:20],{},"Полное имя")
+#pan[%P_NAME](%LBX[x:183,y:30,w:310,h:18],3)
+#exec(LW_cfile&\00&Cookies/%GV_VE_NAME)
+#edit[%E_NAME](%LBX[x:187,y:30,w:302,h:18],{%GV_VE_NAME},0,0,0,1,60)
+
+#txt[%L_NICK](%LBX[x:4,y:56,w:100%,h:20],{},"Игровое имя")
+#pan[%P_NICK](%LBX[x:183,y:53,w:310,h:18],3)
+#exec(LW_cfile&\00&Cookies/%GV_VE_NICK)
+#edit[%E_NICK](%LBX[x:187,y:53,w:302,h:18],{%GV_VE_NICK},0,0,0,0,30)
+
+#pix[%PX1](%LBX[x:22,y:77,w:100%,h:100%],{},Interf3/elements/delimeter,9,9,9,9)
+
+#txt[%L_MAIL](%LBX[x:4,y:102,w:100%,h:20],{},"E-Mail адрес")
+#pan[%P_MAIL](%LBX[x:183,y:99,w:310,h:18],3)
+#exec(LW_cfile&\00&Cookies/%GV_VE_MAIL)
+#edit[%E_MAIL](%LBX[x:187,y:99,w:302,h:18],{%GV_VE_MAIL},0,0,0,0,60)
+
+#txt[%L_GMID](%LBX[x:4,y:125,w:100%,h:20],{},"Серийный номер")
+#pan[%P_GMID](%LBX[x:183,y:122,w:310,h:18],3)
+#exec(LW_cfile&\00&Cookies/%GV_VE_GMID)
+#edit[%E_GMID](%LBX[x:187,y:122,w:302,h:18],{%GV_VE_GMID},0,0,1,0,30)
+
+#txt[%L_PASS](%LBX[x:4,y:148,w:100%,h:20],{},"Пароль")
+#pan[%P_PASS](%LBX[x:183,y:145,w:310,h:18],3)
+#exec(LW_cfile&\00&Cookies/%GV_VE_PASS)
+#edit[%E_PASS](%LBX[x:187,y:145,w:302,h:18],{%GV_VE_PASS},0,0,1,0,30)
+
+#txt[%L_RASS](%LBX[x:4,y:171,w:100%,h:20],{},"Подтвердить пароль")
+#pan[%P_RASS](%LBX[x:183,y:168,w:310,h:18],3)
+#exec(LW_cfile&\00&Cookies/%GV_VE_RASS)
+#edit[%E_RASS](%LBX[x:187,y:168,w:302,h:18],{%GV_VE_RASS},0,0,1,0,30)
+
+#txt[%L_ICQ](%LBX[x:4,y:194,w:100%,h:20],{},"Номер ICQ")
+#pan[%P_ICQ](%LBX[x:183,y:191,w:310,h:18],3)
+#exec(LW_cfile&\00&Cookies/%GV_VE_ICQ)
+#edit[%E_ICQ](%LBX[x:187,y:191,w:302,h:18],{%GV_VE_ICQ},0,0,0,0,60)
+
+#txt[%L_HOMP](%LBX[x:4,y:217,w:100%,h:20],{},"Домашняя страница")
+#pan[%P_HOMP](%LBX[x:183,y:214,w:310,h:18],3)
+#exec(LW_cfile&\00&Cookies/%GV_VE_HOMP)
+#edit[%E_HOMP](%LBX[x:187,y:214,w:302,h:18],{%GV_VE_HOMP},0,0,0,0,60)
+
+#pix[%PX2](%LBX[x:22,y:238,w:100%,h:100%],{},Interf3/elements/delimeter,9,9,9,9)
+
+#txt[%L_SEX](%LBX[x:4,y:263,w:100%,h:20],{},"Пол")
+#exec(LW_cfile&\00&Cookies/%GV_VE_SEX)
+#cbb[%E_SEX](%LBX[x:183,y:259,w:310,h:18],{%GV_VE_SEX},"Муж","Жен","Не определен",0)
+
+#txt[%L_CNTRY](%LBX[x:4,y:286,w:100%,h:20],{},"Страна")
+#exec(LW_cfile&\00&Cookies/%GV_VE_CNTRY)
+#cbb[%E_CNTRY](%LBX[x:183,y:282,w:310,h:18],{%GV_VE_CNTRY},Австралия,Австрия,Азербайджан,Албания,Алжир,Американское Самоа,Ангилла,Ангола,Андорра,Антарктика,Антигуа и Барбуда,Аргентина,Армения,Аруба,Афганистан,Багамские О-ва,Бангладеш,Барбадос,Бахрейн,Беларусь,Белиз,Бельгия,Бенин,Берег Слоновой Кости,Бермудские О-ва,Болгария,Боливия,Босния и Герцеговина,Ботсвана,Бразилия,Британские территории в Индийском океане,Бруней,Буркина-Фасо,Бурунди,Бутан,Вануату,Ватикан,Великобритания,Венгрия,Венесуэла,Виргинские о-ва [Великобритания],Виргинские о-ва,Внешние О-ва США,Восточный Тимор,Вьетнам,Габон,Гаити,Гайана,Гамбия,Гана,Гваделупа,Гватемала,Гвиана,Гвинея,Гвинея-Бисау,Германия,Гибралтар,Гондурас,Гонконг,Гренада,Гренладния,Греция,Грузия,Гуам,Дания,Джибути,Доминика,Доминиканская Республика,Египет,Замбия,Зимбабве,Израиль,Индия,Индонезия,Иордания,Ирак,Иран,Ирландия,Исландия,Испания,Италия,Йемен,Кабо-Верде,Казахстан,Каймановы О-ва,Камбоджа,Камерун,Канада,Катар,Кения,Кипр,Киргистан,Кирибати,Китай,Кокосовые О-ва,Колумбия,Коморы,Конго,Конго,Корея,Коста-Рика,Куба,Кувейт,Лаос,Латвия,Лесото,Либерия,Ливан,Ливия,Литва,Лихтенштейн,Люксембург,Маврикий,Мавритания,Мадагаскар,Майот,Макау,Македония,Малави,Малайзия,Мали,Мальдивы,Мальта,Марокко,Маршалловы О-ва,Мексика,Микронезия,Мозамбик,Молдова,Монако,Монголия,Монсеррат,Мьянма,Намибия,Науру,Непал,Нигер,Нигерия,Нидерландские Антиллы,Нидерланды,Никарагуа,Ниу,Новая Зеландия,Норвегия,О-в Бувет,о-в Матриника,о-в Новая Каледония,О-в Норфолк,о-в Питкэрн,о-в Реюньон,О-в Рождества,О-в Святой Елены,О-ва Герда и МакДональда,О-ва Кука,о-ва Палау,о-ва Самоа,о-ва Токелау,О-ва Уоллис и Футуна,Объединенные Арабские Эмираты,Оман,Пакистан,Панама,Папуа - Новая Гвинея,Парагвай,Перу,Польша,Португалия,Пуэрто-Рико,Россия,Руанда,Румыния,Сальвадор,Сан-Марино,Сао Том и Принсип,Саудовская Аравия,Свазиленд,Свалбард и Ян Маен,Северная Корея,Сейшельские О-ва,Сен Пьер и Микелон,Сенегал,Сент-Винсент и Гренадины,Сент-Китс и Невис,Сент-Люсия,Серевные Марианские о-ва,Сингапур,Сирия,Словакия,Словения,Соломоновы О-ва,Сомали,Судан,Суринам,США,Сьерра-Леоне,Таджикистан,Тайвань,Тайланд,Танзания,Того,Тонга,Тринидад и Тобаго,Тувалу,Тунис,Туркменистан,Туркс и Кейкес,Турция,Уганда,Узбекистан,Украина,Уругвай,Фарерские О-ва,Фиджи,Филиппины,Финляндия,Фолклендские О-ва,Франция,Французская Полинезия,Французские Южные владения,Хорватия ,Цвеция,Центральноафриканская республика,Чад,Чехия,Чили,Швейцария,Шри Ланка,Эквадор,Экваториальная Гвинея,Эритрея,Эстония,Эфиопия,Югославия,Южная Африка,Южная Джорджия,Ямайка,Япония,0)
+
+#pix[%PX3](%LBX[x:22,y:307,w:100%,h:100%],{},Interf3/elements/delimeter,9,9,9,9)
+
+#txt[%L_PHON](%LBX[x:4,y:332,w:100%,h:20],{},"Домашний телефон")
+#pan[%P_PHON](%LBX[x:183,y:329,w:310,h:18],3)
+#exec(LW_cfile&\00&Cookies/%GV_VE_PHON)
+#edit[%E_PHON](%LBX[x:187,y:329,w:302,h:18],{%GV_VE_PHON},0,0,0,0,30)
+
+#txt[%L_BIRTH](%LBX[x:4,y:355,w:100%,h:20],{},"Дата рождения")
+#pan[%P_BIRTH](%LBX[x:183,y:352,w:310,h:18],3)
+#exec(LW_cfile&\00&Cookies/%GV_VE_BIRTH)
+#edit[%E_BIRTH](%LBX[x:187,y:352,w:302,h:18],{%GV_VE_BIRTH},0,0,0,0,30)
+<MESDLG>
+<MESDLG>
+
+#block(l_games_btn.cml,CAN)<MESDLG>
+<MESDLG>
+#end(CAN)
+
+#hint(%L_NAME,"Введите свое имя")
+#hint(%L_NICK,"Введите свой ник")
+#hint(%L_MAIL,"Введите e-mail адрес")
+#hint(%L_PASS,"Введите свой пароль")
+#hint(%L_RASS,"Введите свой пароль")
+#hint(%L_GMID,"Введите серийный номер игры")
+#hint(%L_ICQ,"Введите номер ICQ")
+#hint(%L_HOMP,"Введите адрес домашней страницы")
+#hint(%L_SEX,"Выберите свой пол")
+#hint(%L_CNTRY,"Выберите страну")
+#hint(%L_PHON,"Введите номер вашего домашнего телефона")
+#hint(%L_BIRTH,"Введите дату рождения (ДД/ММ/ГГГГ)")

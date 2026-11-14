@@ -1,0 +1,220 @@
+[MEMBERS]
+GuardEngEgr(GU)     GuardEngEgr
+GuardEngEgrNG(GU)   GuardEngEgrNG
+GuardEngGre(GU)     GuardEngGre
+GuardEngKDrgT(GU)   GuardEngKDrgT
+GuardRusEgr(GU)     GuardRusEgr
+GuardRusKChKoz(GU)  GuardRusKChKoz
+GuardRusKKir(GU)    GuardRusKKir
+GuardRusMus(GU)     GuardRusMus
+GuardPruMus(GU)     GuardPruMus
+GuardPruEgr(GU)     GuardPruEgr
+GuardPruKDrg(GU)    GuardPruKDrg
+GuardPruGva(GU)     GuardPruGva
+GuardFrnGre(GU)     GuardFrnGre
+GuardFrnKGre(GU)    GuardFrnKGre
+GuardFrnKMam(GU)    GuardFrnKMam
+GuardFrnKKar(GU)    GuardFrnKKar
+GuardAusGre(GU)     GuardAusGre
+GuardAusEgr(GU)     GuardAusEgr
+GuardAusKGus(GU)    GuardAusKGus
+GuardAusKKir(GU)    GuardAusKKir
+GuardEgpMus(GU)     GuardEgpMus
+GuardEgpEgr(GU)     GuardEgpEgr
+GuardEgpKMamL(GU)   GuardEgpKMamL
+GuardEgpKMamT(GU)   GuardEgpKMamT
+GuardSpnMus(GU)     GuardSpnMus
+GuardSpnGre(GU)     GuardSpnGre
+GuardSpnKEgr(GU)    GuardSpnKEgr
+GuardSpnKDrg(GU)    GuardSpnKDrg
+GuardPolKUln(GU)    GuardPolKUln
+GuardPolKGus(GU)    GuardPolKGus
+GuardPolKKra(GU)    GuardPolKKra
+GuardPolGre(GU)     GuardPolGre
+GuardVesGre(GU)     GuardVesGre
+GuardVesEgr(GU)     GuardVesEgr
+GuardVesKLan(GU)    GuardVesKLan
+GuardVesKGus(GU)    GuardVesKGus
+
+[COUNTRY]  
+GUARD 45  
+#FRANCH
+GuardFrnGre(GU)
+GuardFrnKGre(GU)
+GuardFrnKMam(GU)
+GuardFrnKKar(GU)
+#ENGLAND
+GuardEngEgr(GU)
+GuardEngEgrNG(GU)
+GuardEngGre(GU)
+GuardEngKDrgT(GU)
+#RUSSIA
+GuardRusEgr(GU)
+GuardRusKChKoz(GU)
+GuardRusKKir(GU)
+GuardRusMus(GU)
+#AUSTRIA
+GuardAusGre(GU)   
+GuardAusEgr(GU)   
+GuardAusKGus(GU)  
+GuardAusKKir(GU)  
+#PRUSSIA
+GuardPruMus(GU)     
+GuardPruEgr(GU) 
+GuardPruKDrg(GU)  
+GuardPruGva(GU)  
+#EGIPET
+GuardEgpMus(GU)    
+GuardEgpEgr(GU)    
+GuardEgpKMamL(GU)  
+GuardEgpKMamT(GU) 
+#VESTFAL
+GuardVesGre(GU)     
+GuardVesEgr(GU)     
+GuardVesKLan(GU)    
+GuardVesKGus(GU)  
+#SPAIN 
+GuardSpnMus(GU)     
+GuardSpnGre(GU)     
+GuardSpnKEgr(GU)    
+GuardSpnKDrg(GU)
+#POLAND
+GuardPolKUln(GU)    
+GuardPolKGus(GU)    
+GuardPolKKra(GU)    
+GuardPolGre(GU)     
+[OFFICERS]
+
+GuardVesGre(GU)  NONE 3
+SQUARE 1 #SQUARE120   1 GuardVesGre(GU) 
+LINE   1 #LINE120COS  1 GuardVesGre(GU) 
+KARE   1 #KARE120COS  1 GuardVesGre(GU) 
+GuardFrnGre(GU) NONE 3
+SQUARE 1 #SQUARE120   1 GuardFrnGre(GU)
+LINE   1 #LINE120COS  1 GuardFrnGre(GU)
+KARE   1 #KARE120COS  1 GuardFrnGre(GU)
+GuardAusGre(GU) NONE 3
+SQUARE 1 #SQUARE120   1 GuardAusGre(GU)
+LINE   1 #LINE120COS  1 GuardAusGre(GU)
+KARE   1 #KARE120COS  1 GuardAusGre(GU)
+GuardEgpMus(GU) NONE 3
+SQUARE 1 #SQUARE120   1 GuardEgpMus(GU)
+LINE   1 #LINE120COS  1 GuardEgpMus(GU)
+KARE   1 #KARE120COS  1 GuardEgpMus(GU)
+GuardPolGre(GU) NONE 3
+SQUARE 1 #SQUARE120   1 GuardPolGre(GU)
+LINE   1 #LINE120COS  1 GuardPolGre(GU)
+KARE   1 #KARE120COS  1 GuardPolGre(GU) 
+GuardSpnGre(GU) NONE 3
+SQUARE 1 #SQUARE120   1 GuardSpnGre(GU) 
+LINE   1 #LINE120COS  1 GuardSpnGre(GU) 
+KARE   1 #KARE120COS  1 GuardSpnGre(GU) 
+GuardSpnMus(GU) NONE 3
+SQUARE 1 #SQUARE120   1 GuardSpnMus(GU)
+LINE   1 #LINE120COS  1 GuardSpnMus(GU)
+KARE   1 #KARE120COS  1 GuardSpnMus(GU)
+GuardPruMus(GU) NONE 3
+SQUARE 1 #SQUARE120   1 GuardPruMus(GU)
+LINE   1 #LINE120COS  1 GuardPruMus(GU)
+KARE   1 #KARE120COS  1 GuardPruMus(GU)
+GuardEngEgr(GU) NONE 3
+SQUARE 1 #SQUARE120   1 GuardEngEgr(GU)
+LINE   1 #LINE120COS  1 GuardEngEgr(GU)
+KARE   1 #KARE120COS  1 GuardEngEgr(GU)
+GuardRusMus(GU) NONE 3
+SQUARE 1 #SQUARE120   1 GuardRusMus(GU)
+LINE   1 #LINE120COS  1 GuardRusMus(GU)
+KARE   1 #KARE120COS  1 GuardRusMus(GU)
+GuardEngGre(GU) NONE 3
+SQUARE 1 #SQUARE120   1 GuardEngGre(GU)
+LINE   1 #LINE120COS  1 GuardEngGre(GU)
+KARE   1 #KARE120COS  1 GuardEngGre(GU)
+GuardRusKKir(GU) NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardRusKKir(GU)
+PRUS   1 #PRUS45COS  1 GuardRusKKir(GU)
+TRI    1 #TRI1COS45  1 GuardRusKKir(GU)
+GuardRusKChKoz(GU) NONE  3
+SHER   1 #MOVR2COS45 1 GuardRusKChKoz(GU)
+LINE   1 #ÑOS100SHER 1 GuardRusKChKoz(GU)
+KARE   1 #TRI1COS45  1 GuardRusKChKoz(GU)
+GuardEngKDrgT(GU) NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardEngKDrgT(GU)
+LINE   1 #PRUS45COS  1 GuardEngKDrgT(GU)
+KARE   1 #TRI1COS45  1 GuardEngKDrgT(GU)
+GuardPruGva(GU) NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardPruGva(GU)
+LINE   1 #PRUS45COS  1 GuardPruGva(GU)
+KARE   1 #TRI1COS45  1 GuardPruGva(GU)
+GuardPruKDrg(GU) NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardPruKDrg(GU)
+LINE   1 #PRUS45COS  1 GuardPruKDrg(GU)
+KARE   1 #TRI1COS45  1 GuardPruKDrg(GU)
+GuardSpnKEgr(GU) NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardSpnKEgr(GU) 
+LINE   1 #PRUS45COS  1 GuardSpnKEgr(GU) 
+KARE   1 #TRI1COS45  1 GuardSpnKEgr(GU) 
+GuardSpnKDrg(GU) NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardSpnKDrg(GU)
+LINE   1 #PRUS45COS  1 GuardSpnKDrg(GU)
+KARE   1 #TRI1COS45  1 GuardSpnKDrg(GU)
+GuardPolKUln(GU) NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardPolKUln(GU) 
+PRUS   1 #PRUS45COS  1 GuardPolKUln(GU) 
+TRI    1 #TRI1COS45  1 GuardPolKUln(GU) 
+GuardPolKGus(GU) NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardPolKGus(GU) 
+PRUS   1 #PRUS45COS  1 GuardPolKGus(GU) 
+TRI    1 #TRI1COS45  1 GuardPolKGus(GU) 
+GuardPolKKra(GU) NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardPolKKra(GU) 
+PRUS   1 #PRUS45COS  1 GuardPolKKra(GU) 
+TRI    1 #TRI1COS45  1 GuardPolKKra(GU) 
+GuardEgpKMamT(GU) NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardEgpKMamT(GU) 
+PRUS   1 #PRUS45COS  1 GuardEgpKMamT(GU)
+TRI    1 #TRI1COS45  1 GuardEgpKMamT(GU) 
+GuardEgpKMamL(GU) NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardEgpKMamL(GU) 
+PRUS   1 #PRUS45COS  1 GuardEgpKMamL(GU) 
+TRI    1 #TRI1COS45  1 GuardEgpKMamL(GU)  
+GuardAusKGus(GU) NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardAusKGus(GU)
+PRUS   1 #PRUS45COS  1 GuardAusKGus(GU) 
+TRI    1 #TRI1COS45  1 GuardAusKGus(GU)
+GuardAusKKir(GU)  NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardAusKKir(GU) 
+PRUS   1 #PRUS45COS  1 GuardAusKKir(GU) 
+TRI    1 #TRI1COS45  1 GuardAusKKir(GU) 
+GuardFrnKGre(GU)  NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardFrnKGre(GU) 
+PRUS   1 #PRUS45COS  1 GuardFrnKGre(GU) 
+TRI    1 #TRI1COS45  1 GuardFrnKGre(GU)
+GuardFrnKMam(GU)  NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardFrnKMam(GU)
+PRUS   1 #PRUS45COS  1 GuardFrnKMam(GU) 
+TRI    1 #TRI1COS45  1 GuardFrnKMam(GU) 
+GuardFrnKKar(GU)  NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardFrnKKar(GU) 
+PRUS   1 #PRUS45COS  1 GuardFrnKKar(GU)
+TRI    1 #TRI1COS45  1 GuardFrnKKar(GU)
+GuardVesKLan(GU)   NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardVesKLan(GU) 
+PRUS   1 #PRUS45COS  1 GuardVesKLan(GU) 
+TRI    1 #TRI1COS45  1 GuardVesKLan(GU) 
+GuardVesKGus(GU)  NONE  3
+SQUARE 1 #MOVR2COS45 1 GuardVesKGus(GU) 
+PRUS   1 #PRUS45COS  1 GuardVesKGus(GU) 
+TRI    1 #TRI1COS45  1 GuardVesKGus(GU) 
+GuardEngEgrNG(GU) NONE 1
+LINE   1 #LINE15COSEGR  1 GuardEngEgrNG(GU)
+GuardRusEgr(GU) NONE 1
+LINE   1 #LINE15COSEGR  1 GuardRusEgr(GU)
+GuardPruEgr(GU) NONE 1
+LINE   1 #LINE15COSEGR  1 GuardPruEgr(GU)
+GuardEgpEgr(GU) NONE 1
+LINE   1 #LINE15COSEGR  1 GuardEgpEgr(GU) 
+GuardAusEgr(GU)  NONE 1
+LINE   1 #LINE15COSEGR  1 GuardAusEgr(GU)
+GuardVesEgr(GU)  NONE 1
+LINE   1 #LINE15COSEGR  1 GuardVesEgr(GU) 
+[END]

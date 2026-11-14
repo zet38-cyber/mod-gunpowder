@@ -1,0 +1,25 @@
+C2 placement log, V 2.16
+Sector 28, attack direction 4 (0 E, 1 NE, 2 N, 3 NW, 4 W, 5 SW, 6 S, 7 SE), PlayerStat 0
+Map limits: x 32..15360, y -32..15392 px
+
+Nation files swapped by this map:
+  sector09.nds in place of PRUSSIA.NDS
+No officer records needed giving back.
+
+Attacker: NI 1, nation 1
+  UnitFuzNG(FR)              3 squads (branch 0)
+  UnitFuz(FR)                1 squads (branch 0)
+Defender: NI 0, nation 8
+  UnitFuz(RE)                3 squads (branch 0)
+  UnitVol(RE)                1 squads (branch 0)
+
+Squads as placed. men = men in the squad; off = past the map limits, edge = within 256 px
+of them, blocked = on ground units cannot stand on (sea, cliffs, buildings).
+NI 1  UnitFuzNG(FR)            slot ( 1176, 7061) zone ( 1169, 6886)  men 123  off   0 edge   0 blocked   0  ok
+NI 1  UnitFuzNG(FR)            slot ( 1343, 6893) zone ( 1169, 6886)  men 123  off   0 edge   0 blocked   0  ok
+NI 1  UnitFuz(FR)              slot ( 1078, 6797) zone ( 1169, 6886)  men 123  off   0 edge   0 blocked   0  ok
+NI 1  UnitFuzNG(FR)            slot (  992, 9478) zone (  992, 9478)  men 123  off   0 edge   0 blocked   0  ok
+NI 0  UnitMus(RE)              slot (14426, 3480) zone (14601, 3473)  men 123  off   0 edge   0 blocked   0  ok
+NI 0  UnitMus(RE)              slot (14594, 3647) zone (14601, 3473)  men 123  off   0 edge   0 blocked   0  ok
+NI 0  UnitFuz(RE)              slot (14690, 3382) zone (14601, 3473)  men 123  off   0 edge   0 blocked   0  ok
+NI 0  UnitMus(RE)              slot (14856, 5562) zone (14856, 5562)  men 123  off   0 edge   0 blocked   0  ok

@@ -1,0 +1,14 @@
+#ServerIP IP сервера
+#ServerIP_Hint Вкл/Выкл Сетевой/Модемный IP адрес сервера
+#ServerIPinput_Hint Ввести IP адрес сервера
+#MyBldCaptured Враг захватил строение: %s
+#EnemyBldCaptured Вы захватили строение врага: %s
+#PriestAttackHint {CG}Лечить солдата{C} - автоматически лечит и поднимает боевой дух солдат в отряде
+#BackToChat Чат
+#BackToChat_Hint Вернуться в общий чат, не выходя из этой комнаты
+#EnableTowerAttack_Hint Включить/Выключить автоматический огонь
+#TownHallUnderAttack Ваш Городской Центр атакован!
+#ChatTitle Ctrl: сообщения только союзникам
+#ChatAlly Союзникам:
+#ChatToAll Всем:
+#ChatCheat Чит-код:

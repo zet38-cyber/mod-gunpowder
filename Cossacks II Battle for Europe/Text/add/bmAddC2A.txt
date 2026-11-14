@@ -1,0 +1,101 @@
+// big map add text
+#CWT_BigMapHead {FM}ЗАВОЕВАНИЕ ЕВРОПЫ. {C FF003CEE}%s{C} ({C FFA51010}%s{C})
+
+#CWT_Year	{CR}%d{C} год
+#CHINT_Year	Текущий год
+
+// Sabotage {FS}
+#CWM_Diversion0	- Отравить колодцы в поселениях (%s золота; %d%%)
+#CWM_Diversion1	- Разрушить склады с ресурсами (%s золота; %d%%)
+#CWM_Diversion2	- Подорвать казармы гарнизона (%s золота; %d%%)
+#CWM_Diversion3	- Поднять восстание (%s золота; %d%%)
+#CWM_Diversion4	- Покушение на командира (%s золота; %d%%)
+
+#CWM_DiversionDone4	Наемники успешно провели операцию. Вражеский командующий был отравлен и погиб. Теперь армию возглавит другой командир. Диверсия прошла успешно!
+#CHINT_Diversion4	Нанять группу наемников, которые совершат покушение на командующего иностранной армией. В случае удачи армию возглавит командир рангом ниже.
+
+// QUESTS
+#CQM_AttackForAlly0	%s и %s предлагают атаковать страну {CR}%s{C} и захватить один из ее секторов. За эту услугу предлагают вступление в свой союз и {CR}%d{C} золота.
+#CQM_AttackForAlly1	%s и %s за оказанную услугу (атаку {CR}%s{C}) платят {CR}%d{C} золота и принимают страну в свой союз.\ ({CR}Задание выполнено{C})
+
+#CQM_DefeatNation0	%s просит уничтожить страну {CR}%s{C} (захватить все сектора). За эту услугу предлагает {CR}%d{C} золота.
+#CQM_DefeatNation1	%s за оказанную услугу (захват секторов {CR}%s{C}) платит {CR}%d{C} золота.\ ({CR}Задание выполнено{C})
+
+#CQM_AttackHero0	%s просит атаковать и нанести поражение командующему вражеской армии ({CR}%s{C}, {CR}%s{C}). За эту услугу предлагает {CR}%d{C} золота.
+#CQM_AttackHero1	%s за оказанную услугу (атаку {CR}%s{C}) платит {CR}%d{C} золота.\ ({CR}Задание выполнено{C})
+
+// DIPLOMACY
+#CDB_Button1	Объявить войну
+#CDB_Button2	Предложить мир
+#CDB_Button3	Пакт о ненападении
+#CDB_Button4	Запросить право прохода
+#CDB_Button5	Войти в альянс
+#CDB_Button6	Предложить союз
+
+#CDT_MessHead3	ПРАВО ПРОХОДА
+
+#CDT_ST_WAR	{FS}{CR}В{C} 
+#CDT_ST_PEACE	{FS}{CG}М{C} 
+#CDT_ST_NONA	{FS}{CG}Н{C}
+#CDT_ST_PASS	{FS}{CG}П{C}
+#CDT_ST_ALLY	{FS}{CG}А{C}
+#CDT_ST_NONA_PASS {FS}{CG}Н,П{C}
+
+// Country Names
+#ENGLANDС	Британия
+#FRANCEС	Франция
+#AUSTRIAС	Австрия
+#PRUSSIAС	Пруссия
+#RUSSIAС	Россия
+#EGYPTС 	Египет
+
+#POLANDC	Польша
+#SPAINC 	Испания
+#REINC  	Союз Рейна 
+
+Sector24	Хихон
+Sector25	Мадрид
+Sector26	Гренада
+Sector27	Валенсия
+Sector28	Штутгард
+Sector29	Ганновер
+Sector30	Франкфурт
+Sector31	Познань
+Sector32	Краков
+Sector33	Таллин
+// end of Country Names
+
+// Commanders Data
+#HERO_PO_0	Княжевич
+#HERO_PO_1	Красинский
+#HERO_PO_2	Понятовский
+#HERO_PO_3	Зайончек
+#HERO_PO_4	PO4
+#HERO_PO_5	PO5
+#HERO_PO_6	PO6
+#HERO_PO_7	PO7
+#HERO_PO_8	PO8
+#HERO_PO_9	PO9
+
+#HERO_SP_0	Кастаньоc
+#HERO_SP_1	Баллестерос
+#HERO_SP_2	Де Алава
+#HERO_SP_3	Эспос-и-Мина
+#HERO_SP_4	SP4
+#HERO_SP_5	SP5
+#HERO_SP_6	SP6
+#HERO_SP_7	SP7
+#HERO_SP_8	SP8
+#HERO_SP_9	SP9
+
+#HERO_RE_0	Фон Герсдорф
+#HERO_RE_1	Эрнст I
+#HERO_RE_2	Фон Охс
+#HERO_RE_3	Вильгельм I
+#HERO_RE_4	RE4
+#HERO_RE_5	RE5
+#HERO_RE_6	RE6
+#HERO_RE_7	RE7
+#HERO_RE_8	RE8
+#HERO_RE_9	RE9
+// end of Commanders Data

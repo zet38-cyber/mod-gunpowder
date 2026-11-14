@@ -1,0 +1,21 @@
+<>
+ <Aka>
+  <cvi_SinglePlayerData>
+   <NDoneMission>
+    <e0>0</e0>
+    <e1>0</e1>
+    <e2>0</e2>
+    <e3>0</e3>
+    <e4>0</e4>
+   </NDoneMission>
+   <PlayerName>Player</PlayerName>
+   <Difficulty>0</Difficulty>
+   <Heri></Heri>
+   <Movies></Movies>
+   <CampMessageCheck>true</CampMessageCheck>
+   <ESRBMessageCheck>true</ESRBMessageCheck>
+  </cvi_SinglePlayerData>
+ </Aka>
+ <CurAkaID>0</CurAkaID>
+ <PlayerNick></PlayerNick>
+</>

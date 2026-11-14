@@ -1,0 +1,38 @@
+#GREG		Greg Chaffy
+#CURTIS		Curtis Farnbroe 
+#AMY		Emily 
+#SCHEFFSLY	Baron Sheffsley
+#WILDY		Corporal Wildings
+
+#M04_REPLIC11	Greg, I'm afraid I have distressing news. Promise you won't act hastily when I tell you what happened.
+#M04_REPLIC12	What is it? Tell me, please! You know I never act hastily. But hesitation can cost us dearly.
+#M04_REPLIC13	McKeith has captured Emily.
+#M04_REPLIC14	Emily?  Tell me it's not true!
+#M04_REPLIC15	I wish I could. Earl Cope is on his way with Emily to McKeith's estate. McKeith will try to make her marry him. She belongs to a noble family and he's eager to get a duchy.
+#M04_REPLIC16	We must save her! But, we can't leave Manchester unprotected. McKeith's land is on the other side of Cope's estate. Cope will not allow us to pass unabated. We'll have to fight the old warrior to cross his land. But, we must beware of that sly fox Sheffsley, who lives nearby. He would absolutely jump at the chance to stab us in the back.
+#M04_REPLIC17	In that case, I suggest securing our right flank by crushing Sheffsley and then attacking Cope. We don't need many troops to defeat Sheffsley. But we'll have to use all our might to beat Cope.
+#M04_REPLIC18	Wildings, give the marching orders. Sheffsley and Cope won't upset our plans. But, if we want to succeed, we must occupy several villages to provide food for our soldiers. Take this into consideration when planning your attack strategy.
+
+
+
+#M04_REPLIC21	Sheffsley is up to something! He's amassed a huge force. 
+#M04_REPLIC22	I told you he yearns to destroy us. That's obviously his plan. We must crush the baron. Show him no mercy. 
+#M04_REPLIC23	Gentlemen! Baron Sheffsley requests a truce.
+#M04_REPLIC24	I can't believe it! What's he up to?
+#M04_REPLIC25	My respect to you, gentlemen. You have been victorious over my troops. But, I don't want to lose everything I own. I offer you an alliance if you leave my property in peace! I will help you fight Earl Cope. 
+#M04_REPLIC26	You are not the most trustworthy ally, sir. But, you leave me no choice. I will not leave an enemy at our backs. We accept your proposal, Baron. But, God save you if you betray us. Order your men to join ours. Together we will fight Earl Cope.
+
+
+#M04_REPLIC31	Emily! My love! I'm so glad Cope didn't take you to McKeith! 
+#M04_REPLIC32	Oh, Greg! I'm so happy to see you! You saved my life! I would have harmed myself if they made me marry that man!
+#M04_REPLIC33	That villain Cope, who helped McKeith incite rebellion against the Crown and kidnap my beloved Emily, will be severely punished.
+#M04_REPLIC34	The field military tribunal returned a guilty verdict against the Earl for kidnapping and inciting rebels to overthrow the government. Cope is sentenced to execution by firing squad for his crimes against the Crown. The sentence is being carried out as we speak. Victory is sweet! 
+#M04_REPLIC35	
+#MIS04_TASK1	You should secure your right flank and eliminate the danger that Baron Sheffsley embodies. Break down the Baron's resistance to the north of your town. Conquer some neighboring villages so that you can fill up your resources and get tactical superiority over your enemy.
+#MIS04_TASK2	Together with Baron Sheffsley, defeat the army led by Earl Cope and raze his estate to the ground. Remember that violent attacks, that don't let your enemy recover, and tactical superiority will lead you to victory.
+
+#LOOSE1		Your town is ruined! Earl Cope showed, once again, that his years in the army were not spent in vain.
+#LOOSE2		Your army is defeated! Without a resource base you won't be able to create more troops in time to prevent Sheffsley from smashing you! You've lost!
+#VICTORY	Earl Cope was shot down for pandering to the enemies of the Crown. Greg Chaffy's personal antipathy played a big part when he gave the order. But, the betrayer had to be punished. You've won.
+
+

@@ -1,0 +1,14 @@
+<CDiplInfoMessages>
+ <CAMess>
+  <CDiplMessage_STRUCT>
+   <Letter>_</Letter>
+   <MessHead>ИНФОРМАЦИЯ</MessHead>
+   <MessText>{C FF101010}Текущий ход: {C FF640100}4{C FF101010}. \Снабжение ресурсами: \  {G 59 10 0 0 42 23} {C FF640100}3000 {G 59 13 0 0 42 23} {C FF640100}16000 {G 59 12 0 0 42 23} {C FF640100}3000 \  {G 59 11 0 0 42 23} {C FF640100}3500 {G 59 14 0 0 42 23} {C FF640100}0 {G 59 15 0 0 42 23} {C FF640100}1000{IBMP_IRECRT} {C FF640100}0</MessText>
+   <pictId>21</pictId>
+   <MessType>0</MessType>
+   <reqId>-1</reqId>
+   <status>1</status>
+   <sortId>-100</sortId>
+  </CDiplMessage_STRUCT>
+ </CAMess>
+</CDiplInfoMessages>
